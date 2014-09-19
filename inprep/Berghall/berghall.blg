@@ -1,0 +1,596 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: berghall.aux
+The style file: unified.bst
+I found no \citation commands---while reading file berghall.aux
+Database file #1: localbibliography.bib.bib
+I was expecting a `,' or a `}'---line 6 of file localbibliography.bib.bib
+ :  
+ :  volume={37},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 20 of file localbibliography.bib.bib
+ :  
+ :  year={2006},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 78 of file localbibliography.bib.bib
+ :  
+ :  publisher={Cambridge University Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 86 of file localbibliography.bib.bib
+ :  
+ :  booktitle={A man of measure: Festschrift in honour of Fred Karlsson on his 60th birthday.} {Special supplement to SKY Journal of Linguistics},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 95 of file localbibliography.bib.bib
+ :  
+ :  publisher={University of California Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 103 of file localbibliography.bib.bib
+ :  
+ :  publisher={H. Holt \& Co}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 111 of file localbibliography.bib.bib
+ :  
+ :  publisher={Wirui Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 121 of file localbibliography.bib.bib
+ :  
+ :  publisher={Australian National University}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 153 of file localbibliography.bib.bib
+ :  
+ :  publisher={John Benjamins}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 237 of file localbibliography.bib.bib
+ :  
+ :  pages={137-170}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 262 of file localbibliography.bib.bib
+ :  
+ :  pages={}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 279 of file localbibliography.bib.bib
+ :  
+ :  publisher={The University of Papua New Guinea},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 288 of file localbibliography.bib.bib
+ :  
+ :  publisher={Foris Publications}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 305 of file localbibliography.bib.bib
+ :  
+ :  publisher={Cambridge University Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 321 of file localbibliography.bib.bib
+ :  
+ :  volume={53},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 381 of file localbibliography.bib.bib
+ :  
+ :  volume={21},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 406 of file localbibliography.bib.bib
+ :  
+ :  volume={13},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 415 of file localbibliography.bib.bib
+ :  
+ :  publisher={Cambridge University Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 423 of file localbibliography.bib.bib
+ :  
+ :  publisher={Stanford University Press}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 458 of file localbibliography.bib.bib
+ :  
+ :  publisher={Lawrence Erlbaum}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 461 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1975,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 472 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1976,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 480 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1979,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 489 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1983,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 497 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1984,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 504 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1990,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 510 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1991,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 521 of file localbibliography.bib.bib
+ : @abc{Giv\'on, 
+ :               1995,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 542 of file localbibliography.bib.bib
+ : In 
+ :    T. Sebeok, ed., {Current trends in linguistics}. Vol. 8: Linguistics in Oceania, 807-876.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 548 of file localbibliography.bib.bib
+ : } 
+ :   {\textup{Vol. 3: Word structure}}\textit{.} Stanford, California: Stanford University Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 554 of file localbibliography.bib.bib
+ : } 
+ :   {\textup{Vol. 4: Syntax.}} Stanford, California: Stanford University Press.
+I'm skipping whatever remains of this entry
+You're missing a field name---line 560 of file localbibliography.bib.bib
+ : 
+ : 14\textsuperscript{th} edition
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 570 of file localbibliography.bib.bib
+ :  
+ :  volume={35},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 577 of file localbibliography.bib.bib
+ : In 
+ :    R.G. Robbins, ed.,{ Lands of the Ramu-Madang area, Papua New Guinea}. Land Research Series No. 37, CSIRO, Melbourne.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 584 of file localbibliography.bib.bib
+ :  
+ :  volume={54},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 591 of file localbibliography.bib.bib
+ : SLC 
+ :     5
+I'm skipping whatever remains of this entry
+You're missing a field name---line 605 of file localbibliography.bib.bib
+ : 
+ : , 1975. {Language} 55.
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 613 of file localbibliography.bib.bib
+ : TSL 
+ :     2.  Amsterdam: John Benjamins.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 620 of file localbibliography.bib.bib
+ :  
+ :  address={Berkeley}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 628 of file localbibliography.bib.bib
+ : Typological 
+ :             studies in language 18. Amsterdam/Philadelphia: John Benjamins
+I'm skipping whatever remains of this entry
+""" immediately follows a field name---line 634 of file localbibliography.bib.bib
+ : Jyv\
+ :     "askyl\"a, Finland: Suomalaisen Kirjallisuuden Seura.
+I'm skipping whatever remains of this entry
+You're missing a field name---line 640 of file localbibliography.bib.bib
+ : 
+ : 2\textsuperscript{nd} edition
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 653 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Typological studies in negation}, TSL 29.  Amsterdam/Philadelphia: John Benjamins, 51-64.
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 659 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 672 of file localbibliography.bib.bib
+ : Unpublished 
+ :             manuscript. SIL archives, Ukarumpa, Papua New Guinea; www.sil.org/resources/archives/31205.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 683 of file localbibliography.bib.bib
+ :  
+ :  volume={56},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 691 of file localbibliography.bib.bib
+ :  
+ :  volume={60},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 698 of file localbibliography.bib.bib
+ : In 
+ :    John Haiman
+I'm skipping whatever remains of this entry
+You're missing a field name---line 702 of file localbibliography.bib.bib
+ : @abc{H\"oltker, 
+ :                 1937,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 715 of file localbibliography.bib.bib
+ :  
+ :  volume={14},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 742 of file localbibliography.bib.bib
+ : London: 
+ :         George Allen and Unwin.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 748 of file localbibliography.bib.bib
+ : London: 
+ :         George Allen and Unwin.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 755 of file localbibliography.bib.bib
+ :  
+ :  volume={30},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 763 of file localbibliography.bib.bib
+ : Waigani: 
+ :          University of Papua NewGuinea.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 769 of file localbibliography.bib.bib
+ : In 
+ :    Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 778 of file localbibliography.bib.bib
+ :  
+ :  volume={8},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 781 of file localbibliography.bib.bib
+ : @abc{Kittil\"a, 
+ :                 2002,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 794 of file localbibliography.bib.bib
+ : Unpublished 
+ :             manuscript. SIL archives, Ukarumpa, Papua New Guinea.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 800 of file localbibliography.bib.bib
+ : Unpublished 
+ :             manuscript. SIL archives, Ukarumpa, Papua New Guinea.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 806 of file localbibliography.bib.bib
+ : Unpublished 
+ :             manuscript. SIL archives, Ukarumpa, Papua New Guinea.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 814 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Studies in componential analysis. Data papers on Papua New Guinea languages},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 824 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Papers from the tenth regional meeting of the Chicago Linguistic Society}, 345-356
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 833 of file localbibliography.bib.bib
+ : A. 
+ :    Wurm, ed., 1975. {Kivung, Journal of the Linguistic Society of Papua New Guinea} 9.1: 72-80.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 839 of file localbibliography.bib.bib
+ : } 
+ :   {\textup{Vol. 15: Madang Province}}. 2\textsuperscript{nd} edition. Lae: Department of Mathematics and Statistics, Papua New Guinea University of Technology.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 845 of file localbibliography.bib.bib
+ : The 
+ :     Hague: Mouton.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 851 of file localbibliography.bib.bib
+ : In 
+ :    John Haiman and Sandra Thompson
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 859 of file localbibliography.bib.bib
+ : New 
+ :     York: Academic Press.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 865 of file localbibliography.bib.bib
+ : In 
+ :    Charles Li
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 873 of file localbibliography.bib.bib
+ : In 
+ :    Talmy Giv\'on,  ed., {Discourse and syntax}. Syntax and semantics 12
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 882 of file localbibliography.bib.bib
+ : TSL 
+ :     26
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 891 of file localbibliography.bib.bib
+ : Cambridge: 
+ :            Cambridge University Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 898 of file localbibliography.bib.bib
+ :  
+ :  address={Cambridge}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 911 of file localbibliography.bib.bib
+ : Cambridge: 
+ :            Cambridge University Press.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 917 of file localbibliography.bib.bib
+ : In 
+ :    Joseph Greenberg, ed., 1978a:125.149.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 923 of file localbibliography.bib.bib
+ : In 
+ :    John Haiman and Sandra Thompson
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 935 of file localbibliography.bib.bib
+ : } 
+ :   Berlin/New York: Mouton de Gruyter.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 941 of file localbibliography.bib.bib
+ : In 
+ :    Felix Ameka, Alan Dench and Nicholas Evans
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 949 of file localbibliography.bib.bib
+ : In 
+ :    Joseph Greenberg, ed. 297-334.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 957 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Studies in transitivity}. Syntax and semantics 15
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"," immediately follows a field name---line 966 of file localbibliography.bib.bib
+ : Glendale
+ :         , California: The Church Press.
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 974 of file localbibliography.bib.bib
+ : @abc
+ :     {Noonan2006,
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 987 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 995 of file localbibliography.bib.bib
+ : Cambridge: 
+ :            Cambridge University Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1003 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Coherence and grounding in discourse}. TSL 11
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1012 of file localbibliography.bib.bib
+ : L. 
+ :    Voorhoeve and the Trans New Guinea phylum hypothesis.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1026 of file localbibliography.bib.bib
+ :  
+ :  {The boy from Bundaberg: studies in Melanesian linguistics in honour of Tom Dutton}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1035 of file localbibliography.bib.bib
+ : In 
+ :    Andrew Pawley, Robert Attenborough, Jack Golson and Robin Hide, eds., vi-xvii.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1041 of file localbibliography.bib.bib
+ : In 
+ :    Andrew Pawley, Robert Attenborough, Jack Golson and Robin Hide
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1049 of file localbibliography.bib.bib
+ : Canberra: 
+ :           Pacific Linguistics.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1055 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1063 of file localbibliography.bib.bib
+ : Cambridge: 
+ :            Cambridge University Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1072 of file localbibliography.bib.bib
+ :  
+ :  volume={7},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1081 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Advances is Functional grammar}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1090 of file localbibliography.bib.bib
+ : Studies 
+ :         in language companion series 13
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1100 of file localbibliography.bib.bib
+ :  
+ :  volume={30},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1108 of file localbibliography.bib.bib
+ : 
+ : , 235-268.
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1114 of file localbibliography.bib.bib
+ : London: 
+ :         Croom Helm.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1121 of file localbibliography.bib.bib
+ :  
+ :  volume={19},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1129 of file localbibliography.bib.bib
+ :  
+ :  volume={8},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1138 of file localbibliography.bib.bib
+ : 
+ : Papers in Papuan linguistics No.
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1146 of file localbibliography.bib.bib
+ : In 
+ :    Connie Baak, Mary Bakker and Dick van der Meij
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1154 of file localbibliography.bib.bib
+ : In 
+ :    Andrew Pawley, Robert Attenborough, Jack Golson and Robin Hide
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1162 of file localbibliography.bib.bib
+ : Unpublished 
+ :             ms. Research School of Pacific and Asian studies, Australian National University.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1168 of file localbibliography.bib.bib
+ : } 
+ :   \textit{Pacific Linguistics}. B-56.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1174 of file localbibliography.bib.bib
+ : M.A. 
+ :      thesis, University of Helsinki.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1180 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1188 of file localbibliography.bib.bib
+ : New 
+ :     York: Harcourt, Brace and World.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1194 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1202 of file localbibliography.bib.bib
+ : Amsterdam: 
+ :            John Benjamins.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1210 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Language Universals}. Papers from the conference held at Gummersbach, October 3-8, 1976
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1219 of file localbibliography.bib.bib
+ : } 
+ :   {\textup{Vols. 1-3}}\textit{.} Cambridge: Cambridge University Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1225 of file localbibliography.bib.bib
+ : } 
+ :   {\textup{Vols. 1-3.}} Second edition
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1235 of file localbibliography.bib.bib
+ :  
+ :  volume={21},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1242 of file localbibliography.bib.bib
+ : } 
+ :   Oxford: Clarendon Press.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1255 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1263 of file localbibliography.bib.bib
+ : Oxford: 
+ :         Clarendon Press.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1271 of file localbibliography.bib.bib
+ :  
+ :  booktitle={Explaining language universals}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1280 of file localbibliography.bib.bib
+ : In 
+ :    Timothy Shopen, ed., Vol.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1289 of file localbibliography.bib.bib
+ :  
+ :  volume={47},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1301 of file localbibliography.bib.bib
+ :  journal={Anthropological linguistics 7.9}
+ :                                           .
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1307 of file localbibliography.bib.bib
+ : Adelaide: 
+ :           Lutheran Publishing House.
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1316 of file localbibliography.bib.bib
+ :  
+ :  volume={13},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 1323 of file localbibliography.bib.bib
+ : Ph.D. 
+ :       dissertation, University of Manitoba.
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 1405 of file localbibliography.bib.bib
+ : 
+ : 
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 0 entries,
+            3166 wiz_defined-function locations,
+            609 strings with 4244 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 8
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 9
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 8
+(There were 125 error messages)

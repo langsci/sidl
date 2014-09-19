@@ -1,0 +1,892 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Baird2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Pacific Linguistics, Research School of Pacific}%
+    {Asian Studies, The Australian National University}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{isbn}{9780858835948}
+  \field{pages}{xv+242}
+  \field{series}{Pacific Linguistics}
+  \field{title}{A grammar of Klon: a non-Austronesian language of Alor,
+  Indonesia}
+  \field{volume}{596}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Bickel2001}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bickel}{B.}%
+     {Balthasar}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BB1}
+  \strng{fullhash}{BB1}
+  \field{labelyear}{2001}
+  \field{sortinit}{B}
+  \field{number}{2}
+  \field{pages}{224\bibrangedash 247}
+  \field{title}{Deictic transposition and referential practice in Belhare}
+  \field{volume}{10}
+  \field{journaltitle}{Journal of Linguistic Anthropology}
+  \field{year}{2001}
+\endentry
+
+\entry{Burenhult2008}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Burenhult}{B.}%
+     {Niclas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BN1}
+  \strng{fullhash}{BN1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{number}{99-142}
+  \field{title}{Spatial coordinate systems in demonstrative meaning}
+  \field{volume}{12}
+  \field{journaltitle}{Linguistic Typology}
+  \field{year}{2008}
+\endentry
+
+\entry{Diessel1999}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Diessel}{D.}%
+     {Holger}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{DH1}
+  \strng{fullhash}{DH1}
+  \field{labelyear}{1999}
+  \field{sortinit}{D}
+  \field{series}{Typological Studies in Language}
+  \field{title}{Demonstratives: form, function, and grammaticalization}
+  \field{volume}{42}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{journaltitle}{TSL}
+  \field{year}{1999}
+\endentry
+
+\entry{Dixon2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dixon}{D.}%
+     {R.~M.~W.}{R.~M.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DRMW1}
+  \strng{fullhash}{DRMW1}
+  \field{labelyear}{2003}
+  \field{sortinit}{D}
+  \field{number}{1}
+  \field{pages}{61\bibrangedash 112}
+  \field{title}{Demonstratives: a cross-linguistic typology}
+  \field{volume}{27}
+  \field{journaltitle}{Studies in Language}
+  \field{year}{2003}
+\endentry
+
+\entry{Dixon1972}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dixon}{D.}%
+     {R.M.W.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \keyw{Australia, Grammar, Nominal classification}
+  \strng{namehash}{DR1}
+  \strng{fullhash}{DR1}
+  \field{labelyear}{1972}
+  \field{sortinit}{D}
+  \field{isbn}{9780521085106}
+  \field{pages}{452}
+  \field{series}{Studies in Linguistics}
+  \field{title}{The Dyirbal language of North Queensland}
+  \field{volume}{9}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1972}
+\endentry
+
+\entry{Ebert2003}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ebert}{E.}%
+     {Karen~H.}{K.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Thurgood}{T.}%
+     {Graham}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {LaPolla}{L.}%
+     {Randy~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{EKH1}
+  \strng{fullhash}{EKH1}
+  \field{labelyear}{2003}
+  \field{sortinit}{E}
+  \field{booktitle}{The Sino-Tibetan languages}
+  \field{pages}{505\bibrangedash 517}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{Kiranti languages: an overview}
+  \list{location}{1}{%
+    {London \&New York}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{Haan2001}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haan}{H.}%
+     {Johnson~Wellem}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJW1}
+  \strng{fullhash}{HJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{title}{A grammar of Adang: A Papuan language spoken on the Island of
+  Alor, East Nusa Tenggara, Indonesia}
+  \list{institution}{1}{%
+    {University of Sydney}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{Heeschen1982}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Heeschen}{H.}%
+     {Volker}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Weissenborn}{W.}%
+     {J{\"u}rgen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klein}{K.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{HV1}
+  \strng{fullhash}{HV1}
+  \field{labelyear}{1982}
+  \field{sortinit}{H}
+  \field{booktitle}{Here and there. Cross-linguistic studies in deixis and
+  demonstration.}
+  \field{pages}{81\bibrangedash 109}
+  \field{title}{Some Systems of Spatial Deixis in Papuan Languages}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{Heeschen1987}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Heeschen}{H.}%
+     {Volker}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {M{\"u}nzel}{M.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Museum f{\"u}r V{\"o}lkerkunde}%
+  }
+  \strng{namehash}{HV1}
+  \strng{fullhash}{HV1}
+  \field{labelyear}{1987}
+  \field{sortinit}{H}
+  \field{booktitle}{Neuguinea. Nutzung und Deutung der Umwelt.}
+  \field{pages}{601\bibrangedash 618}
+  \field{title}{Oben und Unten}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Frankfurt am Main}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{Holton2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{title}{Directionals and spatial deixis. An Overview of Western
+  Pantar.}
+  \verb{url}
+  \verb http://www.uaf.edu/alor/langs/western-pantar/directionals.html.
+  \endverb
+  \field{year}{2007}
+\endentry
+
+\entry{Holton2011}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Mark}{M.}%
+     {David~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turk}{T.}%
+     {Andrew~G.}{A.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burenhult}{B.}%
+     {Niclas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stea}{S.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \field{booktitle}{Landscape in Language}
+  \field{pages}{143\bibrangedash 166}
+  \field{title}{Landscape in Western Pantar, a Papuan outlier of southern
+  Indonesia}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{HoltonEtAl2008}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Koly}{K.}%
+     {Mahalalel~Lamma}{M.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {UBB-GMIT}%
+  }
+  \strng{namehash}{HGKML1}
+  \strng{fullhash}{HGKML1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{title}{Kamus Pengantar Bahasa Pantar Barat: Tubbe - Mauta - Lamma}
+  \list{location}{1}{%
+    {Kupang, Indonesia}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{HoltonEtAl2012}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kratochv{\'\i}l}{K.}%
+     {Franti{\v s}ek}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Laura~C.}{L.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper.}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HG+1}
+  \strng{fullhash}{HGKMKFRLCSA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{86\bibrangedash 122}
+  \field{title}{The historical relations of the Papuan languages of Alor and
+  Pantar}
+  \field{volume}{51}
+  \field{journaltitle}{Oceanic Linguistics}
+  \field{year}{2012}
+\endentry
+
+\entry{Klamer2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{pages}{xviii+540}
+  \field{series}{Mouton Grammar Library}
+  \field{title}{A Grammar of Teiwa}
+  \field{volume}{49}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{KlamerToAppear}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{to appear}
+  \field{sortinit}{K}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar: Sketch grammars}
+  \field{title}{Kaera}
+  \field{year}{to appear}
+\endentry
+
+\entry{Kratochvil2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochvíl}{K.}%
+     {František}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{title}{A grammar of Abui: A Papuan language of Alor}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{LevinsonEtAl2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Levinson}{L.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burenhult}{B.}%
+     {Niclas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LSBN1}
+  \strng{fullhash}{LSBN1}
+  \field{labelyear}{2009}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{153\bibrangedash 174}
+  \field{title}{Semplates: A new concept in lexical semantics?}
+  \field{volume}{85}
+  \field{journaltitle}{Language}
+  \field{year}{2009}
+\endentry
+
+\entry{Levinson1983}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Levinson}{L.}%
+     {Stephen~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \keyw{Conversation Analysis, General linguistics, Pragmatics}
+  \strng{namehash}{LSC1}
+  \strng{fullhash}{LSC1}
+  \field{labelyear}{1983}
+  \field{sortinit}{L}
+  \field{title}{Pragmatics}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1983}
+\endentry
+
+\entry{Miller1996}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Miller}{M.}%
+     {Wick~R.}{W.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Instituto de Investigaciones Antropol{\'o}gicas, Universidad Nacional
+  Aut{\'o}noma de M{\'e}xico}%
+  }
+  \strng{namehash}{MWR1}
+  \strng{fullhash}{MWR1}
+  \field{labelyear}{1996}
+  \field{sortinit}{M}
+  \field{title}{Guarij{\'o}: gram{\'a}tica, textos, y vocabulario}
+  \list{location}{1}{%
+    {Mexico City}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{Noonan2006}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Noonan}{N.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NM1}
+  \strng{fullhash}{NM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{howpublished}{Paper presented at the International Colloquium on
+  Language Contact and Contact Languages, University of Hamburg, July 6-8,
+  2006.}
+  \field{title}{Contact-induced change in the Himalayas: the case of the
+  Tamangic languages}
+  \field{year}{2006}
+\endentry
+
+\entry{Post2011}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Post}{P.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Hyslop}{H.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morey}{M.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Post}{P.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press India}%
+  }
+  \strng{namehash}{PM1}
+  \strng{fullhash}{PM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{P}
+  \field{booktitle}{North East Indian Linguistics}
+  \field{pages}{137\bibrangedash 154}
+  \field{title}{Topographical deixis and the Tani languages of North-East
+  India}
+  \field{volume}{3}
+  \list{location}{1}{%
+    {New Delhi}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{RobinsonEtAlToAppear}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Robinson}{R.}%
+     {Laura}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haan}{H.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{RLHJ1}
+  \strng{fullhash}{RLHJ1}
+  \field{labelyear}{To appear}
+  \field{sortinit}{R}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar. Sketch grammars.}
+  \field{title}{Adang}
+  \list{location}{2}{%
+    {Berlin}%
+    {New York}%
+  }
+  \field{year}{To appear}
+\endentry
+
+\entry{Schapper2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{title}{Elevation and scale in two Papuan languages}
+  \field{year}{2012}
+\endentry
+
+\entry{SchapperEtAl2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manimau}{M.}%
+     {Marten}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Unit Bahasa dan Budaya}%
+  }
+  \strng{namehash}{SAMM1}
+  \strng{fullhash}{SAMM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{series}{UBB Language \&Culture Series: A}
+  \field{title}{Kamus Pengantar Bahasa Kamang-Indonesia-Inggris (Introductory
+  Kamang-Indonesian-English dictionary)}
+  \field{volume}{7}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Schulze2003}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schulze}{S.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Holisky}{H.}%
+     {Dee~Ann}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tuite}{T.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{SW1}
+  \strng{fullhash}{SW1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{booktitle}{Current Trends in Caucasian, East European and Inner Asian
+  Linguistics: Papers in Honor of Howard I. Aronson}
+  \field{pages}{291\bibrangedash 348}
+  \field{title}{The diachrony of demonstrative pronouns in East Caucasian}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{Senft1997}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Senft}{S.}%
+     {Gunter}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Clarendon Press}%
+  }
+  \strng{namehash}{SG1}
+  \strng{fullhash}{SG1}
+  \field{labelyear}{1997}
+  \field{sortinit}{S}
+  \field{isbn}{9780198236474}
+  \field{pages}{x+324}
+  \field{series}{Oxford Studies in Anthropological Linguistics}
+  \field{title}{Referring to space: studies in Austronesian and Papuan
+  languages}
+  \field{volume}{11}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{Senft2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Senft}{S.}%
+     {Gunter}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{SG1}
+  \strng{fullhash}{SG1}
+  \field{labelyear}{2004}
+  \field{sortinit}{S}
+  \field{title}{Deixis and Demonstratives in Oceanic Languages}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{Steinhauer1977}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1977}
+  \field{sortinit}{S}
+  \field{pages}{38\bibrangedash 48}
+  \field{title}{`Going' and `Coming' in the Blagar language of Dolap (Pura,
+  Alor, Indonesia)}
+  \field{volume}{3}
+  \field{journaltitle}{NUSA: Miscellaneous Studies in Indonesian and Languages
+  in Indonesia}
+  \field{year}{1977}
+\endentry
+
+\entry{Steinhauer1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Dutton}{D.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1991}
+  \field{sortinit}{S}
+  \field{pages}{177\bibrangedash 221}
+  \field{title}{Demonstratives in the Blagar language of Dolap (Pura, Alor,
+  Indonesia)}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{journaltitle}{Papers in Papuan linguistics}
+  \field{year}{1991}
+\endentry
+
+\entry{Steinhauer2012}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Siregar}{S.}%
+     {Bahren~Umar}{B.~U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Subagyo}{S.}%
+     {P.~Ari}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nasanius}{N.}%
+     {Yassir}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pusat Kajian Bahasa dan Budaya Universitas Katolik Indonesia Atma Jaya}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{booktitle}{Dari menapak jejak kata sampai menyigi tata bahasa.
+  Persembahan untuk Prof. Dr. Bambang Kaswanti Purwo dalam rangka ulang
+  tahunnya yang ke-60}
+  \field{pages}{115\bibrangedash 147}
+  \field{title}{Deictic categories in three languages of Eastern Indonesia}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{year}{2012}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

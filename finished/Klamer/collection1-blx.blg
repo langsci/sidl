@@ -1,0 +1,120 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: collection1-blx.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 23904 items from 5000.
+Database file #1: collection-blx.bib
+Database file #2: localbibliography.bib
+Warning--I didn't find a database entry for "RobinsonEtAlta"
+Warning--I didn't find a database entry for "Steinhauerta"
+Warning--I didn't find a database entry for "Klamertab"
+Warning--I didn't find a database entry for "Bairdta"
+Warning--I didn't find a database entry for "Schapperta"
+Warning--I didn't find a database entry for "WilliamsEtAlta"
+Warning--I didn't find a database entry for "Klamer2010a"
+Warning--I didn't find a database entry for "SchapperEtAlta"
+Warning--I didn't find a database entry for "Holtontaa"
+Warning--I didn't find a database entry for "VanEngelenhoven2009"
+Warning--I didn't find a database entry for "VanEngelenhoven2010"
+Warning--I didn't find a database entry for "Josselien1937"
+Warning--I didn't find a database entry for "Blust2013"
+Warning--I didn't find a database entry for "Rodemeijer2006"
+Warning--I didn't find a database entry for "Hagerdal2012"
+Warning--I didn't find a database entry for "Verheijen1986"
+Warning--I didn't find a database entry for "Baird"
+Warning--I didn't find a database entry for "Klamer"
+Warning--I didn't find a database entry for "Kratochvilms"
+Warning--I didn't find a database entry for "DuBois1960"
+Warning--I didn't find a database entry for "KratochvilEtAl2008a"
+Warning--I didn't find a database entry for "KratochvilEtAl2008b"
+Warning--I didn't find a database entry for "KlamerEtAl2010"
+Warning--I didn't find a database entry for "Kratochvil2011a"
+Warning--I didn't find a database entry for "Kratochvil2011b"
+Warning--I didn't find a database entry for "Klamer2010b"
+Warning--I didn't find a database entry for "Klamer2010c"
+Warning--I didn't find a database entry for "Klamerta"
+Warning--I didn't find a database entry for "Holton2010a"
+Warning--I didn't find a database entry for "Holtontab"
+Warning--I didn't find a database entry for "HoltonEtAL2010"
+Warning--I didn't find a database entry for "HoltonEtAlthisvolumea"
+Warning--I didn't find a database entry for "RobinsonEtAl2012"
+Warning--I didn't find a database entry for "HoltonEtAlthisvolumeb"
+Warning--I didn't find a database entry for "WurmEtAl1975"
+Warning--I didn't find a database entry for "Robinsonta"
+Warning--I didn't find a database entry for "MorwoodEtAl2004"
+Warning--I didn't find a database entry for "OConnnor2007"
+Warning--I didn't find a database entry for "McWilliam2004"
+Warning--I didn't find a database entry for "Hagerdal2010a"
+Warning--I didn't find a database entry for "Hagerdal2010b"
+Warning--I didn't find a database entry for "Hagerdal2011"
+Warning--I didn't find a database entry for "Holton2010b"
+Warning--I didn't find a database entry for "LeRoux1929"
+Warning--I didn't find a database entry for "Barnes1982"
+Warning--I didn't find a database entry for "Hagerdal2010"
+Warning--I didn't find a database entry for "Comrie1989"
+Warning--I didn't find a database entry for "Haspelmath2011."
+Warning--I didn't find a database entry for "FeddenEtAlthisvolume"
+Warning--I didn't find a database entry for "FeddenEtAl2014"
+Warning--I didn't find a database entry for "Dryer2005"
+Warning--I didn't find a database entry for "Kratochviltq"
+Warning--I didn't find a database entry for "Klamer2014"
+Warning--I didn't find a database entry for "Klamertaa"
+Warning--I didn't find a database entry for "Hopper1986"
+Warning--I didn't find a database entry for "BairdEtAlMs"
+Warning--I didn't find a database entry for "HoltonEtAlta"
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 82 entries,
+            6019 wiz_defined-function locations,
+            1827 strings with 23360 characters,
+and the built_in function-call counts, 309875 in all, are:
+= -- 16113
+> -- 9376
+< -- 3848
++ -- 3605
+- -- 2446
+* -- 20188
+:= -- 16511
+add.period$ -- 0
+call.type$ -- 82
+change.case$ -- 2893
+chr.to.int$ -- 34
+cite$ -- 162
+duplicate$ -- 34775
+empty$ -- 31589
+format.name$ -- 5199
+if$ -- 72386
+int.to.chr$ -- 0
+int.to.str$ -- 354
+missing$ -- 0
+newline$ -- 2398
+num.names$ -- 5805
+pop$ -- 25633
+preamble$ -- 1
+purify$ -- 3023
+quote$ -- 0
+skip$ -- 19761
+stack$ -- 0
+substring$ -- 12592
+swap$ -- 11931
+text.length$ -- 2027
+text.prefix$ -- 81
+top$ -- 1
+type$ -- 3099
+warning$ -- 0
+while$ -- 1647
+width$ -- 0
+write$ -- 2315
+(There were 57 warnings)

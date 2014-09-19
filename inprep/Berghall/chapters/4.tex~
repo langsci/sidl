@@ -1,0 +1,1600 @@
+%4
+
+\chapter{Phrase level syntax}
+\hypertarget{RefHeading21621935131865}{}
+\section{Noun phrase}
+\hypertarget{RefHeading21641935131865}{}
+The noun phrase in Mauwake functions in a clause as subject, object or non-verbal predicate. It can also function in an adverbial phrase, or as a possessor, qualifier or post-modifier in another noun phrase.
+
+\subsection{Basic noun phrase}
+\hypertarget{RefHeading21661935131865}{}
+The the most common noun phrase structure consists of only the head noun. That is slightly more frequent than a head noun plus one or more attributive elements. The head noun may have either pre- or postmodifiers, or both. The relative order of the \textstyleAcronymallcaps{NP} constituents is as follows:\footnote{The superscript \textsuperscript{n} indicates that it is possible to have more than one of these constituents within a single NP.}
+
+{\bfseries
+Unmarked/Genitive pronoun - Temporal phrase - Possessive NP - Genitive pronoun - Qualifying NP - HEAD NOUN - Modifying NP - Adjective phrase\textsuperscript{n} - Quantifier phrase\textsuperscript{n} / Indefinite - Demonstrative - Dative pronoun}
+
+The relative clause, where the head noun is modified by a whole clause, is discussed in \sectref{sec:8.3.1}.
+
+The order of \textstyleAcronymallcaps{NP} constituents following the head noun agrees with a cross-linguistic generalization of \textstyleAcronymallcaps{SOV} languages:  N-A-Num-Dem \citep[112]{Dryer2007a}.
+
+Theoretically it is quite possible, and grammatically correct, to have a \textstyleAcronymallcaps{NP} like the one in (\stepcounter{nx}{\thenx}), but natural language data seldom has any \textstyleAcronymallcaps{NP}s with more than two modifiers; example (\stepcounter{nx}{\thenx}) is one of those.
+
+PossNP  GenPr  QualNP  HN  AP  QP  Dem
+
+\ea%x392
+\label{ex:x392}
+\gll auwa  ona  mera  sia  maala  erup  nain \\
+      \\
+\glt
+\z
+
+1s/p.father  3s.GEN  fish  net  long  two  that1
+
+`my father's two long fish nets' / `the/those two long fish nets of my father'
+
+TmpP  PossNP  HN  AP  Dem
+
+\ea%x393
+\label{ex:x393}
+\gll iiriw  Naawura  miiw-aasa  awona  nain \\
+      \\
+\glt
+\z
+
+earlier  Naawura  land-canoe  old  that1
+
+`the/that earlier truck of Naawura's'
+
+\ea%x394
+\label{ex:x394}
+\gll yiena  iiriw  kae  sira  nain \\
+      \\
+\glt
+\z
+
+1p.GEN  earlier  1s/p.grandfather  custom  that1
+
+`that traditional custom of ours'
+
+The only modifier in a noun phrase most typically is either a possessor (\stepcounter{nx}{\thenx}), a deictic (\stepcounter{nx}{\thenx}) or a qualifying noun or noun phrase \textstyleAcronymallcaps{NP}. In (\stepcounter{nx}{\thenx}) the qualifying noun is a compound noun.
+
+\ea%x395
+\label{ex:x395}
+\gll ona  siowa \\
+      \\
+\glt
+\z
+
+3s.GEN  dog
+
+`his/her dog'
+
+\ea%x396
+\label{ex:x396}
+\gll ifa  nain \\
+      \\
+\glt
+\z
+
+snake  that1
+
+`the/that snake'
+
+\ea%x397
+\label{ex:x397}
+\gll owow(a)  maneka  mua \\
+      \\
+\glt
+\z
+
+village  big  man
+
+`townsman'
+
+In the following, each \textstyleAcronymallcaps{NP} position is discussed in turn, starting with the leftmost one.  
+
+An \textstyleEmphasizedWords{\textsc{unmarked third person plural pronoun}} is used as an optional plural marking for humans and other human-like beings (\stepcounter{nx}{\thenx}), (\stepcounter{nx}{\thenx}). 
+
+\ea%x398
+\label{ex:x398}
+\gll \textstyleEmphasizedVernacularWords{Wi}  sawur=ke  kuura  puuk-a-mik. \\
+      \\
+\glt
+\z
+
+3p.UNM  spirit=CF  fly  cut-PA-1/3p
+
+`The spirits changed into flies.'
+
+\ea%x1831
+\label{ex:x1831}
+\gll Ne  nan  \textstyleEmphasizedVernacularWords{wi}  owow  mua  wia  maak-e-mik,  {\dots} \\
+      \\
+\glt
+\z
+
+ADD  there  3p.ACC  village  man  3p.ACC  tell-PA-1/3p
+
+`And there they told the village men, {\dots}'
+
+The plural-marking pronoun differs from the appositive use (\stepcounter{nx}{\thenx}) of the unmarked pronoun in that the former is unstressed, whereas the latter is stressed and, furthermore, may be any person and either singular or plural. (For appositional NPs, see \sectref{sec:4.1.4}.)
+
+\ea%x399
+\label{ex:x399}
+\gll \textbf{'}\textstyleEmphasizedVernacularWords{Yo}  nena  niawi=ke  nefa  maak-i-yem. \\
+      \\
+\glt
+\z
+
+1s.UNM  2s.GEN  2s/p.father=CF  2s.ACC  tell-Np-PR.1s
+
+`I, your father, tell you...'
+
+A special case of the plural-marking unmarked pronoun is where it occurs with a place name to refer to the people of that place (\stepcounter{nx}{\thenx}).  The head noun \textstyleStyleVernacularWordsItalic{mua} `men, people' or \textstyleStyleVernacularWordsItalic{emeria} \textstyleStyleVernacularWordsItalic{mua} `people' is not needed; it may be used, but is usually left out.
+
+\ea%x400
+\label{ex:x400}
+\gll \textstyleEmphasizedVernacularWords{Wi}  Lasen=ke  ekap-e--mik. \\
+      \\
+\glt
+\z
+
+1p.UNM  Lasen=CF  come-PA-1/3p
+
+`The Lasen (village) people came.'
+
+A \textstyleEmphasizedWords{\textsc{temporal phrase}} is rare as a \textstyleAcronymallcaps{NP} constituent. Mainly the temporal words \textstyleStyleVernacularWordsItalic{aakis}  'present-day' from \textstyleStyleVernacularWordsItalic{aakisa} 'now, today' (\stepcounter{nx}{\thenx}) and \textstyleStyleVernacularWordsItalic{iiriw} 'earlier' (\stepcounter{nx}{\thenx}) may be used, but a temporal phrase is also allowed : 
+
+\ea%x401
+\label{ex:x401}
+\gll ni  \textstyleEmphasizedVernacularWords{aakis}  takira \\
+      \\
+\glt
+\z
+
+2p.UNM  present-day  young.person
+
+`you young people of today'
+
+\ea%x1883
+\label{ex:x1883}
+\gll wi  [\textstyleEmphasizedVernacularWords{iiriw  akena}]  mua \\
+      \\
+\glt
+\z
+
+3p.UNM  earlier  truly  man
+
+`the people of long ago'
+
+The structure of the two pre-modifying \textstyleAcronymallcaps{NP}s, possessive \textstyleAcronymallcaps{NP} and qualifying \textstyleAcronymallcaps{NP}, is similar to that of the basic \textstyleAcronymallcaps{NP}. It is because of their position and function inside another \textstyleAcronymallcaps{NP} that they are here called by different names.
+
+The head noun of a \textstyleEmphasizedWords{\textsc{possessive} }\textstyleAcronymallcaps{\textup{NP}} can only be [+human], with `human' including spirits (\stepcounter{nx}{\thenx}) and sometimes some domestic animals like dogs or pigs (\stepcounter{nx}{\thenx}). The humanness of the \textstyleAcronymallcaps{PossNP} is stressed by the fact that it may be followed by a pronoun copy in the genitive (\stepcounter{nx}{\thenx}).
+
+\ea%x402
+\label{ex:x402}
+\gll \textstyleEmphasizedVernacularWords{sawur  emeria } ona  onak  wiawi \\
+      \\
+\glt
+\z
+
+spirit  woman  3s.GEN  3s/p.mother  3s/p.father
+
+`the spirit woman's parents'
+
+\ea%x403
+\label{ex:x403}
+\gll \textstyleEmphasizedVernacularWords{siowa}  wiawi \\
+      \\
+\glt
+\z
+
+dog  3s/p.father
+
+`the dog's owner'
+
+The head noun of the \textstyleAcronymallcaps{PossNP} may itself be possessed:
+
+\ea%x404
+\label{ex:x404}
+\gll \textstyleEmphasizedVernacularWords{yiena  kae}  sira \\
+      \\
+\glt
+\z
+
+1p.GEN  1s/p.grandfather  custom
+
+`our ancestors' (lit: grandfathers') custom'
+
+[PossNP          [Poss NP            [HN ]]]   Dem 
+
+\ea%x405
+\label{ex:x405}
+\gll \textstyleEmphasizedVernacularWords{i}  \textstyleEmphasizedVernacularWords{emeria  apura  yiena  mua  weria}  emeria  nain=ke \\
+      \\
+\glt
+\z
+
+1p.UNM  woman  widow  1p.GEN  man  planting.stick  woman  that1=CF
+
+`the wives of the ``weria-men''\footnote{The \textit{weria}-men are relatives responsible for a person's burial. For more information, see \sectref{sec:1.3.6}.} of us widows'
+
+The semantic relation of the ``possessor'' to the ``possessed'' may be that of real ownership, paraphrasable with `have' (\stepcounter{nx}{\thenx}), a human relationship (\stepcounter{nx}{\thenx}), origin (\stepcounter{nx}{\thenx}) or subjecthood (\stepcounter{nx}{\thenx}). 
+
+\ea%x406
+\label{ex:x406}
+\gll ona  koora \\
+      \\
+\glt
+\z
+
+3s.GEN  house
+
+`his house'
+
+\ea%x407
+\label{ex:x407}
+\gll takira  niir-owa \\
+      \\
+\glt
+\z
+
+youth  play-NMZ
+
+`young  people's play(ing)'
+
+Either an unmarked pronoun or a genitive pronoun may be used as a \textstyleEmphasizedWords{\textsc{possessive pronoun}}. Often the two can be used interchangeably, but the following rules and tendencies have been observed. When the pronoun is a pronoun copy of a preceding possessive \textstyleAcronymallcaps{NP} it must be in the genitive (\stepcounter{nx}{\thenx}). 
+
+\ea%x409
+\label{ex:x409}
+\gll \textstyleEmphasizedVernacularWords{Ona}  apura  maa  oposia  me  enim-i-non. \\
+      \\
+\glt
+\z
+
+3s.GEN  widow  thing  meat  not  eat-Np-FU.3s
+
+`His widow will not eat meat.'
+
+\ea%x410
+\label{ex:x410}
+\gll sawur  emeria  \textstyleEmphasizedVernacularWords{ona}  onak  wiawi \\
+      \\
+\glt
+\z
+
+spirit  woman  3s.GEN  3s/p.mother  3s/p.father
+
+`the spirit woman's parents'
+
+An unmarked pronoun is used especially with things that are closely related to a person, and the genitive pronoun tends to be used more when the ownership is emphasized. 
+
+\ea%x1315
+\label{ex:x1315}
+\gll Oo,  \textstyleEmphasizedVernacularWords{no  emeria}  iiriw  sesek-a-mik. \\
+      \\
+\glt
+\z
+
+Oh  2s.UNM  woman  already  send-PA-1/3p
+
+`Oh, we already sent your wife away.'
+
+\ea%x1314
+\label{ex:x1314}
+\gll Nep(a)  opaimika  me  amis(a)-ar-ep  \textstyleEmphasizedVernacularWords{wiena} \\
+      \\
+\glt
+\z
+
+bird  talk  not  knowledge-INCH-SS.SEQ  3p.GEN
+
+\textstyleEmphasizedVernacularWords{opaimik(a)}\textstyleEmphasizedVernacularWords{=iw}  yia  maak-em-ik-e-mik.
+
+talk=INST  1p.ACC  tell-SS.SIM-be-PA-1/3p
+
+`They did not know Tok Pisin and talked to us in their (own) language.'
+
+An unmarked pronoun used possessively is often stressed in speech (\stepcounter{nx}{\thenx}).
+
+\ea%x408
+\label{ex:x408}
+\gll Nain  \textstyleEmphasizedVernacularWords{'i } sira=ke. \\
+      \\
+\glt
+\z
+
+that1  1p.UNM  custom=CF
+
+`That is our custom.'
+
+In recursive genitive structures like (\stepcounter{nx}{\thenx}) more than one possessive pronoun may occur as a pronoun copy, so (\stepcounter{nx}{\thenx}) is a possible alternative for (\stepcounter{nx}{\thenx}):
+
+\ea%x411
+\label{ex:x411}
+\gll i  emeria  apura  \textstyleEmphasizedVernacularWords{yiena}  mua  weria  \textstyleEmphasizedVernacularWords{wiena} \\
+      \\
+\glt
+\z
+
+1p.UNM  woman  widow  1p.GEN  man  planting.stick  3p.GEN
+
+emeria  nain=ke
+
+woman  that1=CF
+
+`the wives of the ``weria-relatives'' of us widows'
+
+A \textstyleEmphasizedWords{\textsc{qualifying noun phrase}} usually consists of the head noun only. If it has other elements, the structure is the same as that of the basic \textstyleAcronymallcaps{NP}. The distinction between a qualifying \textstyleAcronymallcaps{NP} and a possessive \textstyleAcronymallcaps{NP} on the one hand, and between a qualifying \textstyleAcronymallcaps{NP} and a \textstyleAcronymallcaps{N+N} compound on the other, is often hard to make. (See \sectref{sec:3.2.5}  for a discussion on the distinction between compound nouns and \textstyleAcronymallcaps{NP}s.) Unlike a possessive \textstyleAcronymallcaps{NP}, a qualifying \textstyleAcronymallcaps{NP} may not take a genitive pronoun copy. 
+
+\ea%x413
+\label{ex:x413}
+\gll \textstyleEmphasizedVernacularWords{Fiker(a)  epia}  nain  aw-i-non. \\
+      \\
+\glt
+\z
+
+kunai.grass  fire  that1  burn-Np-FU.3s
+
+`The grass fire will burn.'
+
+\ea%x412
+\label{ex:x412}
+\gll \textstyleEmphasizedVernacularWords{Mua}  \textstyleEmphasizedVernacularWords{takira}  unowa  ne  \textstyleEmphasizedVernacularWords{emeria  wii}\textstyleEmphasizedVernacularWords{p-}\textstyleEmphasizedVernacularWords{takira}\textstyleEmphasizedVernacularWords{=}\textstyleEmphasizedVernacularWords{ke} \\
+      \\
+\glt
+\z
+
+man  youth  many  ADD  woman  daughter-youth=CF  
+
+me  unowa  akena.
+
+not  many  very
+
+`There are many young boys but not very many young girls.'
+
+\ea%x1832
+\label{ex:x1832}
+\gll Epa  kokom-ar-eya  urera  \textstyleEmphasizedVernacularWords{siowa  mua}  ookinon. \\
+      \\
+\glt
+\z
+
+place  dark-INCH-2/3s.DS  afternoon  dog  man  follow-Np-FU.3s
+
+`When it gets dark in the afternoon he will follow the ``dog man'' (a certain nominated person in the \textit{singsing} traditions).'
+
+A place name may be a qualifier for a locative noun functioning as head noun. 
+
+\ea%x834
+\label{ex:x834}
+\gll \textstyleEmphasizedVernacularWords{Bogia}  era \\
+      \\
+\glt
+\z
+
+Bogia  road
+
+`the Bogia road'
+
+\ea%x833
+\label{ex:x833}
+\gll \textstyleEmphasizedVernacularWords{Malala}  owowa \\
+      \\
+\glt
+\z
+
+Malala  village
+
+`Malala village'
+
+The qualifying \textstyleAcronymallcaps{NP} can also be a nominalized clause; this is most common when the head noun is an abstract noun like \textstyleStyleVernacularWordsItalic{sira} `custom' or \textstyleStyleVernacularWordsItalic{opora} `talk, story'.
+
+\ea%x414
+\label{ex:x414}
+\gll [\textstyleEmphasizedVernacularWords{garanga}  \textstyleEmphasizedVernacularWords{oko  muuka  wiar  aaw-owa}]\textsubscript{NP}  sira \\
+      \\
+\glt
+\z
+
+family  other  son  3.DAT  get-NMZ  custom
+
+`adoption custom (lit: the custom of getting a son from another family)'
+
+The \textstyleEmphasizedWords{\textsc{head noun}} is either a single or a compound noun.  If the head noun is replaced by a pronoun, it can only take post-modifiers (\stepcounter{nx}{\thenx}):
+
+\ea%x415
+\label{ex:x415}
+\gll \textstyleEmphasizedVernacularWords{wi(am)}  arow  nain  \\
+      \\
+\glt
+\z
+
+3p.UNM(REFL)  three  that1
+
+`the three of them / those three'
+
+A \textstyleEmphasizedWords{\textsc{post-modifying noun phrase}} often expresses qualities that in many European languages would be expressed by true adjectives (\stepcounter{nx}{\thenx}), or via adjectivalized (\stepcounter{nx}{\thenx}) or comitative expressions (\stepcounter{nx}{\thenx}).
+
+\ea%x416
+\label{ex:x416}
+\gll labuel(a)  \textstyleEmphasizedVernacularWords{mua} \\
+      \\
+\glt
+\z
+
+pawpaw  man
+
+`male pawpaw'
+
+\ea%x417
+\label{ex:x417}
+\gll takira  \textstyleEmphasizedVernacularWords{emin(a)  kekanowa} \\
+      \\
+\glt
+\z
+
+boy  occiput  strong
+
+`pig-headed boy'
+
+\ea%x418
+\label{ex:x418}
+\gll mua  \textstyleEmphasizedVernacularWords{bug  maala}  nain  \\
+      \\
+\glt
+\z
+
+man  wind  long  that1
+
+`the man with good lungs'
+
+A noun phrase can have one or more \textstyleEmphasizedWords{\textsc{adjective phrases}} as modifiers. The adjective phrase typically consists of an adjective only. If there are more \textstyleAcronymallcaps{APs} than one, the order is as follows: colour - physical property or human propensity - size/age - value.
+
+\ea%x419
+\label{ex:x419}
+\gll Waa(ya)  muuka  \textstyleEmphasizedVernacularWords{kia  gelemuta}  op-a-m. \\
+      \\
+\glt
+\z
+
+pig  son  white  small  catch-PA-1s
+
+`I caught  a small white piglet.'
+
+In recorded texts the maximum number of adjective phrases per a \textstyleAcronymallcaps{NP} is two, but the speakers have no difficulty producing \textstyleAcronymallcaps{NP}s with more \textstyleAcronymallcaps{AP}s (\stepcounter{nx}{\thenx}):
+
+\ea%x420
+\label{ex:x420}
+\gll Emer(a)  \textstyleEmphasizedVernacularWords{itita  enum(a)  eliwa}  nain  enak-e. \\
+      \\
+\glt
+\z
+
+sago  soft  new  good  that1  feed.me-IMP.2s
+
+`Give me the good new soft sago/bread to eat.'
+
+The position of either a \textstyleEmphasizedWords{\textsc{quantifier phrase}} or an \textstyleEmphasizedWords{\textsc{indefinite}} is after the adjective phrase.
+
+\ea%x804
+\label{ex:x804}
+\gll Siowa  morena  \textstyleEmphasizedVernacularWords{oko}  aruf-a-k. \\
+      \\
+\glt
+\z
+
+dog  male  another  hit-PA-3s
+
+`He hit another male dog.'
+
+The last regular post-modifier in a noun phrase is a \textstyleEmphasizedWords{\textsc{demonstrative}}. Especially the distal demonstrative \textstyleStyleVernacularWordsItalic{nain} `that' is very common, and in many cases it is no more than a marker for given information.
+
+\ea%x805
+\label{ex:x805}
+\gll koora  erepam  \textstyleEmphasizedVernacularWords{nain} \\
+      \\
+\glt
+\z
+
+house  four  that1
+
+`the/those four houses' or `the fourth house'
+
+The \textstyleEmphasizedWords{\textsc{dative pronoun}} (\sectref{sec:3.5.5}) is unusual as a modifier. Semantically it belongs to the noun phrase, marking a possessive relationship, but syntactically it still reflects its origin as a [+human] locative adverbial (\sectref{sec:4.6.1}) of the verb. It is often non-contiguous with the rest of the \textstyleAcronymallcaps{NP}, which can be fronted for as a theme  while the dative pronoun needs to stay in its pre-verbal position (\stepcounter{nx}{\thenx}). Other elements that can separate the dative pronoun from the rest of the \textstyleAcronymallcaps{NP} are \textstyleStyleVernacularWordsItalic{me} `not' (\stepcounter{nx}{\thenx}), and the free adverbs \textstyleStyleVernacularWordsItalic{muutiw} `only' and \textstyleStyleVernacularWordsItalic{pun} `also'(\stepcounter{nx}{\thenx}). 
+
+\ea%x1793
+\label{ex:x1793}
+\gll Owow  emeria  mua  unowa  \textstyleEmphasizedVernacularWords{sira  eliwa}  \textstyleEmphasizedVernacularWords{wiar}  uruf-ap  {\dots} \\
+      \\
+\glt
+\z
+
+village  woman  man  many  custom  good  3.DAT  see-SS.SEQ  ...
+
+`The many villagers saw his good manners and {\dots}'
+
+\ea%x1811
+\label{ex:x1811}
+\gll \textstyleEmphasizedVernacularWords{Pina}  \textstyleEmphasizedVernacularWords{gelemuta}  eliw  owowa=pa  \textstyleEmphasizedVernacularWords{nefar}  kaken-ami  \\
+      \\
+\glt
+\z
+
+guilt  small  well  village=LOC  2s.DAT  straighten-SS.SIM  
+
+welaw-i-kuan.
+
+finish-Np-FU.3p
+
+`Your small guilt they can well straighten and finish in the village.'
+
+\ea%x1812
+\label{ex:x1812}
+\gll \textstyleEmphasizedVernacularWords{Amina  fain}  me  \textstyleEmphasizedVernacularWords{wiar}  op-aka. \\
+      \\
+\glt
+\z
+
+pot  this  not  3.DAT  hold-IMP.2p
+
+`Don't hold/touch these pots of hers.'
+
+\ea%x1938
+\label{ex:x1938}
+\gll Yo  miira  me  uruf-a-m,  \textbf{afifa}  muutiw  \textbf{wiar}  uruf-a-m. \\
+      \\
+\glt
+\z
+
+1s.UNM  face  not  see-PA-1s  hair  only  3.DAT  see-PA-1s
+
+`I didn't see the face, I only saw his hair.'
+
+\subsection{Coordinate noun phrase}
+\hypertarget{RefHeading21681935131865}{}
+Joining noun phrases into a coordinate noun phrase can be done either by simple juxtaposition or with connectives. Juxtaposition is the default strategy.  In spoken texts the juxtaposed \textstyleAcronymallcaps{NP}s are separated by a longer pause, in written texts by a comma.
+
+\ea%x810
+\label{ex:x810}
+\gll \textstyleEmphasizedVernacularWords{Amina},  \textstyleEmphasizedVernacularWords{wiowa},  \textstyleEmphasizedVernacularWords{eka  napia}  koor  miira=pa  iimar-ow-a-mik. \\
+      \\
+\glt
+\z
+
+pot  spear,  water  bamboo  house  face=LOC  stand-CAUS-PA-1/3p
+
+`We placed the pots, spears and water bamboos in front of the house.'
+
+\ea%x811
+\label{ex:x811}
+\gll I  \textstyleEmphasizedVernacularWords{mua  unowa},  \textstyleEmphasizedVernacularWords{emeria  papako}  ikiw-e-mik. \\
+      \\
+\glt
+\z
+
+1s.UNM  man  many  woman  some  go-PA-1/3p
+
+`Many men (including the narrator) and some women went.'
+
+Coordinate compound nouns (\sectref{sec:3.2.5}) are the result of conjoining by juxtaposition two nouns that very commonly go together. 
+
+The pragmatic connective \textstyleStyleVernacularWordsItalic{ne} `additive' (\sectref{sec:3.11.1}) is used rather infrequently to connect the parts of a coordinate noun phrase. When it is used and there are more than two noun phrases to connect, it is usually placed between the last two noun phrases, but other positions are possible too, see (\stepcounter{nx}{\thenx}). 
+
+\ea%x812
+\label{ex:x812}
+\gll Nie  \textstyleEmphasizedVernacularWords{ne}  neke  nomokow  fiira=ke. \\
+      \\
+\glt
+\z
+
+2s/p.maternal.uncle  ADD  2s/p.grandfather  tree  root=CF
+
+`Your maternal uncle and your grandfather are the most important relatives.'
+
+\ea%x814
+\label{ex:x814}
+\gll Mera  kas,  mulamul  \textstyleEmphasizedVernacularWords{ne}  popotimaw  aaw-i-mik. \\
+      \\
+\glt
+\z
+
+fish  mackerel  trevally.sp  ADD  trevally.sp  get-Np-PR.1/3p
+
+`We catch mackerel, \textstyleForeignWords{mulamul}  trevally and \textstyleForeignWords{popotimaw}  trevally.'
+
+A focus or case marking clitic is only added to the last noun phrase in a coordinate noun phrase:
+
+\ea%x893
+\label{ex:x893}
+\gll Manin  koora  nain  \textstyleEmphasizedVernacularWords{koka  ne  ifara=ke}  wakesim-o-k. \\
+      \\
+\glt
+\z
+
+garden  house  that1  jungle  ADD  vine=CF  cover-PA-3s
+
+`The garden house was covered by jungle and vines.'
+
+\ea%x894
+\label{ex:x894}
+\gll \textstyleEmphasizedVernacularWords{Wiena  merena  ne  wapen=iw}  era  akup-a-mik. \\
+      \\
+\glt
+\z
+
+3p.GEN  foot  ADD  hand=INST  road  search-PA-1/3p
+
+`They felt (lit: searched) for the road with their feet and hands.'
+
+Also the pragmatic connective \textstyleStyleVernacularWordsItalic{aria} `alright' can occasionally join the elements of a coordinate noun phrase. As a sentential or clausal connective it indicates a break in the discourse, but when it joins two noun phrases there does not seem to be a significant difference between that and \textstyleStyleVernacularWordsItalic{ne} `additive'. It may be that \textstyleStyleVernacularWordsItalic{aria} draws more attention to the separate noun phrases being joined than either juxtaposition or \textstyleStyleVernacularWordsItalic{ne} does.
+
+\ea%x815
+\label{ex:x815}
+\gll Yos,  yena  auwa,  \textstyleEmphasizedVernacularWords{aria}  wi  emer  en-ow(a)  mua  \\
+      \\
+\glt
+\z
+
+1s.FC  1s.GEN  1s/p.father  alright  3p.UNM  sago  eat-NMZ  man
+
+kuisow  ikiw-e-mik.
+
+one  go-PA-1/3p
+
+`I, my father, and one Sepik man went.'
+
+\ea%x816
+\label{ex:x816}
+\gll Moma,  \textstyleEmphasizedVernacularWords{aria}  emera  naap  lawisiw  eeyar-e-k. \\
+      \\
+\glt
+\z
+
+taro,  alright  sago  thus  rather  last-PA-3s
+
+`Taro, and sago, lasted a little (longer).'
+
+The disjunctive connective \textstyleStyleVernacularWordsItalic{e} `or' (\sectref{sec:3.11.2}), and/or the question marker -\textstyleStyleVernacularWordsItalic{i}  is used in a coordinate noun phrase, if the noun phrases are presented as alternatives. 
+
+\ea%x817
+\label{ex:x817}
+\gll Mera  aaw-owa  sira  \textstyleEmphasizedVernacularWords{e}  era  ikur  okaiwi=pa  kuisow  \\
+      \\
+\glt
+\z
+
+fish  get-NMZ  custom  or  way  five  other.side=LOC  one  
+
+ik-ua.
+
+be-PA.3s
+
+`There are six means, or ways, of catching fish.'
+
+\ea%x818
+\label{ex:x818}
+\gll Maa  oposia\textstyleEmphasizedVernacularWords{=i } moma,  emera,  naap  sesek-a-mik. \\
+      \\
+\glt
+\z
+
+thing  meat=QM  taro  sago  thus  sell-PA-1/3p
+
+`They sold meat, or taro, (or) sago, (things) like that.'
+
+\subsection{Comitative noun phrase}
+\hypertarget{RefHeading21701935131865}{}
+A comitative noun phrase is made up of one or two basic noun phrases plus a comitative postposition or clitic (\sectref{sec:3.12.1}). A comitative pronoun (\sectref{sec:3.5.9}) either by itself or attached to a \textstyleAcronymallcaps{NP} can also form a comitative phrase (\stepcounter{nx}{\thenx}). When there is only one overt noun phrase and it  is unmarked for number, the plurality is shown both by the comitative marking and in the verb person marking (\stepcounter{nx}{\thenx}). The choice of the comitative marker and the number marking in the verb, when relevant,  reflect whether the noun phrases in the comitative relationship are co-subjects/co-objects of the same verb, or whether one is a dominant member. 
+
+\ea%x828
+\label{ex:x828}
+\gll Ikoka  \textstyleEmphasizedVernacularWords{mua  owawiya}  irak-ep  me  efar  kerer-e. \\
+      \\
+\glt
+\z
+
+later  man  with  fight-SS.SEQ  not  1s.DAT  appear-IMP.2s
+
+`Later when you fight with your husband, do not come to me.'
+
+\ea%x829
+\label{ex:x829}
+\gll \textstyleEmphasizedVernacularWords{Wi  Yaapan  oos  onaiya}  Madang  ikiw-e-mik. \\
+      \\
+\glt
+\z
+
+3p.UNM  Japan  horse  with  Madang  go-PA-1/3p
+
+`The Japanese went with horses to Madang.'
+
+\ea%x830
+\label{ex:x830}
+\gll Parosifa  siisim-ep  \textstyleEmphasizedVernacularWords{muuka  feekiya}  sesek-i-nen. \\
+      \\
+\glt
+\z
+
+letter  write-SS.SEQ  son  with  send-Np-FU.1s
+
+`I will write a letter and send it with my son.'
+
+\ea%x819
+\label{ex:x819}
+\gll \textbf{Ona  siowa  ikos } manina  ikiw-e-mik, ... \\
+      \\
+\glt
+\z
+
+3s.GEN  dog  with  garden  go-PA-1/3p
+
+`He went to the garden with his dog, {\dots}' or: `He and his dog went to the garden, {\dots}'
+
+\ea%x832
+\label{ex:x832}
+\gll Rabaul  kemena=pa  naap  pok-ap  ik-e-mik,  \textstyleEmphasizedVernacularWords{mua=iya  emeria}. \\
+      \\
+\glt
+\z
+
+Rabaul  bay=LOC  thus  sit-SS.SEQ  be-PA-1/3p  man=COM  woman
+
+`They are now sitting in the Rabaul bay, the husband and/with the wife.'
+
+\ea%x831
+\label{ex:x831}
+\gll \textstyleEmphasizedVernacularWords{Wiamiya}  irak-owa  na-ep  ikiw-e-mik. \\
+      \\
+\glt
+\z
+
+3p.COM  fight-NMZ  say-SS.SEQ  go-PA-1/3p
+
+`We went to fight with them.'
+
+With the dual comitative postposition \textstyleStyleVernacularWordsItalic{ikos}  there may be an additive connective \textstyleStyleVernacularWordsItalic{ne} between the two noun phrases (\stepcounter{nx}{\thenx}). It seems to be more common with younger speakers. 
+
+\ea%x820
+\label{ex:x820}
+\gll \textstyleEmphasizedVernacularWords{Osaiwa  ne  aalbok  ikos}  womar  \\
+      \\
+\glt
+\z
+
+bird.of.paradise  ADD  black.cuckoo.shrike  with  3s/p.friend  
+
+wiam  op-a-mik.
+
+3p.REFL  hold-PA-1/3p
+
+`The bird of paradise and/with the black cuckoo-shrike were friends.'
+
+\subsection{Appositional noun phrase}
+\hypertarget{RefHeading21721935131865}{}
+An appositional noun phrase consists of two noun phrases which have identical or similar reference \citep[24]{Crystal1997}.  Very commonly the first noun phrase is either a personal pronoun or a kinship term, the second one a proper name; but there are other possibilities as well.  
+
+\ea%x835
+\label{ex:x835}
+\gll \textstyleEmphasizedVernacularWords{Yo  nena  nie=ke}  nefa  maak-i-yem. \\
+      \\
+\glt
+\z
+
+1s.UNM  2s.GEN  2s/p.uncle  2s.ACC  tell-Np-PR.1s
+
+`I, your uncle, am telling you this.'
+
+\ea%x836
+\label{ex:x836}
+\gll \textstyleEmphasizedVernacularWords{Yena  yaiya  Tup}  ifa=ke  keraw-a-k. \\
+      \\
+\glt
+\z
+
+1s.GEN  1s/p.uncle  Tup  snake=CF  bite-PA-3s
+
+`My Uncle Tup was bitten by a snake.'
+
+\ea%x837
+\label{ex:x837}
+\gll \textstyleEmphasizedVernacularWords{Inasina}  \textstyleEmphasizedVernacularWords{Rubaruba  nain=ke}  ona  emeria  aaw-ep  \\
+      \\
+\glt
+\z
+
+spirit  Rubaruba  that1=CF  3s.GEN  woman  take-SS.SEQ  
+
+p-ikiw-o-k.
+
+Bpx-go-PA-3s
+
+`The spirit Rubaruba took his wife and went.'
+
+\ea%x838
+\label{ex:x838}
+\gll \textstyleEmphasizedVernacularWords{Manina}  \textstyleEmphasizedVernacularWords{gelemuta,  esewa,}  nena  kookal-owa=pa  \\
+      \\
+\glt
+\z
+
+garden  small  esewa  2s.GEN  like-NMZ=LOC  
+
+perek-i-nan.
+
+pull.out-Np-FU.2s
+
+`You may harvest the little garden, ``esewa'', at your desire.'
+
+\ea%x839
+\label{ex:x839}
+\gll Wokome=ke  \textstyleEmphasizedVernacularWords{wiimasip  oko,  suwina  gelemuta} \\
+      \\
+\glt
+\z
+
+3s/p.grandmother=CF  3s/p.grandchild  other  female  small  
+
+\textstyleEmphasizedVernacularWords{nain}  maak-e-k  {\dots}
+
+that  tell-PA-3s
+
+`The grandmother told her other grandchild, the little girl {\dots}'
+
+\section{Adjective phrase}
+\hypertarget{RefHeading21741935131865}{}
+The head of an adjective phrase (\textstyleAcronymallcaps{AP}) is an adjective. Most commonly it occurs alone, but it can be intensified by an intensity adverb either preceding or following it, or both (\stepcounter{nx}{\thenx}).  The negator \textstyleStyleVernacularWordsItalic{marew} `none, no' when following the adjective, negates its quality, thus creating its opposite (\stepcounter{nx}{\thenx}).  
+
+\ea%x841
+\label{ex:x841}
+\gll Owowa  nain  \textstyleEmphasizedVernacularWords{lawiliw  manek(a)  akena}. \\
+      \\
+\glt
+\z
+
+village  that1  rather  big  very
+
+`The village is rather big'
+
+\ea%x842
+\label{ex:x842}
+\gll Koora  \textstyleEmphasizedVernacularWords{eliw(a)  marew}  nan  ik-e-mik. \\
+      \\
+\glt
+\z
+
+house  good  none  there  be-PA-1/3p
+
+`They live in the bad (lit: no-good) house.'
+
+When the adjective \textstyleStyleVernacularWordsItalic{masia}  `bitter' takes a nominalized verb as its modifier, the meaning of the adjective changes to indicate that one is doing a lot of some action (\stepcounter{nx}{\thenx}).
+
+\ea%x840
+\label{ex:x840}
+\gll Mua  \textstyleEmphasizedVernacularWords{manin(a)  mauw-ow(a)  masia}  nain  emeria  \\
+      \\
+\glt
+\z
+
+man  garden  work-NMZ  compulsive  that1  woman  
+
+wi-i-mik.
+
+give.him-Np-PR.1/3p
+
+`We give a wife to a hard-working man.'
+
+The adjective phrase functions as a post-modifier in a noun phrase (\stepcounter{nx}{\thenx}), or as a non-verbal predicate (\stepcounter{nx}{\thenx}). 
+
+A coordinate adjective phrase is also possible:
+
+\ea%x891
+\label{ex:x891}
+\gll Oka  keraw-a-k  nain  \textstyleEmphasizedVernacularWords{efefa  ne  eliwa  akena}. \\
+      \\
+\glt
+\z
+
+hand.drum  carve-PA-3s  that1  light  ADD  good  very  
+
+`The hand drum that he carved is light and very good.'
+
+The pragmatic function of adjectives in discourse\footnote{For \textstyleFootnoteBaseChar{the function of adjectives in English and Mandarin Chinese spoken text see \citet{Thompson1988} and \citet{Croft1991}. The former claims the main function is to predicate the property of an established discourse referent; attributive function, or modification, is secondary and used almost exclusively for new participants. But Croft considers modification the main discourse function of the adjectives.  As for Papuan languages, Roberts reports that in Amele the adjective normally functions as a modifying (lit: attributive) element in a NP (1987:319).}} seems to vary according to the language. In Mauwake the modification of a new participant is the main function of adjective phrases.\footnote{In the text data nearly half of the occurrences (48\%) of adjectives were in attributive positions where the adjective modified a \textit{new} participant.} Also a known participant is modified by an adjective especially in cases where the adjective is needed for contrast: \textstyleStyleVernacularWordsItalic{manin}(\textstyleStyleVernacularWordsItalic{a}) \textstyleStyleVernacularWordsItalic{maneka} `big garden' and \textstyleStyleVernacularWordsItalic{manin}(\textstyleStyleVernacularWordsItalic{a}) \textstyleStyleVernacularWordsItalic{gelemuta}\textstyleEmphasizedWords{} `small garden', referring to two different \textstyleEmphasizedWords{\textsc{types}} of garden (also called \textstyleStyleVernacularWordsItalic{ekina} and \textstyleStyleVernacularWordsItalic{esewa} respectively), were repeated several times in a text describing garden work. 
+
+\section{Quantifier phrase}
+\hypertarget{RefHeading21761935131865}{}
+A quantifier phrase usually only consists of a quantifier head (\stepcounter{nx}{\thenx}) (\sectref{sec:3.4}), but it can be modified by a few intensity adverbs (\stepcounter{nx}{\thenx}) (\sectref{sec:3.9.2}). 
+
+\ea%x845
+\label{ex:x845}
+\gll I  koora  \textstyleEmphasizedVernacularWords{kuisow}  yiar  aw-o-k. \\
+      \\
+\glt
+\z
+
+1p.UNM  house  one  1p.DAT  burn-PA-3s
+
+`One of our houses burned.'
+
+\ea%x844
+\label{ex:x844}
+\gll Koora  \textstyleEmphasizedVernacularWords{arow  akena}  ku-a-mik. \\
+      \\
+\glt
+\z
+
+house  three  truly  build-PA-1/3p
+
+`We built exactly three houses.'
+
+A quantifier phrase most commonly functions as a post-modifier in a noun phrase (\stepcounter{nx}{\thenx}), but it can also be used as a non-verbal predicate (\stepcounter{nx}{\thenx}).
+
+\ea%x846
+\label{ex:x846}
+\gll Maamuma  \textstyleEmphasizedVernacularWords{unowa  akena}  aaw-e-mik. \\
+      \\
+\glt
+\z
+
+money  much  truly/very  get-PA-1/3p
+
+`They got very much money.'
+
+\ea%x843
+\label{ex:x843}
+\gll Yo  muuka  \textstyleEmphasizedVernacularWords{arow}. \\
+      \\
+\glt
+\z
+
+1s.UNM  son  three.
+
+`I have three sons.'  (lit: `My sons are three.)
+
+Quantifier phrases may also be coordinated. Semantically the most plausible coordination is disjunction: 
+
+\ea%x1360
+\label{ex:x1360}
+\gll Waaya  maneka  wiowa  \textstyleEmphasizedVernacularWords{erup-i  e  arow}  naap  mik-iwkin \\
+      \\
+\glt
+\z
+
+pig  big  spear  two=QM  or  three  thus  spear-2/3p.DS  
+
+um-i-ya.
+
+die-Np-PR.3s
+
+`They spear a big pig with two or three spears and it dies.'
+
+\section{Possessive phrase}
+\hypertarget{RefHeading21781935131865}{}
+The possessive phrase\footnote{Not to be confused with the Possessive NP.} is a very specific and rarely occurring structure. It consists of an unmarked or genitive pronoun, followed by the long form of the dative pronoun (\sectref{sec:3.5.5}), which has developed from the dative pronoun and the the verb \textstyleStyleVernacularWordsItalic{ik}- `be'. The verb has lost all inflection and only retains the root, which has merged to the dative pronoun. The possessive phrase only functions as a non-verbal predicate. It is always without a head noun; a co-referential noun or pronoun is in an earlier \textstyleAcronymallcaps{NP} in the same clause.
+
+\ea%x847
+\label{ex:x847}
+\gll Auwa  maa  unowa  nain  pun  \textstyleEmphasizedVernacularWords{yo/yena  efarik}. \\
+      \\
+\glt
+\z
+
+father  thing  many  that1  also  1s.UNM/1s.GEN  1s.DAT
+
+`My father's possessions, too, are mine.'
+
+\section{Verb phrase}
+\hypertarget{RefHeading21801935131865}{}
+There is no justification in Mauwake for a verb phrase as it is understood in the generative sense, as a constituent including almost everything else than the subject of the sentence.\footnote{The verb phrases in the traditional sense of the word, a group of verbs functioning as one unit, are treated under verbal clusters (\sectref{sec:3.8.5}).}  But there is one structure that can be called a verb phrase: an accusative pronoun plus a verb.  In this structure nothing can come between the two elements, not even a verbal negation, which is usually placed immediately before the verb.
+
+Every transitive verb requires an accusative pronoun for a [+human] object, regardless of whether there is an object noun phrase or not. The accusative pronoun is also required with a plural beneficiary. 
+
+\ea%x848
+\label{ex:x848}
+\gll Nan  wi  owow  mua  \textstyleEmphasizedVernacularWords{wia  maak-e-mik},  {\dots} \\
+      \\
+\glt
+\z
+
+there  3p.UNM  village  man  3p.ACC  tell-PA-1/3p
+
+`There they told the village men, ... '
+
+\ea%x852
+\label{ex:x852}
+\gll \textstyleEmphasizedVernacularWords{Nefa  war-iwkin}  naap  ma-e. \\
+      \\
+\glt
+\z
+
+2s.ACC  shoot-2/3p.DS  thus  say-IMP.2s
+
+`When they shoot you, say like that.'
+
+\ea%x849
+\label{ex:x849}
+\gll Mua  me  \textstyleEmphasizedVernacularWords{wia  imen-a-mik}. \\
+      \\
+\glt
+\z
+
+man  not  3p.ACC  find-PA-1/3p
+
+`We didn't find the men.
+
+\ea%x850
+\label{ex:x850}
+\gll Yaapan=ke  i  emeria  \textstyleEmphasizedVernacularWords{yia  aaw-urum-i-kuan}. \\
+      \\
+\glt
+\z
+
+Japan=CF  1p.UNM  woman  1p.ACC  take-DISTR/A-Np-FU.3p
+
+`Japan will take all of us women.'
+
+\ea%x851
+\label{ex:x851}
+\gll Takira  enow  gelemuta  \textstyleEmphasizedVernacularWords{wia  on-om-a-mik}. \\
+      \\
+\glt
+\z
+
+child  meal  small  3p.ACC  make-BEN-BNFY2-PA-1/3p
+
+`We made a feast for the children.
+
+\section{Adverbial phrases}
+\hypertarget{RefHeading21821935131865}{}
+An adverbial phrase may consist of an adverb word alone or modified by an intensity adverb, a noun phrase plus a clitic or a postposition, or a dative pronoun functioning as a [+human] locative phrase.
+
+The main function of an adverbial phrase is to modify the verb. An \textstyleAcronymallcaps{AdvP} is an optional constituent in a clause, not an obligatory argument. 
+
+The default position of the adverbial phrase depends on the semantic type of the \textstyleAcronymallcaps{AdvP}. Recursion is possible, and is more common in the case of locative and temporal phrases than the others.
+
+\subsection{Locative phrases}
+\hypertarget{RefHeading21841935131865}{}
+The number of locative adverbs is small (\sectref{sec:3.6.3}). Most locative phrases are made up of a noun phrase plus a clitic if they indicate a location, source or path, and of a noun phrase only if they indicate a goal. Giv\'on (1984:78, 110-112) distinguishes between the locative adverbials and the locative objects of certain verbs. The former have the whole clause in their scope, the latter only the verb. While there is this scope difference between the two, in Mauwake they are syntactically similar. 
+
+The locative adverbs (\sectref{sec:3.6.3}), all of which are deictic, occur by themselves, without modifiers. The same form can be used for location, source, or goal, depending on the verb.
+
+\ea%x870
+\label{ex:x870}
+\gll Miiw-aasa  \textstyleEmphasizedVernacularWords{nan}  ik-eya  mua  nain  nabena  suuw-a-mik. \\
+      \\
+\glt
+\z
+
+land-canoe  there  be-2/3s.DS  man  that1  carrying.pole  push-PA-1/3p
+
+`The car stayed there, and they carried the man on their shoulders.'
+
+\ea%x871
+\label{ex:x871}
+\gll Fura  op-ap  ik-o-n  nain  \textstyleEmphasizedVernacularWords{feeke}  wu-e. \\
+      \\
+\glt
+\z
+
+knife  hold-SS.SEQ  be-PA-2s  that1  here.CF  put-IMP.2s
+
+`Put here the knife that you are holding.'
+
+\ea%x1833
+\label{ex:x1833}
+\gll Manin(a)  onoma  maa  en-owa  \textstyleEmphasizedVernacularWords{nan}  aaw-i-ya. \\
+      \\
+\glt
+\z
+
+garden  basis  thing  eat-NMZ  there  get-Np-PR.3s
+
+`An owner of a garden (lit: the garden basis) gets his food from there.'
+
+When the locative phrase is based on a noun phrase, one form is used both for  a location where something takes place and a source, but a goal is marked differently.  The phrases indicating a location are formed by adding the locative clitic \nobreakdash-\textstyleStyleVernacularWordsItalic{pa}  to a noun phrase:
+
+\ea%x856
+\label{ex:x856}
+\gll Pon  \textstyleEmphasizedVernacularWords{sisina=pa } ik-eya  mik-a-m. \\
+      \\
+\glt
+\z
+
+turtle  shallow.water=LOC  be-2/3s.DS  spear-PA-1s
+
+`The turtle was in shallow water and I speared it.'
+
+\ea%x857
+\label{ex:x857}
+\gll \textstyleEmphasizedVernacularWords{Sapara=pa  nan}  suusa  iw-e-mik. \\
+      \\
+\glt
+\z
+
+Sapara=LOC  there  needle  give.him-PA-1/3p
+
+`There in Sapara he was given an injection.'
+
+\ea%x865
+\label{ex:x865}
+\gll Nomokowa  unowa  serer-iw-ap  \textstyleEmphasizedVernacularWords{Takora=pa  nan} \\
+      \\
+\glt
+\z
+
+tree  many  hang-go-SS.SEQ  Takora=LOC  there  
+
+or-o-mik.
+
+descend-PA-1/3p
+
+`They went hanging to many trees, and at Takora they got down.'
+
+Source is also marked as a location, with the clitic -\textstyleStyleVernacularWordsItalic{pa}. In some cases there is possible ambiguity as to the interpretation, but the context usually provides a clue.
+
+\ea%x858
+\label{ex:x858}
+\gll Parosifa  siisim-ep  \textstyleEmphasizedVernacularWords{iinan  aasa=pa}  wafur-a-mik. \\
+      \\
+\glt
+\z
+
+paper  write-SS.SEQ  sky  canoe=LOC  throw-PA-1/3p
+
+`They wrote papers and threw them from airplanes.'
+
+\ea%x859
+\label{ex:x859}
+\gll Aite=ke  \textstyleEmphasizedVernacularWords{manina=pa}  yia  aaw-om-iwkin  enim-i-mik. \\
+      \\
+\glt
+\z
+
+1s/p.mother=CF  garden=LOC  1p.ACC  get-BEN-1s/p.DS  eat-Np-PR.1/3p
+
+`Our mothers get (it) from the garden for us and we eat (it).'
+
+\ea%x864
+\label{ex:x864}
+\gll Me  fan  \textstyleEmphasizedVernacularWords{Madang  kame=pa}  ekap-e-mik. \\
+      \\
+\glt
+\z
+
+not  here  Madang  side=LOC  come-PA-1/3p
+
+`They didn't come here from the Madang side.'
+
+The noun phrase indicating a goal normally does not take the locative clitic or any other marking.  The directional verbs are the most common ones used with goal, but other verbs of motion can be used as well (\stepcounter{nx}{\thenx}), (\stepcounter{nx}{\thenx}). 
+
+\ea%x860
+\label{ex:x860}
+\gll Ae,  o  \textstyleEmphasizedVernacularWords{fiker  gone}  urup-o-k. \\
+      \\
+\glt
+\z
+
+yes  3s.UNM  kunai.grass  middle  ascend-PA-3s
+
+`Yes, he went up to the middle of the \textstyleForeignWords{kunai} grass area.'
+
+\ea%x861
+\label{ex:x861}
+\gll [Manina=pa  nan]\textsubscript{Source}  [\textstyleEmphasizedVernacularWords{koka}]\textsubscript{Goal}  iw-a-mik. \\
+      \\
+\glt
+\z
+
+garden=LOC  there  jungle  go-PA-1/3p
+
+`From the garden there the day they went into the jungle.'
+
+\ea%x862
+\label{ex:x862}
+\gll \textstyleEmphasizedVernacularWords{Medebur}  karu-eka,  baurar-eka. \\
+      \\
+\glt
+\z
+
+Medebur  run-IMP.2p  flee-IMP.2p
+
+`Run to Medebur, flee!'
+
+\ea%x863
+\label{ex:x863}
+\gll \textstyleEmphasizedVernacularWords{Ulingan  nan}  bom  fu-fuurk-ikiw-e-mik. \\
+      \\
+\glt
+\z
+
+Ulingan  there  bomb  RDP-throw-go-PA-1/3p
+
+`They went throwing bombs to Ulingan.'
+
+It is possible to mark the goal with the locative clitic if the goal is mainly important as the location of the following verb. The frequency of this usage for the clitic is low. Example (\stepcounter{nx}{\thenx}) is repeated below as (\stepcounter{nx}{\thenx}): 
+
+\ea%x1884
+\label{ex:x1884}
+\gll Ne  soran-emi  \textstyleEmphasizedVernacularWords{epia  mukuna=pa} \\
+      \\
+\glt
+\z
+
+ADD  get.startled  firewood  fire=LOC
+
+or-omi  aw-o-k.
+
+descend-SS.SIM  burn-PA-3s
+
+`And he got startled and fell on the fire and burned himself.'
+
+When the locative phrase is [+human], the dative pronoun (\sectref{sec:3.5.5}) must be used:
+
+\ea%x1061
+\label{ex:x1061}
+\gll Mua  oko=ke  waaya  nain  mik-ap  \textstyleEmphasizedVernacularWords{nefar } aaw-i-non. \\
+      \\
+\glt
+\z
+
+man  other=CF  pig  that1  spear-SS.SEQ  2s.DAT  take-Np-FU.3s
+
+`Another man will spear the pig and take it from you.'
+
+\ea%x1939
+\label{ex:x1939}
+\gll Feeke  \textstyleEmphasizedVernacularWords{wiar}  ik-ok  kiiriw  mua  \textstyleEmphasizedVernacularWords{wiar}  urup-e. \\
+      \\
+\glt
+\z
+
+here.CF  3.DAT  be-SS  again  man  3.DAT  ascend-IMP.2s
+
+`Stay here with him and (then) go (back) to your husband again.'
+
+The dative pronoun is also commonly added when the location is a village or a larger area, which is seen mainly as a setting for the people. In both (\stepcounter{nx}{\thenx}) and (\stepcounter{nx}{\thenx}) above it is the \textstyleEmphasizedWords{\textsc{location}} which is in focus, in the former as the closest village to flee to, and in the latter as an object of bombing, so the dative pronoun is not used. In (\stepcounter{nx}{\thenx}) a certain culturally important place referred to is in the area of the Koran people and considered their property:
+
+\ea%x1801
+\label{ex:x1801}
+\gll Koran  epa=pa  \textstyleEmphasizedVernacularWords{wiar}  ik-ua. \\
+      \\
+\glt
+\z
+
+Koran  place=LOC  3.DAT  be-PA.3s
+
+`It is in Koran area.'
+
+The noun phrase indicating a path is marked with the instrumental clitic -\textstyleStyleVernacularWordsItalic{iw}, or occasionally with the locative clitic -\textstyleStyleVernacularWordsItalic{pa} (\stepcounter{nx}{\thenx}).
+
+\ea%x866
+\label{ex:x866}
+\gll \textstyleEmphasizedVernacularWords{Iinan}\textstyleEmphasizedVernacularWords{=iw  iinan=iw}  wu-ami  feenap  {\dots  ikiw-o-k.} \\
+      \\
+\glt
+\z
+
+on.top=INST  on.top=INST  putSS.SIM  like.this  {\dots}  go-PA-3s
+
+`They (airplanes) flew (lit: put) high up, high up, and went like this{\dots}'
+
+\ea%x867
+\label{ex:x867}
+\gll \textstyleEmphasizedVernacularWords{Saa}\textstyleEmphasizedVernacularWords{=iw}  ir-am-ika-i-mik,  oos  ono-onaiya. \\
+      \\
+\glt
+\z
+
+sand=INST  ascend-SS.SIM-be-Np-PR.1/3p,  horse  RDP-with
+
+`They are coming along the beach, with horses.'
+
+When a clause has more locative phrases than one, the following rules apply. If  the phrases have a different function, source is placed before goal (\stepcounter{nx}{\thenx}). When they have the same function and a deictic locative adverb strengthens another locative phrase, the adverb follows the other locative (\stepcounter{nx}{\thenx}), (\stepcounter{nx}{\thenx}), (\stepcounter{nx}{\thenx}). But  the dative pronoun, when used locatively, has to be placed even after the locative adverb (\stepcounter{nx}{\thenx}). When both of the phrases have an independent meaning, the phrase indicating the more general location comes first, and the one marking the more specific location follows.
+
+\ea%x868
+\label{ex:x868}
+\gll Mia  aka  nain  aaw-ep  p-ikiw-ep  \textstyleEmphasizedVernacularWords{manina=pa} \\
+      \\
+\glt
+\z
+
+body  blood  that1  take-SS.SEQ  Bpx-go-SS.SEQ  garden=LOC  
+
+\textstyleEmphasizedVernacularWords{upuna}\textstyleEmphasizedVernacularWords{=pa}  wu-a-k.
+
+row=LOC  put-PA-3s
+
+`She took the menstrual blood with her and put it in a (plant) row in a garden.'
+
+\ea%x869
+\label{ex:x869}
+\gll Ikiw-ep  \textstyleEmphasizedVernacularWords{eeneke  wiena  owowa=pa}  uruf-a-mik,  {\dots }\\
+      \\
+\glt
+\z
+
+go-SS.SEQ  there  3p.GEN  village=LOC  see-PA-1/3p
+
+`They went and there, in their village, they saw, {\dots}'
+
+\subsection{Temporal phrase}
+\hypertarget{RefHeading21861935131865}{}
+Temporals mark location in time, so it is natural that temporal phrases behave very similarly to locative phrases.  They can consist of a temporal adverb (\sectref{sec:3.9.1.2}), possibly modified by an intensity adverb (\sectref{sec:3.9.2}); or of a noun phrase (\sectref{sec:4.1}) with a head noun indicating time, plus a locative clitic (\sectref{sec:3.12.4}).
+
+\ea%x872
+\label{ex:x872}
+\gll \textstyleEmphasizedVernacularWords{Uuriw  akena}  mukuna  nain  kerer-e-k. \\
+      \\
+\glt
+\z
+
+morning  truly/very  fire  that1  appear-PA-3s
+
+`The fire started early in the morning.'
+
+\ea%x873
+\label{ex:x873}
+\gll Ne  \textstyleEmphasizedVernacularWords{fraide=pa}  maapora  puk-o-k,  \textstyleEmphasizedVernacularWords{urera}. \\
+      \\
+\glt
+\z
+
+ADD  Friday=LOC  feast  burst-PA-3s  afternoon
+
+`And on Friday the feast started, in the afternoon.'
+
+Recursion of temporal phrases is possible and quite common.  When there are two or more temporal phrases in the same clause, the order is determined by whether the temporals are deictic and/or specific (\sectref{sec:3.9.1.2}).  Their default order relative to each other is as follows:
+
+(non-deictic non-specific) {{\textgreater}} deictic non-specific {{\textgreater}} deictic specific {{\textgreater}} TempNP (day) {{\textgreater}} non-deictic specific {{\textgreater}} TempNP (time of day) {{\textgreater}} (non-deictic non-specific)
+
+The position of the non-deictic non-specific temporal is either as the first or the last element of the group of temporals.
+
+\ea%x874
+\label{ex:x874}
+\gll Ne  \textstyleEmphasizedVernacularWords{nainiw  sande  uura}  yiam  fiirim-e-mik. \\
+      \\
+\glt
+\z
+
+ADD  again  Sunday  night  1p.REFL  gather-PA-1/3p
+
+`And we gathered again on Sunday night.'
+
+\ea%x875
+\label{ex:x875}
+\gll \textstyleEmphasizedVernacularWords{Uurika}  \textstyleEmphasizedVernacularWords{mande  uuriw}  amia  mua  feeke  kerer-i-non. \\
+      \\
+\glt
+\z
+
+tomorrow  Monday  morning  bow  man  here.CF  appear-Np-FU.3s
+
+`Tomorrow Monday a policeman will come here in the morning.'
+
+\ea%x877
+\label{ex:x877}
+\gll \textstyleEmphasizedVernacularWords{Unan  urera  ama  ikur  naap}  on-a-mik. \\
+      \\
+\glt
+\z
+
+yesterday  afternoon  sun  five  thus  do-PA-1/3p
+
+`We did it yesterday afternoon around five o'clock.'
+
+\ea%x876
+\label{ex:x876}
+\gll \textstyleEmphasizedVernacularWords{Ikoka  trinde}\textstyleEmphasizedVernacularWords{=pa  nainiw } aakun-i-yen. \\
+      \\
+\glt
+\z
+
+later  Wednesday=LOC  again  talk-Np-FU.1p
+
+`We'll talk again later on Wednesday.'
+
+When a noun phrase acts as a temporal phrase, the locative clitic -\textstyleStyleVernacularWordsItalic{pa} is attached to it (\stepcounter{nx}{\thenx}), unless it is followed by another temporal phrase specifying it further or it includes a demonstrative (\stepcounter{nx}{\thenx}). If there are several of these temporal noun phrases, their relative order is from the larger time unit to the smaller one. 
+
+\ea%x878
+\label{ex:x878}
+\gll \textstyleEmphasizedVernacularWords{Mokoma  fain  siiwa  Mas}\textstyleEmphasizedVernacularWords{=pa}  weeser-i-non. \\
+      \\
+\glt
+\z
+
+year  this  month  March=LOC  finish-Np-FU.3s
+
+`It will finish in March this year.' 
+
+A temporal phrase may be formed with the instrumental clitic -\textstyleStyleVernacularWordsItalic{iw} (\sectref{sec:3.12.5}) when something takes place repeatedly at the same time of the day. The example (\stepcounter{nx}{\thenx}) is here repeated as (\stepcounter{nx}{\thenx}):
+
+\ea%x1907
+\label{ex:x1907}
+\gll I  amirik=\textstyleEmphasizedVernacularWords{iw}  ...  Gawar  wiar  ikiw-e-mik. \\
+      \\
+\glt
+\z
+
+1p.UNM  daytime=INST  {\dots}  Gawar  3.DAT  go-PA-1/3p
+
+`In the daytime we (always) went to Gawar {\dots}'
+
+\subsection{Manner phrase}
+\hypertarget{RefHeading21881935131865}{}
+An adverbial phrase indicating manner most often consists of just a manner adverb (\sectref{sec:3.9.1.3}).  That is occasionally intensified by an intensity adverb (\sectref{sec:3.9.2}). 
+
+\ea%x880
+\label{ex:x880}
+\gll Iwera  nainiw  \textstyleEmphasizedVernacularWords{kaken}  iimar-e-k. \\
+      \\
+\glt
+\z
+
+coconut  again  straight  stand.up-PA-3s
+
+`The coconut palm stood up straight again.'
+
+\ea%x879
+\label{ex:x879}
+\gll Koran  wiena  \textstyleEmphasizedVernacularWords{balisow  akena}  epa  nain  \\
+      \\
+\glt
+\z
+
+Koran  3p.GEN  well  truly/very  place  that1  
+
+amis-ar-e-mik.
+
+knowledge-INCH-PA-1/3p
+
+`The Koran people themselves know that place very well.'
+
+\ea%x881
+\label{ex:x881}
+\gll O  \textstyleEmphasizedVernacularWords{iiwawun  samor}  aaw-o-k.  \\
+      \\
+\glt
+\z
+
+3p.UNM  altogether  badly  get-PA-3s
+
+`He got it really bad (= he got into a very bad condition).'
+
+A manner phrase can also be formed by a noun phrase plus a clitic, instrumental \nobreakdash-\textstyleStyleVernacularWordsItalic{iw} or, less frequently, with locative -\textstyleStyleVernacularWordsItalic{pa}.  
+
+\ea%x882
+\label{ex:x882}
+\gll Siowa  wiawi=ke  siowa  aluowa  miim-ap  \textstyleEmphasizedVernacularWords{karu-(o)w(a)=iw} \\
+      \\
+\glt
+\z
+
+dog  3s/p.father  dog  noise  hear-SS.SEQ  run-NMZ=INST  
+
+ekap-o-k.
+
+come-PA-3s
+
+`The dog's master heard its noise and came running.'
+
+\ea%x884
+\label{ex:x884}
+\gll \textstyleEmphasizedVernacularWords{Yiena  kae  sira=pa}  mauw-owa  ik-ua. \\
+      \\
+\glt
+\z
+
+1p.GEN  grandfather  custom=LOC  work-NMZ  be-PA.3s
+
+`We have to work according to the custom of our grandfathers.'
+
+If there are more manner phrases than one, one of them is usually deictic \textstyleStyleVernacularWordsItalic{naap} `thus, like that' or \textstyleStyleVernacularWordsItalic{feenap} `like this' either preceding or following the other manner phrase(s).
+
+\ea%x883
+\label{ex:x883}
+\gll Wi  Yaapan  \textstyleEmphasizedVernacularWords{naap  kuisow=iw}  ekap-em-ik-e-mik. \\
+      \\
+\glt
+\z
+
+3p.UNM  Japan  thus  one=INST  come-SS.SIM-be-PA-1/3p
+
+`The Japanese came like that one by one.'
+
+When comparison is indicated in the manner phrase, the postposition \textstyleStyleVernacularWordsItalic{saarik} `like, as' follows the noun phrase.
+
+\ea%x885
+\label{ex:x885}
+\gll Wie,  wiawi  nain  \textstyleEmphasizedVernacularWords{ifa  saarik} \\
+      \\
+\glt
+\z
+
+3s/p.uncle  3s/p.father  that1  snake  like  
+
+in-urum-ep-ik-e-mik.
+
+sleep-DISTR/A-SS.SEQ-be-PA-1/3s
+
+`His uncles and fathers were all sleeping like snakes.'
+
+One type of a manner phrase is one that indicates instrument.  It is always formed with a noun phrase plus one of three clitics: instrumental -\textstyleStyleVernacularWordsItalic{iw}\textstyleStyleVernacularWordsItalic{} (\sectref{sec:3.12.5}), locative -\textstyleStyleVernacularWordsItalic{pa}  (\sectref{sec:3.12.4})\textstyleStyleVernacularWordsItalic{} or comitative -\textstyleStyleVernacularWordsItalic{iya}\textstyleStyleVernacularWordsItalic{} (\sectref{sec:3.12.1}). The instrumental clitic is the most common. 
+
+\ea%x886
+\label{ex:x886}
+\gll Ifa  mia  nain  \textstyleEmphasizedVernacularWords{fura=iw}  lalat-em-ik-om-a-mik. \\
+      \\
+\glt
+\z
+
+snake  skin  that1  knife=INST  sweep-SS.SIM-be-BEN-BNFY2.PA-1/3p
+
+`They kept scraping the snake skin off her with a knife.'
+
+\ea%x889
+\label{ex:x889}
+\gll ...\textstyleEmphasizedVernacularWords{wiena  opaimik=iw}  yia  maak-em-ik-e-mik. \\
+      \\
+\glt
+\z
+
+{\dots}3p.GEN  mouth/language=INST  1p.ACC  tell-SS.SIM-be-PA-1/3p
+
+`{\dots}they kept telling us in their language.'
+
+When a coordinate noun phrase is made into an instrumental manner phrase, the instrumental clitic only follows the last noun phrase.
+
+\ea%x892
+\label{ex:x892}
+\gll \textstyleEmphasizedVernacularWords{Wiena merena ne wapen=iw} era akup-amik. \\
+      \\
+\glt
+\z
+
+3p.GEN foot ADD hand=INST way search-PA-1/3p
+
+`With their feet and hands they felt (lit: searched) for the road.'
+
+The use of locative clitic is restricted almost exclusively to those cases where the instrument is a vehicle (\stepcounter{nx}{\thenx}), so they could also be understood as locatives. In other cases it is used rarely (\stepcounter{nx}{\thenx}).
+
+\ea%x887
+\label{ex:x887}
+\gll Yo  iiriw  \textstyleEmphasizedVernacularWords{iinan  aasa=pa}  karu-owa  erup  ar-ep  \\
+      \\
+\glt
+\z
+
+1s.UNM  earlier  sky  canoe=LOC  run-NMZ  two  become-SS.SEQ
+
+me  keker  op-a-m.
+
+not  fear  hold-PA-1s
+
+`I had already travelled by plane twice, and was not afraid.'
+
+\ea%x888
+\label{ex:x888}
+\gll \textstyleEmphasizedVernacularWords{Sureka}\textstyleEmphasizedVernacularWords{=pa}  owora  nain  teek-ap  aaw-e-mik. \\
+      \\
+\glt
+\z
+
+harvesting.stick=LOC  betelnut  that1  pluck-SS.SEQ  get-PA-1/3p
+
+`They picked the betelnuts with a harvesting stick.'
+
+The comitative clitic is also possible but infrequent in instrumental manner phrases. Its use in this function may be influenced by Tok Pisin, where \textstyleForeignWords{wantaim} `together (with)' is used not only for accompaniment, but for instruments as well.
+
+\ea%x890
+\label{ex:x890}
+\gll Mauwa  ar-e-n,  \textstyleEmphasizedVernacularWords{amia=iya}  nenar-e-mik=i? \\
+      \\
+\glt
+\z
+
+what  become-PA-2s  bow/gun=COM  shoot.you-PA-1/3p=QM
+
+`What happened to you, did they shoot you with a gun?'
+
+In Mauwake texts manner phrases are much less frequent than either locative or temporal phrases.
+

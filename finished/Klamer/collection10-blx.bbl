@@ -1,0 +1,1221 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Aissen2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Aissen}{A.}%
+     {Judith}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJ1}
+  \strng{fullhash}{AJ1}
+  \field{labelyear}{2003}
+  \field{sortinit}{A}
+  \field{number}{3}
+  \field{pages}{435\bibrangedash 483}
+  \field{title}{Differential object marking: Iconicity and economy}
+  \field{volume}{21}
+  \field{journaltitle}{Natural Language and Linguistic Theory}
+  \field{year}{2003}
+\endentry
+
+\entry{Arkadiev2008}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Arkadiev}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Donohue}{D.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wichmann}{W.}%
+     {S{\o}ren}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{AP1}
+  \strng{fullhash}{AP1}
+  \field{labelyear}{2008}
+  \field{sortinit}{A}
+  \field{booktitle}{The typology of semantic alignment}
+  \field{pages}{101\bibrangedash 117}
+  \field{title}{Thematic roles, event structure, and argument encoding in
+  semantically aligned languages}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Baayen1992}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baayen}{B.}%
+     {R.~Harald}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Booij}{B.}%
+     {Geert}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marle}{M.}%
+     {Jaap}{J.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kluwer Academic Publishers}%
+  }
+  \strng{namehash}{BRH1}
+  \strng{fullhash}{BRH1}
+  \field{labelyear}{1992}
+  \field{sortinit}{B}
+  \field{booktitle}{Yearbook of Morphology 1991}
+  \field{pages}{109\bibrangedash 149}
+  \field{title}{Quantitative aspects of morphological productivity}
+  \list{location}{1}{%
+    {Dordrecht}%
+  }
+  \field{year}{1992}
+\endentry
+
+\entry{Beavers2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Beavers}{B.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJ1}
+  \strng{fullhash}{BJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{B}
+  \field{number}{2}
+  \field{pages}{335\bibrangedash 370}
+  \field{title}{On affectedness}
+  \field{volume}{29}
+  \field{journaltitle}{Natural Language and Linguistic Theory}
+  \field{year}{2011}
+\endentry
+
+\entry{Bickel2008}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bickel}{B.}%
+     {Balthasar}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Corbett}{C.}%
+     {Greville~G.}{G.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Noonan}{N.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{BB1}
+  \strng{fullhash}{BB1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{booktitle}{Case and grammatical relations. Papers in honour of Bernard
+  Comrie}
+  \field{pages}{191\bibrangedash 210}
+  \field{title}{On the scope of the referential hierarchy in the typology of
+  grammatical relations}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{BohnemeyerEtAl2001}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bohnemeyer}{B.}%
+     {J\"urgen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bowerman}{B.}%
+     {Melissa}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brown}{B.}%
+     {Penelope}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Levinson}{L.}%
+     {Stephen~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Enfield}{E.}%
+     {N.J.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Institute for Psycholinguistics}%
+  }
+  \strng{namehash}{BJBMBP1}
+  \strng{fullhash}{BJBMBP1}
+  \field{labelyear}{2001}
+  \field{sortinit}{B}
+  \field{booktitle}{Manual for the field season 2001}
+  \field{pages}{90\bibrangedash 96}
+  \field{title}{Cut and break clips}
+  \list{location}{1}{%
+    {Nijmegen}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{Bossong1991}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bossong}{B.}%
+     {Georg}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Wanner}{W.}%
+     {Dieter}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kibbee}{K.}%
+     {Douglas~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Benjamins}%
+  }
+  \strng{namehash}{BG1}
+  \strng{fullhash}{BG1}
+  \field{labelyear}{1991}
+  \field{sortinit}{B}
+  \field{booktitle}{New analyses in Romance linguistics, selected papers from
+  the XVIII linguistic symposium on Romance languages 1988}
+  \field{pages}{143\bibrangedash 170}
+  \field{title}{Differential object marking in Romance and beyond}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1991}
+\endentry
+
+\entry{BowermanEtAl2004}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Bowerman}{B.}%
+     {Melissa}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gullberg}{G.}%
+     {Marianne}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Majid}{M.}%
+     {Asifa}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Narasimhan}{N.}%
+     {Bhuvana}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Majid}{M.}%
+     {Asifa}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Institute for Psycholinguistics}%
+  }
+  \strng{namehash}{BM+1}
+  \strng{fullhash}{BMGMMANB1}
+  \field{labelyear}{2004}
+  \field{sortinit}{B}
+  \field{booktitle}{Field Manual Volume 9}
+  \field{pages}{10\bibrangedash 24}
+  \field{title}{Put project: the cross-linguistic encoding of placement events}
+  \list{location}{1}{%
+    {Nijmegen}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{Comrie1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Comrie}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press.}%
+  }
+  \strng{namehash}{CB1}
+  \strng{fullhash}{CB1}
+  \field{labelyear}{1976}
+  \field{sortinit}{C}
+  \field{title}{Aspect}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{Croft1988}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Croft}{C.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Barlow}{B.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ferguson}{F.}%
+     {Charles~A.}{C.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Center for the Study of Language}%
+    {Information}%
+  }
+  \strng{namehash}{CW1}
+  \strng{fullhash}{CW1}
+  \field{labelyear}{1988}
+  \field{sortinit}{C}
+  \field{booktitle}{Agreement in natural languages. Approaches, theories,
+  descriptions}
+  \field{pages}{159\bibrangedash 180}
+  \field{title}{Agreement vs. case marking in direct objects}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{DalrympleEtAl2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Dalrymple}{D.}%
+     {Mary}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nikolaeva}{N.}%
+     {Irina}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{DMNI1}
+  \strng{fullhash}{DMNI1}
+  \field{labelyear}{2011}
+  \field{sortinit}{D}
+  \field{title}{Objects and information structure}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{DeLancey1985}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {DeLancey}{D.}%
+     {Scott}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Plank}{P.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton}%
+  }
+  \strng{namehash}{DS1}
+  \strng{fullhash}{DS1}
+  \field{labelyear}{1985}
+  \field{sortinit}{D}
+  \field{booktitle}{Relational typology}
+  \field{pages}{47\bibrangedash 60}
+  \field{title}{On active typology and the nature of agentivity}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{journaltitle}{Trends in Linguistics, Studies and Monographs}
+  \field{year}{1985}
+\endentry
+
+\entry{DonohueEtAl2008}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Donohue}{D.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wichmann}{W.}%
+     {S{\o}ren}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{DMWS1}
+  \strng{fullhash}{DMWS1}
+  \field{labelyear}{2008}
+  \field{sortinit}{D}
+  \field{title}{The typology of semantic alignment}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Dowty1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dowty}{D.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DD1}
+  \strng{fullhash}{DD1}
+  \field{labelyear}{1991}
+  \field{sortinit}{D}
+  \field{number}{3}
+  \field{pages}{547\bibrangedash 619}
+  \field{title}{Thematic proto-roles and argument selection}
+  \field{volume}{67}
+  \field{journaltitle}{Language}
+  \field{year}{1991}
+\endentry
+
+\entry{Dryer1986}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Syntax, Typology}
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{1986}
+  \field{sortinit}{D}
+  \field{number}{4}
+  \field{pages}{808\bibrangedash 845}
+  \field{title}{Primary objects, secondary objects and antidative}
+  \field{volume}{62}
+  \field{journaltitle}{Language}
+  \field{year}{1986}
+\endentry
+
+\entry{EvansEtAl2004}{incollection}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Evans}{E.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Levinson}{L.}%
+     {Stephen~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Enfield}{E.}%
+     {Nicholas~J.}{N.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gaby}{G.}%
+     {Alice}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Majid}{M.}%
+     {Asifa}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Majid}{M.}%
+     {Asifa}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Institute for Psycholinguistics}%
+  }
+  \strng{namehash}{EN+1}
+  \strng{fullhash}{ENLSCENJGAMA1}
+  \field{labelyear}{2004}
+  \field{sortinit}{E}
+  \field{booktitle}{Field manual Volume 9}
+  \field{pages}{25\bibrangedash 30}
+  \field{title}{Reciprocals}
+  \list{location}{1}{%
+    {Nijmegen}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{FeddenEtAl2013}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Fedden}{F.}%
+     {Sebastian}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brown}{B.}%
+     {Dunstan}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Corbett}{C.}%
+     {Greville~G.}{G.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Laura~C.}{L.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{glotto duplicate}
+  \strng{namehash}{FS+1}
+  \strng{fullhash}{FSBDCGGKMHGRLCSA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{pages}{33\bibrangedash 74}
+  \field{title}{Conditions on pronominal marking in the Alor-Pantar languages}
+  \field{volume}{51}
+  \field{journaltitle}{Linguistics}
+  \field{year}{2013}
+\endentry
+
+\entry{Givon1976}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Giv{\'o}n}{G.}%
+     {Talmy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Li}{L.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Academic Press}%
+  }
+  \strng{namehash}{GT1}
+  \strng{fullhash}{GT1}
+  \field{labelyear}{1976}
+  \field{sortinit}{G}
+  \field{booktitle}{Subject and topic}
+  \field{pages}{57\bibrangedash 98}
+  \field{title}{Subject, topic, and grammatical agreement}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{Haan2001}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haan}{H.}%
+     {Johnson~Wellem}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJW1}
+  \strng{fullhash}{HJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{title}{A grammar of Adang: A Papuan language spoken on the Island of
+  Alor, East Nusa Tenggara, Indonesia}
+  \list{institution}{1}{%
+    {University of Sydney}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{VonHeusingerEtAl2005}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Heusinger}{H.}%
+     {Klaus}{K.}%
+     {von}{v.}%
+     {}{}}%
+    {{}%
+     {Kaiser}{K.}%
+     {Georg}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Heusinger}{H.}%
+     {Klaus}{K.}%
+     {von}{v.}%
+     {}{}}%
+    {{}%
+     {Kaiser}{K.}%
+     {Georg}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universit\"at Konstanz}%
+  }
+  \strng{namehash}{HKvKG1}
+  \strng{fullhash}{HKvKG1}
+  \field{labelyear}{2005}
+  \field{sortinit}{H}
+  \field{booktitle}{Proceedings of the workshop {\textquotedblleft}Specificity
+  and the evolution/emergence of nominal determination systems in
+  Romance{\textquotedblright}}
+  \field{pages}{33\bibrangedash 70}
+  \field{title}{The evolution of differential object marking in Spanish}
+  \list{location}{1}{%
+    {Konstanz}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{VonHeusingerEtAl2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Heusinger}{H.}%
+     {Klaus}{K.}%
+     {von}{v.}%
+     {}{}}%
+    {{}%
+     {Kaiser}{K.}%
+     {Georg}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HKvKG1}
+  \strng{fullhash}{HKvKG1}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \field{issue}{1}
+  \field{pages}{1\bibrangedash 25}
+  \field{title}{Affectedness and differential object marking in Spanish}
+  \field{volume}{21}
+  \field{journaltitle}{Morphology}
+  \field{year}{2011}
+\endentry
+
+\entry{Holton2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Ewing}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{booktitle}{Typological and areal analyses: contributions from east
+  Nusantara}
+  \field{pages}{97\bibrangedash 117}
+  \field{title}{Person-marking, verb classes and the notion of grammatical
+  alignment in Western Pantar (Lamma)}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{HopperEtAl1980}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hopper}{H.}%
+     {Paul~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {Sandra~A.}{S.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Typology}
+  \strng{namehash}{HPJTSA1}
+  \strng{fullhash}{HPJTSA1}
+  \field{labelyear}{1980}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{251\bibrangedash 299}
+  \field{title}{Transitivity in grammar and discourse}
+  \field{volume}{56}
+  \field{journaltitle}{Language}
+  \field{year}{1980}
+\endentry
+
+\entry{Hurford2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hurford}{H.}%
+     {James~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HJR1}
+  \strng{fullhash}{HJR1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{series}{Studies in the Evolution of Language}
+  \field{title}{The origins of meaning: Language in the light of evolution}
+  \field{volume}{8}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{Klamer2008}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Donohue}{D.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wichmann}{W.}%
+     {S{\"o}ren}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2008}
+  \field{sortinit}{K}
+  \field{booktitle}{The Typology of Semantic Alignment}
+  \field{pages}{221\bibrangedash 251}
+  \field{title}{The semantics of Semantic Alignment in eastern Indonesia}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Klamer2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{pages}{xviii+540}
+  \field{series}{Mouton Grammar Library}
+  \field{title}{A Grammar of Teiwa}
+  \field{volume}{49}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{KlamerEtAl2006}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kratochv{\'\i}l}{K.}%
+     {Franti{\v s}ek}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Berkeley Linguistic Society}%
+  }
+  \strng{namehash}{KMKF1}
+  \strng{fullhash}{KMKF1}
+  \field{labelyear}{2006}
+  \field{sortinit}{K}
+  \field{booktitle}{Proceedings of BLS 32}
+  \field{title}{The role of animacy in Teiwa and Abui (Papuan)}
+  \list{location}{1}{%
+    {Berkeley}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{Kratochvil2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochv\'il}{K.}%
+     {Franti\v{s}ek}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{issue}{3}
+  \field{pages}{589\bibrangedash 636}
+  \field{title}{Transitivity in Abui}
+  \field{volume}{35}
+  \field{journaltitle}{Studies in Language}
+  \field{year}{2011}
+\endentry
+
+\entry{Kratochvil2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochvíl}{K.}%
+     {František}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{KF2}
+  \strng{fullhash}{KF2}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{title}{A grammar of Abui: A Papuan language of Alor}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{Mithun1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mithun}{M.}%
+     {Marianne}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{labelyear}{1991}
+  \field{sortinit}{M}
+  \field{number}{3}
+  \field{pages}{510\bibrangedash 546}
+  \field{title}{Active/agentive case marking and its motivations}
+  \field{volume}{67}
+  \field{journaltitle}{Language}
+  \field{year}{1991}
+\endentry
+
+\entry{Mohanan1990}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mohanan}{M.}%
+     {Tara}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MT1}
+  \strng{fullhash}{MT1}
+  \field{labelyear}{1990}
+  \field{sortinit}{M}
+  \field{title}{Arguments in Hindi}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \list{institution}{1}{%
+    {Stanford University}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{1990}
+\endentry
+
+\entry{Naess2004}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {N{\ae}ss}{N.}%
+     {{\AA}shild}{{\AA}.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NA1}
+  \strng{fullhash}{NA1}
+  \field{labelyear}{2004}
+  \field{sortinit}{N}
+  \field{issue}{(9-10}
+  \field{pages}{1186\bibrangedash 1212}
+  \field{title}{What markedness marks: The markedness problem with direct
+  objects}
+  \field{volume}{114}
+  \field{journaltitle}{Lingua}
+  \field{year}{2004}
+\endentry
+
+\entry{Naess2006}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {N{\ae}ss}{N.}%
+     {{\AA}shild}{{\AA}.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Leonid~Kulikov}{L.~K.}%
+     {Andrej~Malchukov}{A.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Swart}{S.}%
+     {Peter}{P.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{NA1}
+  \strng{fullhash}{NA1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{booktitle}{Case, valency and transitivity}
+  \field{pages}{309\bibrangedash 327}
+  \field{title}{Case semantics and the agent-patient opposition}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{Naess2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {N{\ae}ss}{N.}%
+     {{\AA}shild}{{\AA}.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{NA1}
+  \strng{fullhash}{NA1}
+  \field{labelyear}{2007}
+  \field{sortinit}{N}
+  \field{title}{Prototypical transitivity}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{RobinsonEtAltoappear}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Robinson}{R.}%
+     {Laura}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haan}{H.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{RLHJ1}
+  \strng{fullhash}{RLHJ1}
+  \field{labelyear}{To appear}
+  \field{sortinit}{R}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar. Sketch grammars.}
+  \field{title}{Adang}
+  \list{location}{2}{%
+    {Berlin}%
+    {New York}%
+  }
+  \field{year}{To appear}
+\endentry
+
+\entry{SchapperEtAl2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manimau}{M.}%
+     {Marten}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Unit Bahasa dan Budaya}%
+  }
+  \strng{namehash}{SAMM1}
+  \strng{fullhash}{SAMM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{series}{UBB Language \&Culture Series: A}
+  \field{title}{Kamus Pengantar Bahasa Kamang-Indonesia-Inggris (Introductory
+  Kamang-Indonesian-English dictionary)}
+  \field{volume}{7}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Siewierska2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siewierska}{S.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{labelyear}{2004}
+  \field{sortinit}{S}
+  \field{title}{Person}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{Siewierska2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siewierska}{S.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Digital Library}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{booktitle}{The world atlas of language structures online}
+  \field{note}{(accessed 29 March 2014)}
+  \field{pages}{chapter 102}
+  \field{title}{Verbal person marking}
+  \verb{url}
+  \verb http://wals.info/chapter/102
+  \endverb
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{Tsunoda1981}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tsunoda}{T.}%
+     {Tasaku}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{glotto duplicate}
+  \strng{namehash}{TT1}
+  \strng{fullhash}{TT1}
+  \field{labelyear}{1981}
+  \field{sortinit}{T}
+  \field{number}{5-6}
+  \field{pages}{389\bibrangedash 438}
+  \field{title}{Split case-marking in verb-types and tense/aspect/mood}
+  \field{volume}{19}
+  \field{journaltitle}{Linguistics}
+  \field{year}{1981}
+\endentry
+
+\entry{Tsunoda1985}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tsunoda}{T.}%
+     {Tasaku}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TT1}
+  \strng{fullhash}{TT1}
+  \field{labelyear}{1985}
+  \field{sortinit}{T}
+  \field{pages}{385\bibrangedash 396}
+  \field{title}{Remarks on transitivity}
+  \field{volume}{21}
+  \field{journaltitle}{Journal of Linguistics}
+  \field{year}{1985}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

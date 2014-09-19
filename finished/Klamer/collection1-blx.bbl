@@ -1,0 +1,2448 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Aikhenvald2000}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Aikhenvald}{A.}%
+     {Alexandra~Y.}{A.~Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \keyw{Nominal classification, Typology}
+  \strng{namehash}{AAY1}
+  \strng{fullhash}{AAY1}
+  \field{labelyear}{2000}
+  \field{sortinit}{A}
+  \field{pages}{535}
+  \field{series}{Oxford Studies in Typology and Linguistic Theory}
+  \field{title}{Classifiers: A typology of noun categorization devices}
+  \field{volume}{Studies in typology and linguistic theory}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{AikhenvaldEtAl2007}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Aikhenvald}{A.}%
+     {Alexandra~Y.}{A.~Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stebbins}{S.}%
+     {Tonya~N.}{T.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Miyaoka}{M.}%
+     {Osahito}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sakiyama}{S.}%
+     {Osamu}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Krauss}{K.}%
+     {Micheal~E.}{M.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{AAYSTN1}
+  \strng{fullhash}{AAYSTN1}
+  \field{labelyear}{2007}
+  \field{sortinit}{A}
+  \field{booktitle}{The vanishing languages of the Pacific Rim}
+  \field{pages}{239\bibrangedash 266}
+  \field{title}{Languages of New Guinea}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{Anonymous1914}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Anonymous}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{labelyear}{1914}
+  \field{sortinit}{A}
+  \field{pages}{70\bibrangedash 102}
+  \field{title}{De eilanden Alor en Pantar, Residentie Timor en
+  Onderhoorigheden}
+  \field{volume}{31}
+  \field{journaltitle}{Tijdschrift van het Koninklijk Nederlandsch
+  Aardrijkskundig Genootschap}
+  \field{year}{1914}
+\endentry
+
+\entry{Baird2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {J.}{J.}%
+     {Doetjes.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Weijer}{W.}%
+     {J.}{J.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{pages}{1\bibrangedash 22}
+  \field{title}{Doing the split-S in Klon, in: J}
+  \field{volume}{22}
+  \field{journaltitle}{Linguistics in the Netherlands}
+  \field{year}{2005}
+\endentry
+
+\entry{Baird2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Pacific Linguistics, Research School of Pacific}%
+    {Asian Studies, The Australian National University}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{isbn}{9780858835948}
+  \field{pages}{xv+242}
+  \field{series}{Pacific Linguistics}
+  \field{title}{A grammar of Klon: a non-Austronesian language of Alor,
+  Indonesia}
+  \field{volume}{596}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Baird2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Ewing}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{booktitle}{Typological and areal analyses: Contributions from East
+  Nusantara}
+  \field{pages}{189\bibrangedash 206}
+  \field{title}{Grammaticalisation of asymmetrical serial verb constructions in
+  Klon}
+  \field{year}{2010}
+\endentry
+
+\entry{Barnes1974}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Barnes}{B.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Clarendon Press}%
+  }
+  \strng{namehash}{BR1}
+  \strng{fullhash}{BR1}
+  \field{labelyear}{1974}
+  \field{sortinit}{B}
+  \field{title}{K{\'e}dang: A Study of the Collective Thought of an Eastern
+  Indonesian People}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1974}
+\endentry
+
+\entry{Barnes1996}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Barnes}{B.}%
+     {Robert~H.}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Claredon Press}%
+  }
+  \strng{namehash}{BRH1}
+  \strng{fullhash}{BRH1}
+  \field{labelyear}{1996}
+  \field{sortinit}{B}
+  \field{title}{Sea Hunters of Indonesia. Fishers and Weavers of Lamalera.}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{Barnes2001}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Barnes}{B.}%
+     {Robert~H.}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BRH1}
+  \strng{fullhash}{BRH1}
+  \field{labelyear}{2001}
+  \field{sortinit}{B}
+  \field{number}{2}
+  \field{pages}{271\bibrangedash 311}
+  \field{title}{Alliance and warfare in an Eastern Indonesian principality -
+  K{\'e}dang in the last half of the nineteenth century}
+  \field{volume}{157}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{2001}
+\endentry
+
+\entry{Bellwood1997}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bellwood}{B.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Hawaii Press}%
+  }
+  \strng{namehash}{BP1}
+  \strng{fullhash}{BP1}
+  \field{labelyear}{1997}
+  \field{sortinit}{B}
+  \field{edition}{2nd}
+  \field{title}{The prehistory of the Indo-Pacific archipelago}
+  \list{location}{1}{%
+    {Honolulu}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{Blust2009}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Blust}{B.}%
+     {Robert~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{BRA1}
+  \strng{fullhash}{BRA1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{isbn}{9780858836020}
+  \field{pages}{xxviii+824}
+  \field{series}{Pacific Linguistics}
+  \field{title}{The Austronesian languages}
+  \field{volume}{602}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{Chung2010}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chung}{C.}%
+     {Siaw-Fong}{S.-F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CSF1}
+  \strng{fullhash}{CSF1}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \field{number}{3}
+  \field{pages}{553\bibrangedash 577}
+  \field{title}{Numeral classifier buah in Malay: A corpus-based study}
+  \field{volume}{11}
+  \field{journaltitle}{Language and Linguistics}
+  \field{year}{2010}
+\endentry
+
+\entry{Coolhaas1979}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Coolhaas}{C.}%
+     {W.~Ph.}{W.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Martinus}%
+  }
+  \strng{namehash}{CWP1}
+  \strng{fullhash}{CWP1}
+  \field{labelyear}{1979}
+  \field{sortinit}{C}
+  \field{title}{Generale missiven van gouverneurs-generaal en raden aan Heren
+  XVII der Verenigde Oostindische Compagnie}
+  \field{volume}{VII}
+  \list{location}{1}{%
+    {s Gravenhage}%
+  }
+  \field{year}{1979}
+\endentry
+
+\entry{Dietrich1984}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dietrich}{D.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DS1}
+  \strng{fullhash}{DS1}
+  \field{labelyear}{1984}
+  \field{sortinit}{D}
+  \field{pages}{317\bibrangedash 326}
+  \field{title}{A Note on Galiyao and the Early History of the Solor-Alor
+  Islands}
+  \field{volume}{140}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{1984}
+\endentry
+
+\entry{Donohue1996}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Donohue}{D.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DM1}
+  \strng{fullhash}{DM1}
+  \field{labelyear}{1996}
+  \field{sortinit}{D}
+  \field{number}{2}
+  \field{pages}{101\bibrangedash 118}
+  \field{title}{Inverse in Tanglapui}
+  \field{volume}{27}
+  \field{journaltitle}{Language and Linguistics in Melanesia}
+  \field{year}{1996}
+\endentry
+
+\entry{Dryer1986}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Syntax, Typology}
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{1986}
+  \field{sortinit}{D}
+  \field{number}{4}
+  \field{pages}{808\bibrangedash 845}
+  \field{title}{Primary objects, secondary objects and antidative}
+  \field{volume}{62}
+  \field{journaltitle}{Language}
+  \field{year}{1986}
+\endentry
+
+\entry{Dryer1989}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{1989}
+  \field{sortinit}{D}
+  \field{pages}{865\bibrangedash 895}
+  \field{title}{Plural words}
+  \field{volume}{27}
+  \field{journaltitle}{Linguistics}
+  \field{year}{1989}
+\endentry
+
+\entry{FeddenEtAl2013}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Fedden}{F.}%
+     {Sebastian}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brown}{B.}%
+     {Dunstan}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Corbett}{C.}%
+     {Greville~G.}{G.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Laura~C.}{L.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{glotto duplicate}
+  \strng{namehash}{FS+1}
+  \strng{fullhash}{FSBDCGGKMHGRLCSA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{pages}{33\bibrangedash 74}
+  \field{title}{Conditions on pronominal marking in the Alor-Pantar languages}
+  \field{volume}{51}
+  \field{journaltitle}{Linguistics}
+  \field{year}{2013}
+\endentry
+
+\entry{Foley1986}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Foley}{F.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \keyw{Oceania}
+  \strng{namehash}{FW1}
+  \strng{fullhash}{FW1}
+  \field{labelyear}{1986}
+  \field{sortinit}{F}
+  \field{isbn}{9780521286213}
+  \field{issn}{99-0204055-1}
+  \field{pages}{xiii+305}
+  \field{series}{Cambridge language surveys}
+  \field{title}{The Papuan Languages of New Guinea}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1986}
+\endentry
+
+\entry{Foley2000}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Foley}{F.}%
+     {William~A.}{W.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FWA1}
+  \strng{fullhash}{FWA1}
+  \field{labelyear}{2000}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{pages}{357\bibrangedash 404}
+  \field{title}{The languages of New Guinea}
+  \field{volume}{29}
+  \field{journaltitle}{Annual Review of Anthropology}
+  \field{year}{2000}
+\endentry
+
+\entry{VanGaalen1945}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gaalen}{G.}%
+     {G.~A.~M.}{G.~A.~M.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \strng{namehash}{GGAMv1}
+  \strng{fullhash}{GGAMv1}
+  \field{labelyear}{1945}
+  \field{sortinit}{G}
+  \field{note}{manuscript}
+  \field{title}{Memorie van Overgave van den Fundgeerend Controleur van Alor G.
+  A. M. van Galen}
+  \field{year}{1945}
+\endentry
+
+\entry{GrimesEtAl1997}{book}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Grimes}{G.}%
+     {Charles~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Therik}{T.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grimes}{G.}%
+     {Barbara~D.}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jacob}{J.}%
+     {Max}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Artha Wacana Press}%
+  }
+  \strng{namehash}{GCE+1}
+  \strng{fullhash}{GCETTGBDJM1}
+  \field{labelyear}{1997}
+  \field{sortinit}{G}
+  \field{pages}{v+104}
+  \field{series}{Paradigma: Series B}
+  \field{title}{A guide to the people and languages of Nusa Tenggara}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{Haan2001}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haan}{H.}%
+     {Johnson~Wellem}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJW1}
+  \strng{fullhash}{HJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{title}{A grammar of Adang: A Papuan language spoken on the Island of
+  Alor, East Nusa Tenggara, Indonesia}
+  \list{institution}{1}{%
+    {University of Sydney}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{Hajek2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hajek}{H.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Ewing}{E.}%
+     {Michael~C.}{M.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{booktitle}{East Nusantara: typological and areal analyses}
+  \field{pages}{25\bibrangedash 46}
+  \field{series}{Pacific Linguistics}
+  \field{title}{Towards a phonological overview of the vowel and consonant
+  systems of East Nusantara}
+  \field{volume}{618}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Holton2008}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Donohue}{D.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wichmann}{W.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{booktitle}{The Typology of Semantic Alignment}
+  \field{pages}{252\bibrangedash 276}
+  \field{title}{The rise and fall of semantic alignment in North Halmahera,
+  Indonesia}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Holton2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Ewing}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{booktitle}{Typological and areal analyses: contributions from east
+  Nusantara}
+  \field{pages}{97\bibrangedash 117}
+  \field{title}{Person-marking, verb classes and the notion of grammatical
+  alignment in Western Pantar (Lamma)}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Holton2011}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Mark}{M.}%
+     {David~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turk}{T.}%
+     {Andrew~G.}{A.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burenhult}{B.}%
+     {Niclas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stea}{S.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \field{booktitle}{Landscape in Language}
+  \field{pages}{143\bibrangedash 166}
+  \field{title}{Landscape in Western Pantar, a Papuan outlier of southern
+  Indonesia}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{HoltonEtAl2008}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Koly}{K.}%
+     {Mahalalel~Lamma}{M.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {UBB-GMIT}%
+  }
+  \strng{namehash}{HGKML1}
+  \strng{fullhash}{HGKML1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{title}{Kamus Pengantar Bahasa Pantar Barat: Tubbe - Mauta - Lamma}
+  \list{location}{1}{%
+    {Kupang, Indonesia}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{HoltonEtAl2012}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kratochv{\'\i}l}{K.}%
+     {Franti{\v s}ek}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robinson}{R.}%
+     {Laura~C.}{L.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper.}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HG+1}
+  \strng{fullhash}{HGKMKFRLCSA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{86\bibrangedash 122}
+  \field{title}{The historical relations of the Papuan languages of Alor and
+  Pantar}
+  \field{volume}{51}
+  \field{journaltitle}{Oceanic Linguistics}
+  \field{year}{2012}
+\endentry
+
+\entry{Huber2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Huber}{H.}%
+     {Juliette}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lincom}%
+  }
+  \strng{namehash}{HJ2}
+  \strng{fullhash}{HJ2}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{isbn}{9783895861406}
+  \field{pages}{115}
+  \field{series}{Languages of the World/Materials}
+  \field{title}{First Steps Towards a Grammar of Makasae: A language of East
+  Timor}
+  \field{volume}{195}
+  \list{location}{1}{%
+    {M{\"u}nchen}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Huber2011}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Huber}{H.}%
+     {Juliette}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ2}
+  \strng{fullhash}{HJ2}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \field{pages}{700}
+  \field{title}{A grammar of Makalero: A Papuan language of East Timor}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \list{institution}{1}{%
+    {Vrije Universiteit Amsterdam}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2011}
+\endentry
+
+\entry{JacobEtAl2003}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Jacob}{J.}%
+     {June}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grimes}{G.}%
+     {Charles~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Artha Wacana Press}%
+  }
+  \strng{namehash}{JJGCE1}
+  \strng{fullhash}{JJGCE1}
+  \field{labelyear}{2003}
+  \field{sortinit}{J}
+  \field{title}{Kamus pengantar Bahasa Kupang--Bahasa Indonesia (dengan daftar
+  Indonesia--Kupang)}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{Klamer2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{pages}{xviii+540}
+  \field{series}{Mouton Grammar Library}
+  \field{title}{A Grammar of Teiwa}
+  \field{volume}{49}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Klamer2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lincom GmbH}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{pages}{142}
+  \field{series}{Languages of the World/Materials}
+  \field{title}{A Short Grammar of Alorese (Austronesian)}
+  \field{volume}{486}
+  \list{location}{1}{%
+    {M{\"u}nchen}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Klamer2012}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Evans}{E.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Hawaii Press}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{K}
+  \field{booktitle}{Melanesian Languages on the Edge of Asia: Challenges for
+  the 21st Century}
+  \field{pages}{72\bibrangedash 108}
+  \field{series}{Language Documentation \&Conservation Special Publication}
+  \field{title}{Papuan-Austronesian language contact: Alorese from an areal
+  perspective}
+  \field{volume}{5}
+  \list{location}{1}{%
+    {Honolulu}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{Klamer2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dimmendaal}{D.}%
+     {Gerrit~J.}{G.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Storch}{S.}%
+     {Anne}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Benjamins}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{booktitle}{Number: Constructions and Semantics. Case studies from
+  Africa, India, Amazonia \& Oceania}
+  \field{chapter}{6}
+  \field{pages}{135\bibrangedash 166}
+  \field{title}{The history of numeral classifiers in Teiwa (Papuan)}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{KlamerEtAl2006}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kratochv{\'\i}l}{K.}%
+     {Franti{\v s}ek}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {Berkeley Linguistic Society}%
+  }
+  \strng{namehash}{KMKF1}
+  \strng{fullhash}{KMKF1}
+  \field{labelyear}{2006}
+  \field{sortinit}{K}
+  \field{booktitle}{Proceedings of BLS 32}
+  \field{title}{The role of animacy in Teiwa and Abui (Papuan)}
+  \list{location}{1}{%
+    {Berkeley}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{KlamerEtAl2008}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reesink}{R.}%
+     {Ger}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Staden}{S.}%
+     {Miriam}{M.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Muysken}{M.}%
+     {Pieter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{KMRGSMv1}
+  \strng{fullhash}{KMRGSMv1}
+  \field{labelyear}{2008}
+  \field{sortinit}{K}
+  \field{booktitle}{From linguistic areas to areal linguistics}
+  \field{pages}{95\bibrangedash 149}
+  \field{series}{Studies in Language Companion Series}
+  \field{title}{East Nusantara as a Linguistic Area}
+  \field{volume}{90}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{KlamerEtAl2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{glotto duplicate}
+  \strng{namehash}{KMSA1}
+  \strng{fullhash}{KMSA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{K}
+  \field{number}{3}
+  \field{pages}{174\bibrangedash 207}
+  \field{title}{The development of give constructions in the Papuan languages
+  of Timor-Alor-Pantar}
+  \field{volume}{10}
+  \field{journaltitle}{Linguistic Discovery}
+  \field{year}{2012}
+\endentry
+
+\entry{Kratochvil2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochv\'il}{K.}%
+     {Franti\v{s}ek}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{issue}{3}
+  \field{pages}{589\bibrangedash 636}
+  \field{title}{Transitivity in Abui}
+  \field{volume}{35}
+  \field{journaltitle}{Studies in Language}
+  \field{year}{2011}
+\endentry
+
+\entry{Kratochvilta}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochv\'il}{K.}%
+     {Franti\v{s}ek}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{to appear}
+  \field{sortinit}{K}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar: Sketch grammars
+  Volume II}
+  \field{title}{Sawila}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{to appear}
+\endentry
+
+\entry{Kratochvil2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochvíl}{K.}%
+     {František}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{KF2}
+  \strng{fullhash}{KF2}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{title}{A grammar of Abui: A Papuan language of Alor}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{LansingEtAl2011}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Lansing}{L.}%
+     {Stephen~J.}{S.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cox}{C.}%
+     {Murray~P.}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vet}{V.}%
+     {Therese~A.}{T.~A.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Downey}{D.}%
+     {Sean~S.}{S.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hallmark}{H.}%
+     {Brian}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sudoyo}{S.}%
+     {Herawati}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LSJ+1}
+  \strng{fullhash}{LSJCMPVTAdDSSHBSH1}
+  \field{labelyear}{2011}
+  \field{sortinit}{L}
+  \field{pages}{262\bibrangedash 272}
+  \field{title}{An ongoing Austronesian expansion in Island Southeast Asia}
+  \field{volume}{30}
+  \field{journaltitle}{Journal of Anthropological Archaeology}
+  \field{year}{2011}
+\endentry
+
+\entry{Lemoine1969}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lemoine}{L.}%
+     {Annie}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LA1}
+  \strng{fullhash}{LA1}
+  \field{labelyear}{1969}
+  \field{sortinit}{L}
+  \field{number}{4}
+  \field{pages}{5\bibrangedash 32}
+  \field{title}{Histoires de Pantar}
+  \field{volume}{9}
+  \field{journaltitle}{L'Homme}
+  \field{year}{1969}
+\endentry
+
+\entry{Lewis2009}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lewis}{L.}%
+     {Paul~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Lewis}{L.}%
+     {Paul~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SIL International}%
+  }
+  \strng{namehash}{LPM1}
+  \strng{fullhash}{LPM1}
+  \field{labelyear}{2009}
+  \field{sortinit}{L}
+  \field{edition}{16}
+  \field{isbn}{9781556712166}
+  \field{note}{16th ed.}
+  \field{pages}{1248}
+  \field{title}{Ethnologue: Languages of the World}
+  \verb{url}
+  \verb http://www.ethnologue.com/web.asp
+  \endverb
+  \list{location}{1}{%
+    {Dallas}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{LewisEtAl2013}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lewis}{L.}%
+     {Paul~M.}{P.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Simons}{S.}%
+     {Gary~F.}{G.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fennig}{F.}%
+     {Charles~D.}{C.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SIL International}%
+  }
+  \strng{namehash}{LPMSGFFCD1}
+  \strng{fullhash}{LPMSGFFCD1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{edition}{17}
+  \field{title}{Ethnologue: Languages of the World}
+  \verb{url}
+  \verb http://www.ethnologue.com
+  \endverb
+  \list{location}{1}{%
+    {Dallas}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{Maddieson2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Maddieson}{M.}%
+     {Ian}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Haspelmath}{H.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dryer}{D.}%
+     {M.S.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gil}{G.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Comrie}{C.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MI1}
+  \strng{fullhash}{MI1}
+  \field{labelyear}{2005}
+  \field{sortinit}{M}
+  \field{booktitle}{The World Atlas of Language Structures}
+  \field{pages}{10\bibrangedash 13}
+  \field{title}{Consonant inventories}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{Mahirta2006}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mahirta}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Simanjuntak}{S.}%
+     {Truman}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pojoh}{P.}%
+     {Ingrid~H.E.}{I.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hisyam}{H.}%
+     {Mohammad}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LIPI Press}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{labelyear}{2006}
+  \field{sortinit}{M}
+  \field{booktitle}{Austronesian diaspora and the ethnogeneses of people in
+  Indonesian archipelago}
+  \field{pages}{129\bibrangedash 145}
+  \field{title}{The prehistory of Austronesian dispersal to the southern
+  islands of eastern Indonesia}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{MartisEtAl2000}{book}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Martis}{M.}%
+     {Non}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kurnatiawati}{K.}%
+     {Wati}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aritonang}{A.}%
+     {Buha}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Astar}{A.}%
+     {Hidayatul}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Feirizal}{F.}%
+     {Ferr}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pusat Bahasa, Departemen Pendidikan Nasional}%
+  }
+  \strng{namehash}{MN+1}
+  \strng{fullhash}{MNKWABAHFF1}
+  \field{labelyear}{2000}
+  \field{sortinit}{M}
+  \field{title}{Monografi kosakata dasar Swadesh di Kabupaten Alor}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{Nicolspeyer1940}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nicolspeyer}{N.}%
+     {Martha~Margaretha}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NMM1}
+  \strng{fullhash}{NMM1}
+  \field{labelyear}{1940}
+  \field{sortinit}{N}
+  \field{pages}{186}
+  \field{title}{De sociale structuur van een Aloreesche bevolkingsgroep}
+  \list{location}{1}{%
+    {Rijswijk}%
+  }
+  \list{institution}{1}{%
+    {Rijksuniversiteit te Leiden}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{1940}
+\endentry
+
+\entry{OConnor2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {O'Connor}{O.}%
+     {Sue}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OS1}
+  \strng{fullhash}{OS1}
+  \field{labelyear}{2003}
+  \field{sortinit}{O}
+  \field{number}{1}
+  \field{pages}{96\bibrangedash 128}
+  \field{title}{Nine new painted rock art sites from East Timor in the context
+  of the Western Pacific region}
+  \field{volume}{42}
+  \field{journaltitle}{Asian Perspectives}
+  \field{year}{2003}
+\endentry
+
+\entry{Pawley2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pawley}{P.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Pawley}{P.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Attenborough}{A.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Golson}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hide}{H.}%
+     {Robin}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{PA1}
+  \strng{fullhash}{PA1}
+  \field{labelyear}{2005}
+  \field{sortinit}{P}
+  \field{booktitle}{Papuan Pasts: Studies in the Cultural, Linguistic and
+  Biological History of the Papuan-speaking Peoples}
+  \field{pages}{67\bibrangedash 108}
+  \field{series}{Pacific Linguistics}
+  \field{title}{The Chequered Career of the Trans New Guinea Hypothesis: Recent
+  Research and its Implications}
+  \field{volume}{572}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{Rodemeier1995}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rodemeier}{R.}%
+     {Susanne}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RS1}
+  \strng{fullhash}{RS1}
+  \field{labelyear}{1995}
+  \field{sortinit}{R}
+  \field{number}{3}
+  \field{pages}{438\bibrangedash 442}
+  \field{title}{Local tradition on Alor and Pantar: An attempt at localizing
+  Galiyao}
+  \field{volume}{151}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{1995}
+\endentry
+
+\entry{Rodemeier2006}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rodemeier}{R.}%
+     {Susanne}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LIT Verlag}%
+  }
+  \strng{namehash}{RS1}
+  \strng{fullhash}{RS1}
+  \field{labelyear}{2006}
+  \field{sortinit}{R}
+  \field{series}{Passauer Betr{\"a}ge zur S{\"u}dostasienkunde}
+  \field{title}{Tutu kadire in Pandai-Munaseli}
+  \field{volume}{12}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{DeRoever2002}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Roever}{R.}%
+     {Arend}{A.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walburg Pers}%
+  }
+  \strng{namehash}{RAd1}
+  \strng{fullhash}{RAd1}
+  \field{labelyear}{2002}
+  \field{sortinit}{R}
+  \field{title}{De jacht op sandelhout: de VOC en de tweedeling van Timor in de
+  zeventiende eeuw}
+  \list{location}{1}{%
+    {Zutphen}%
+  }
+  \list{institution}{1}{%
+    {Leiden U.}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2002}
+\endentry
+
+\entry{Ross2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ross}{R.}%
+     {Malcolm}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Pawley}{P.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Attemborough}{A.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Golson}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hide}{H.}%
+     {Robin}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{RM1}
+  \strng{fullhash}{RM1}
+  \field{labelyear}{2005}
+  \field{sortinit}{R}
+  \field{booktitle}{Papuan Pasts: Cultural, linguistic and biological histories
+  of Papuan-speaking peoples}
+  \field{pages}{15\bibrangedash 65}
+  \field{title}{Pronouns as preliminary diagnostic for grouping Papuan
+  languages}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{Schapper2010}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{pages}{587}
+  \field{title}{Bunaq: a Papuan language of central Timor}
+  \list{institution}{1}{%
+    {Australian National University}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2010}
+\endentry
+
+\entry{Schapper2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA2}
+  \strng{fullhash}{SA2}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{title}{Elevation and scale in two Papuan languages}
+  \field{year}{2012}
+\endentry
+
+\entry{Siewierska2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siewierska}{S.}%
+     {Anna}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Digital Library}%
+  }
+  \strng{namehash}{SA3}
+  \strng{fullhash}{SA3}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{booktitle}{The world atlas of language structures online}
+  \field{note}{(accessed 29 March 2014)}
+  \field{pages}{chapter 102}
+  \field{title}{Verbal person marking}
+  \verb{url}
+  \verb http://wals.info/chapter/102
+  \endverb
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{Spriggs2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Spriggs}{S.}%
+     {Matthew}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{pages}{510\bibrangedash 528}
+  \field{title}{Archaeology and the Austronesian expansion: where are we now?}
+  \field{volume}{85}
+  \field{journaltitle}{Antiquity}
+  \field{year}{2011}
+\endentry
+
+\entry{Steenbrink2003}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steenbrink}{S.}%
+     {Karel}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {KITVL Press}%
+  }
+  \strng{namehash}{SK1}
+  \strng{fullhash}{SK1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{title}{Catholics in Indonesia 1808-1942. A documented history.}
+  \list{location}{1}{%
+    {Leiden}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{Steinhauer1977}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1977}
+  \field{sortinit}{S}
+  \field{pages}{38\bibrangedash 48}
+  \field{title}{`Going' and `Coming' in the Blagar language of Dolap (Pura,
+  Alor, Indonesia)}
+  \field{volume}{3}
+  \field{journaltitle}{NUSA: Miscellaneous Studies in Indonesian and Languages
+  in Indonesia}
+  \field{year}{1977}
+\endentry
+
+\entry{Steinhauer1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Dutton}{D.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1991}
+  \field{sortinit}{S}
+  \field{pages}{177\bibrangedash 221}
+  \field{title}{Demonstratives in the Blagar language of Dolap (Pura, Alor,
+  Indonesia)}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{journaltitle}{Papers in Papuan linguistics}
+  \field{year}{1991}
+\endentry
+
+\entry{Steinhauer1993}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Haenen}{H.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {DSALCUL/IRIS}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1993}
+  \field{sortinit}{S}
+  \field{booktitle}{Vrienden en verwanten, Liber Amicorum Alex van der Leeden}
+  \field{pages}{147\bibrangedash 168}
+  \field{title}{Sisters and potential wives: where linguists and
+  anthropologists meet: notes on kinship in Blagar (Alor)}
+  \list{location}{2}{%
+    {Leiden}%
+    {Jakarta}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{Steinhauer1995}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Baak}{B.}%
+     {Connie}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bakker}{B.}%
+     {Mary}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meij}{M.}%
+     {Dick}{D.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+  }
+  \list{publisher}{3}{%
+    {Projects Division, Department of Languages}%
+    {Cultures of South-East Asia}%
+    {Oceania}%
+  }
+  \keyw{glotto duplicate}
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1995}
+  \field{sortinit}{S}
+  \field{booktitle}{Tales from a concave world: Liber amicorum Bert Voorhoeve}
+  \field{pages}{269\bibrangedash 296}
+  \field{title}{Two varieties of the Blagar language (Alor, Indonesia)}
+  \list{location}{1}{%
+    {Leiden}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{Steinhauer1999}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Purwo}{P.}%
+     {Bambang~Kaswanti}{B.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Universitas Cenderawasih}%
+    {Summer Institute of Linguistics}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1999}
+  \field{sortinit}{S}
+  \field{booktitle}{Panorama bahasa Nusantara}
+  \field{pages}{71\bibrangedash 102}
+  \field{title}{Bahasa Blagar Selayang Pandang}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{Steinhauer2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Fedorchuk}{F.}%
+     {Artem}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chlenova}{C.}%
+     {Svetlana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mosty Kul'tury Gesharim}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{booktitle}{Studia Antropologica. A Festschrift in Honour of Michael
+  Chlenov}
+  \field{pages}{261\bibrangedash 283}
+  \field{title}{Pura when we were younger than today}
+  \list{location}{1}{%
+    {Jerusalim}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Steinhauer2012}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Siregar}{S.}%
+     {Bahren~Umar}{B.~U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Subagyo}{S.}%
+     {P.~Ari}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nasanius}{N.}%
+     {Yassir}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pusat Kajian Bahasa dan Budaya Universitas Katolik Indonesia Atma Jaya}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{booktitle}{Dari menapak jejak kata sampai menyigi tata bahasa.
+  Persembahan untuk Prof. Dr. Bambang Kaswanti Purwo dalam rangka ulang
+  tahunnya yang ke-60}
+  \field{pages}{115\bibrangedash 147}
+  \field{title}{Deictic categories in three languages of Eastern Indonesia}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{Steinhauertoappear}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{To appear}
+  \field{sortinit}{S}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar: Sketch grammars}
+  \field{edition}{Asia-Pacific Linguistics}
+  \field{title}{Blagar}
+  \field{volume}{1}
+  \list{location}{2}{%
+    {Berlin}%
+    {New York}%
+  }
+  \field{year}{To appear}
+\endentry
+
+\entry{Stokhof1984}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SW1}
+  \strng{fullhash}{SW1}
+  \field{labelyear}{1984}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{106\bibrangedash 162}
+  \field{title}{Annotations to a text in the Abui language (Alor)}
+  \field{volume}{140}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{1984}
+\endentry
+
+\entry{Stokhof1975}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1975}
+  \field{sortinit}{S}
+  \field{isbn}{9780858831247}
+  \field{note}{Bibliography: p. 70-73.}
+  \field{pages}{vi+73}
+  \field{series}{Pacific Linguistics: Series B}
+  \field{title}{Preliminary notes on the Alor and Pantar languages (East
+  Indonesia)}
+  \field{volume}{43}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1975}
+\endentry
+
+\entry{Stokhof1977}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1977}
+  \field{sortinit}{S}
+  \field{pages}{90}
+  \field{series}{Pacific Linguistics: Series D}
+  \field{title}{Woisika I: An Ethnographic Introduction}
+  \field{volume}{19}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1977}
+\endentry
+
+\entry{Stokhof1978}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {NUSA}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1978}
+  \field{sortinit}{S}
+  \field{pages}{34\bibrangedash 57}
+  \field{title}{Woisika text}
+  \field{volume}{5}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{journaltitle}{Miscellaneous Studies in Indonesian and Languages in
+  Indonesia}
+  \field{year}{1978}
+\endentry
+
+\entry{Stokhof1982}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ANU}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1982}
+  \field{sortinit}{S}
+  \field{isbn}{9780858832572}
+  \field{note}{Bibliography: p. 67-74.. Materials in languages of Indonesia.
+  Materials in languages of Indonesia ; 9}
+  \field{pages}{iii+74}
+  \field{series}{Pacific linguistics : Series D, Special publications}
+  \field{title}{Woisika riddles}
+  \field{volume}{41}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{Stokhof1983}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1983}
+  \field{sortinit}{S}
+  \field{number}{2/3}
+  \field{pages}{179\bibrangedash 207}
+  \field{title}{Names and Naming in Ateita and environments (Woisika, Alor)}
+  \field{volume}{61}
+  \field{journaltitle}{Lingua}
+  \field{year}{1983}
+\endentry
+
+\entry{Stokhof1987}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Laycock}{L.}%
+     {Donald~C.}{D.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Winter}{W.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1987}
+  \field{sortinit}{S}
+  \field{booktitle}{A World of Language: Papers presented to Professor Stephen
+  A. Wurm on his 65th Birthday}
+  \field{pages}{631\bibrangedash 648}
+  \field{series}{Pacific Linguistics: Series C}
+  \field{title}{A short Kabola Text (Alor, East Indonesia)}
+  \field{volume}{100}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{Stokhof1979}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.A.L.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacific Linguistics}%
+  }
+  \strng{namehash}{SW1}
+  \strng{fullhash}{SW1}
+  \field{labelyear}{1979}
+  \field{sortinit}{S}
+  \field{title}{Woisika II: Phonemics}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1979}
+\endentry
+
+\entry{Summerhayes2007}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Summerhayes}{S.}%
+     {Glenn~R.}{G.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Friedlaender}{F.}%
+     {Jonathan~S.}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{SGR1}
+  \strng{fullhash}{SGR1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{booktitle}{Genes, language and culture history in the Southwest
+  Pacific}
+  \field{pages}{10\bibrangedash 35}
+  \field{title}{Island Melanesian Pasts: A view from archeology}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{WellfeltEtAl2013}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wellfelt}{W.}%
+     {Emilie}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WESA1}
+  \strng{fullhash}{WESA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{W}
+  \field{howpublished}{Paper read at the Eighth International Convention of
+  Asia Scholars, June 24--27, Macao.}
+  \field{title}{Memories of migration and contact: East Timor origins in Alor}
+  \field{year}{2013}
+\endentry
+
+\entry{XuEtAl2012}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Xu}{X.}%
+     {Shuhua}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pugach}{P.}%
+     {Irina}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stoneking}{S.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kayser}{K.}%
+     {Manfred}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jin}{J.}%
+     {Li}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Consortium}{C.}%
+     {The HUGO Pan-Asian}{T.~H. P.-A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{XS+1}
+  \strng{fullhash}{XSPISMKMJLCTHPA1}
+  \field{labelyear}{2012}
+  \field{sortinit}{X}
+  \field{number}{12}
+  \field{pages}{4574\bibrangedash 4579}
+  \field{title}{Genetic dating indicates that the Asian-Papuan admixture
+  through Eastern Indonesia corresponds to the Austronesian expansion}
+  \field{volume}{109}
+  \field{journaltitle}{PNAS}
+  \field{year}{2012}
+\endentry
+
+\entry{ZubinEtAl1993}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Zubin}{Z.}%
+     {David~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shimojo}{S.}%
+     {Mitsuaki}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZDASM1}
+  \strng{fullhash}{ZDASM1}
+  \field{labelyear}{1993}
+  \field{sortinit}{Z}
+  \field{booktitle}{Proceedings of the Nineteenth Annual Meeting of the
+  Berkeley Linguistics Society: General Session and Parasession on Semantic
+  Typology and Semantic Universals}
+  \field{pages}{490\bibrangedash 502}
+  \field{title}{How general are General Classifiers? With special reference to
+  ko and tsu in Japanese}
+  \field{year}{1993}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

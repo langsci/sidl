@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: collection6-blx.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10032 items from 5000.
+Database file #1: collection-blx.bib
+Database file #2: localbibliography.bib
+Warning--I didn't find a database entry for "Cheung2007"
+Warning--I didn't find a database entry for "Roque2011"
+Warning--I didn't find a database entry for "HoltonToAppear"
+Warning--I didn't find a database entry for "Windschuttel2013"
+Warning--I didn't find a database entry for "KratochvilToAppear"
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 32 entries,
+            6019 wiz_defined-function locations,
+            1363 strings with 13500 characters,
+and the built_in function-call counts, 117063 in all, are:
+= -- 6119
+> -- 3521
+< -- 1494
++ -- 1370
+- -- 904
+* -- 7307
+:= -- 6291
+add.period$ -- 0
+call.type$ -- 32
+change.case$ -- 1117
+chr.to.int$ -- 34
+cite$ -- 62
+duplicate$ -- 13076
+empty$ -- 11941
+format.name$ -- 1867
+if$ -- 27444
+int.to.chr$ -- 0
+int.to.str$ -- 125
+missing$ -- 0
+newline$ -- 873
+num.names$ -- 2202
+pop$ -- 9826
+preamble$ -- 1
+purify$ -- 1160
+quote$ -- 0
+skip$ -- 7544
+stack$ -- 0
+substring$ -- 4826
+swap$ -- 4419
+text.length$ -- 793
+text.prefix$ -- 31
+top$ -- 1
+type$ -- 1203
+warning$ -- 0
+while$ -- 640
+width$ -- 0
+write$ -- 840
+(There were 5 warnings)

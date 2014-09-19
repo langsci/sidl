@@ -1,0 +1,527 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Baird2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Pacific Linguistics, Research School of Pacific}%
+    {Asian Studies, The Australian National University}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{isbn}{9780858835948}
+  \field{pages}{xv+242}
+  \field{series}{Pacific Linguistics}
+  \field{title}{A grammar of Klon: a non-Austronesian language of Alor,
+  Indonesia}
+  \field{volume}{596}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Barnes1973}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Barnes}{B.}%
+     {Robert~H.}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BRH1}
+  \strng{fullhash}{BRH1}
+  \field{labelyear}{1973}
+  \field{sortinit}{B}
+  \field{pages}{71\bibrangedash 89}
+  \field{title}{Two terminologies of symmetric prescriptive alliance from
+  Pantar and Alor in Eastern Indonesia}
+  \field{volume}{23}
+  \field{journaltitle}{Sociologus}
+  \field{year}{1973}
+\endentry
+
+\entry{Barnes1980}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Barnes}{B.}%
+     {Robert~H.}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Fox}{F.}%
+     {James~J.}{J.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BRH1}
+  \strng{fullhash}{BRH1}
+  \field{labelyear}{1980}
+  \field{sortinit}{B}
+  \field{booktitle}{The Flow of Life: Essays on Eastern Indonesian}
+  \field{pages}{68\bibrangedash 97}
+  \field{title}{Concordance, structure, and variation: Considerations of
+  alliance in Kedang}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1980}
+\endentry
+
+\entry{Blust1993}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Blust}{B.}%
+     {Robert~Andrew}{R.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BRA1}
+  \strng{fullhash}{BRA1}
+  \field{labelyear}{1993}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{pages}{22\bibrangedash 76}
+  \field{title}{Austronesian sibling terms and culture history}
+  \field{volume}{149}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{1993}
+\endentry
+
+\entry{Forman1980}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Forman}{F.}%
+     {Shepard}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FS1}
+  \strng{fullhash}{FS1}
+  \field{labelyear}{1980}
+  \field{sortinit}{F}
+  \field{pages}{152\bibrangedash 177}
+  \field{title}{Descent, alliance, and exchange ideology among the Makassae of
+  East Timor}
+  \field{journaltitle}{The flow of life: Essays on eastern Indonesia}
+  \field{year}{1980}
+\endentry
+
+\entry{Fox1980}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fox}{F.}%
+     {James~J.}{J.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{FJJ1}
+  \strng{fullhash}{FJJ1}
+  \field{labelyear}{1980}
+  \field{sortinit}{F}
+  \field{title}{The Flow of Life: Essays on Eastern Indonesian}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1980}
+\endentry
+
+\entry{Fox1995}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fox}{F.}%
+     {James~J.}{J.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FJJ1}
+  \strng{fullhash}{FJJ1}
+  \field{labelyear}{1995}
+  \field{sortinit}{F}
+  \field{howpublished}{Paper read at Austronesian Studies Relating to Taiwan,
+  Symposium Series of the Institute of History and Philology}
+  \field{title}{Origin structures and systems of precedence in the comparative
+  study of Austronesian societies}
+  \field{year}{1995}
+\endentry
+
+\entry{Haan2001}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haan}{H.}%
+     {Johnson~Wellem}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJW1}
+  \strng{fullhash}{HJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{title}{A grammar of Adang: A Papuan language spoken on the Island of
+  Alor, East Nusa Tenggara, Indonesia}
+  \list{institution}{1}{%
+    {University of Sydney}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{Klamer2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{pages}{xviii+540}
+  \field{series}{Mouton Grammar Library}
+  \field{title}{A Grammar of Teiwa}
+  \field{volume}{49}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Klamer2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lincom GmbH}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{pages}{142}
+  \field{series}{Languages of the World/Materials}
+  \field{title}{A Short Grammar of Alorese (Austronesian)}
+  \field{volume}{486}
+  \list{location}{1}{%
+    {M{\"u}nchen}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{KratochvilEtAl2008}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kratochv\'il}{K.}%
+     {Franti\v{s}ek}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delpada}{D.}%
+     {Benediktus}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Unit Bahasa dan Budaya (UBB)}%
+  }
+  \strng{namehash}{KFDB1}
+  \strng{fullhash}{KFDB1}
+  \field{labelyear}{2008}
+  \field{sortinit}{K}
+  \field{title}{Abui stories from Takalelang}
+  \list{location}{1}{%
+    {Kupang, Indonesia}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Needham1956}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Needham}{N.}%
+     {Rodney.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NR1}
+  \strng{fullhash}{NR1}
+  \field{labelyear}{1956}
+  \field{sortinit}{N}
+  \field{pages}{285\bibrangedash 290}
+  \field{title}{A note on kinship and marriage on Pantara}
+  \field{volume}{112-113}
+  \field{journaltitle}{Bijdragen tot de Taal-, Land- en Volkenkunde}
+  \field{year}{1956}
+\endentry
+
+\entry{Nicolspeyer1940}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nicolspeyer}{N.}%
+     {Martha~Margaretha}{M.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NMM1}
+  \strng{fullhash}{NMM1}
+  \field{labelyear}{1940}
+  \field{sortinit}{N}
+  \field{pages}{186}
+  \field{title}{De sociale structuur van een Aloreesche bevolkingsgroep}
+  \list{location}{1}{%
+    {Rijswijk}%
+  }
+  \list{institution}{1}{%
+    {Rijksuniversiteit te Leiden}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{1940}
+\endentry
+
+\entry{SchapperEtAl2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manimau}{M.}%
+     {Marten}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Unit Bahasa dan Budaya}%
+  }
+  \strng{namehash}{SAMM1}
+  \strng{fullhash}{SAMM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{series}{UBB Language \&Culture Series: A}
+  \field{title}{Kamus Pengantar Bahasa Kamang-Indonesia-Inggris (Introductory
+  Kamang-Indonesian-English dictionary)}
+  \field{volume}{7}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Schneider1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {David~M.}{D.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Michigan}%
+  }
+  \strng{namehash}{SDM1}
+  \strng{fullhash}{SDM1}
+  \field{labelyear}{1984}
+  \field{sortinit}{S}
+  \field{title}{A Critique of the Study of Kinship}
+  \list{location}{1}{%
+    {Ann Arbor}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{Schweitzer2000}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schweitzer}{S.}%
+     {Peter~P.}{P.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schweitzer}{S.}%
+     {Peter~P.}{P.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{SPP1}
+  \strng{fullhash}{SPP1}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{booktitle}{Dividends of Kinship: Meanings and Uses of Social
+  Relatedness}
+  \field{pages}{1\bibrangedash 32}
+  \field{title}{Introduction}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{Steinhauer1993}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Haenen}{H.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {DSALCUL/IRIS}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{1993}
+  \field{sortinit}{S}
+  \field{booktitle}{Vrienden en verwanten, Liber Amicorum Alex van der Leeden}
+  \field{pages}{147\bibrangedash 168}
+  \field{title}{Sisters and potential wives: where linguists and
+  anthropologists meet: notes on kinship in Blagar (Alor)}
+  \list{location}{2}{%
+    {Leiden}%
+    {Jakarta}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{Steinhauer2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinhauer}{S.}%
+     {Hein}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Fedorchuk}{F.}%
+     {Artem}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chlenova}{C.}%
+     {Svetlana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mosty Kul'tury Gesharim}%
+  }
+  \strng{namehash}{SH1}
+  \strng{fullhash}{SH1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{booktitle}{Studia Antropologica. A Festschrift in Honour of Michael
+  Chlenov}
+  \field{pages}{261\bibrangedash 283}
+  \field{title}{Pura when we were younger than today}
+  \list{location}{1}{%
+    {Jerusalim}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Stokhof1977}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Research School of Pacific}%
+    {Asian Studies, Australian National University}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1977}
+  \field{sortinit}{S}
+  \field{pages}{90}
+  \field{series}{Pacific Linguistics: Series D}
+  \field{title}{Woisika I: An Ethnographic Introduction}
+  \field{volume}{19}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1977}
+\endentry
+
+\entry{VanWouden1968}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wouden}{W.}%
+     {F.A.E.}{F.}%
+     {van}{v.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Marinus Nijhoff}%
+  }
+  \strng{namehash}{WFv1}
+  \strng{fullhash}{WFv1}
+  \field{labelyear}{1968}
+  \field{sortinit}{W}
+  \field{edition}{Translated by Rodney Needham. Original edition, Sociale
+  structuurtypen in de Groote Oost.}
+  \field{title}{Types of Social Structure in Eastern Indonesia}
+  \list{location}{1}{%
+    {The Hague}%
+  }
+  \field{year}{1968}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

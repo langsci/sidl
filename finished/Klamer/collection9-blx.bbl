@@ -1,0 +1,406 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Baird2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baird}{B.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Pacific Linguistics, Research School of Pacific}%
+    {Asian Studies, The Australian National University}%
+  }
+  \strng{namehash}{BL1}
+  \strng{fullhash}{BL1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{isbn}{9780858835948}
+  \field{pages}{xv+242}
+  \field{series}{Pacific Linguistics}
+  \field{title}{A grammar of Klon: a non-Austronesian language of Alor,
+  Indonesia}
+  \field{volume}{596}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Dryer1989}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{1989}
+  \field{sortinit}{D}
+  \field{pages}{865\bibrangedash 895}
+  \field{title}{Plural words}
+  \field{volume}{27}
+  \field{journaltitle}{Linguistics}
+  \field{year}{1989}
+\endentry
+
+\entry{Dryer2007}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Shopen}{S.}%
+     {Timothy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{2007}
+  \field{sortinit}{D}
+  \field{booktitle}{Language Typology and Syntactic Description. Complex
+  Constructions}
+  \field{pages}{151\bibrangedash 205}
+  \field{title}{Noun phrase structure}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{Dryer2011}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Digital Library}%
+  }
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{2011}
+  \field{sortinit}{D}
+  \field{booktitle}{The World Atlas of Language Structures Online}
+  \field{chapter}{33}
+  \field{title}{Coding of Nominal Plurality}
+  \verb{url}
+  \verb http://wals.info/chapter/33
+  \endverb
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Haan2001}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haan}{H.}%
+     {Johnson~Wellem}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJW1}
+  \strng{fullhash}{HJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{H}
+  \field{title}{A grammar of Adang: A Papuan language spoken on the Island of
+  Alor, East Nusa Tenggara, Indonesia}
+  \list{institution}{1}{%
+    {University of Sydney}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{Holton2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{organization}{1}{%
+    {International Conference on Austronesian Linguistics}%
+  }
+  \strng{namehash}{HG1}
+  \strng{fullhash}{HG1}
+  \field{labelyear}{2012}
+  \field{sortinit}{H}
+  \field{howpublished}{Paper presented at the International Conference on
+  Austronesian Linguistics, Bali, 5 July 2012.}
+  \field{title}{Number in the Papuan outliers of East Nusantara}
+  \list{location}{1}{%
+    {Bali}%
+  }
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{HoltonEtAl2008}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Holton}{H.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Koly}{K.}%
+     {Mahalalel~Lamma}{M.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {UBB-GMIT}%
+  }
+  \strng{namehash}{HGKML1}
+  \strng{fullhash}{HGKML1}
+  \field{labelyear}{2008}
+  \field{sortinit}{H}
+  \field{title}{Kamus Pengantar Bahasa Pantar Barat: Tubbe - Mauta - Lamma}
+  \list{location}{1}{%
+    {Kupang, Indonesia}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{Klamer2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{pages}{xviii+540}
+  \field{series}{Mouton Grammar Library}
+  \field{title}{A Grammar of Teiwa}
+  \field{volume}{49}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Klamer2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klamer}{K.}%
+     {Marian}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lincom GmbH}%
+  }
+  \strng{namehash}{KM1}
+  \strng{fullhash}{KM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{K}
+  \field{pages}{142}
+  \field{series}{Languages of the World/Materials}
+  \field{title}{A Short Grammar of Alorese (Austronesian)}
+  \field{volume}{486}
+  \list{location}{1}{%
+    {M{\"u}nchen}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Kratochvil2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochvíl}{K.}%
+     {František}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{title}{A grammar of Abui: A Papuan language of Alor}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{RobinsonEtAlToAppear}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Robinson}{R.}%
+     {Laura}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haan}{H.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{RLHJ1}
+  \strng{fullhash}{RLHJ1}
+  \field{labelyear}{To appear}
+  \field{sortinit}{R}
+  \field{booktitle}{Papuan languages of Timor-Alor-Pantar. Sketch grammars.}
+  \field{title}{Adang}
+  \list{location}{2}{%
+    {Berlin}%
+    {New York}%
+  }
+  \field{year}{To appear}
+\endentry
+
+\entry{SchapperEtAl2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schapper}{S.}%
+     {Antoinette}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manimau}{M.}%
+     {Marten}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Unit Bahasa dan Budaya}%
+  }
+  \strng{namehash}{SAMM1}
+  \strng{fullhash}{SAMM1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{series}{UBB Language \&Culture Series: A}
+  \field{title}{Kamus Pengantar Bahasa Kamang-Indonesia-Inggris (Introductory
+  Kamang-Indonesian-English dictionary)}
+  \field{volume}{7}
+  \list{location}{1}{%
+    {Kupang}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Stokhof1978}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {NUSA}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1978}
+  \field{sortinit}{S}
+  \field{pages}{34\bibrangedash 57}
+  \field{title}{Woisika text}
+  \field{volume}{5}
+  \list{location}{1}{%
+    {Jakarta}%
+  }
+  \field{journaltitle}{Miscellaneous Studies in Indonesian and Languages in
+  Indonesia}
+  \field{year}{1978}
+\endentry
+
+\entry{Stokhof1982}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stokhof}{S.}%
+     {W.~A.~L.}{W.~A.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ANU}%
+  }
+  \strng{namehash}{SWAL1}
+  \strng{fullhash}{SWAL1}
+  \field{labelyear}{1982}
+  \field{sortinit}{S}
+  \field{isbn}{9780858832572}
+  \field{note}{Bibliography: p. 67-74.. Materials in languages of Indonesia.
+  Materials in languages of Indonesia ; 9}
+  \field{pages}{iii+74}
+  \field{series}{Pacific linguistics : Series D, Special publications}
+  \field{title}{Woisika riddles}
+  \field{volume}{41}
+  \list{location}{1}{%
+    {Canberra}%
+  }
+  \field{year}{1982}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

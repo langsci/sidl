@@ -1,0 +1,2 @@
+mktexpk --mfmode / --bdpi 600 --mag 2+44/600 --dpi 1244 fxlz-8r
+mktexpk --mfmode / --bdpi 600 --mag 0+480/600 --dpi 480 fxlro-8r

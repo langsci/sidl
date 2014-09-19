@@ -1,0 +1,86 @@
+\documentclass[number=3                 %replace by your number in series
+                ,series=sidl,     % Choose series abbreviation as appropriate
+                ,isbn=978-3-944675-48-0, %add your isbn here
+                ,url=http://langsci-press.org/catalog/book/22,  %change to the running number of your book
+	        ,output=short             % long|short|inprep              
+	        %,blackandwhite
+	        %,smallfont
+ 	        %,noindex
+	        %,draftmode
+	        ,collection
+	        ,collectionchapter
+	        ,collectiontoclongg
+% 	        ,biblatexbackend=bibtex
+ 	        ,biblatex  
+		  ]{LSP/langsci}
+
+\bibliography{localbibliography}
+  
+\input{localhyphenation.sty}
+\input{localpackages.sty}
+\input{localcommands.sty}
+\input{localmetadata.sty}
+
+\renewcommand{\lsEditorPrefix}{}  % default is ``Edited by''
+\renewcommand{\lsCollectionPaperCitationText}{Marian Klamer (ed.). 2014. \mbox{The Alor-Pantar languages: History and typology}. \mbox{Berlin: Language Science Press.}}
+\renewcommand{\exfont}{\itshape}
+% \usepackage{authorindex}
+
+\hypersetup{bookmarksopenlevel=0}
+\setlength{\epigraphwidth}{.8\textwidth}
+
+% \usepackage[style=authoryear,indexing=cite]{biblatex}
+% % \addbibresource{localbibliography.bib}
+\begin{document}  
+
+\maketitle                 
+\frontmatter
+\tableofcontents      
+
+\mainmatter
+% 
+
+
+
+	
+\setcounter{chapter}{-1}
+\includepaper{chapters/preface}  
+\includepaper{chapters/01intro} 
+\includepaper{chapters/02history} 
+\includepaper{chapters/03relatedness} 
+\includepaper{chapters/04position}
+\includepaper{chapters/05kinship} 
+\includepaper{chapters/07elevation}
+\includepaper{chapters/06numerals}  
+\includepaper{chapters/08arithmetic} 
+\includepaper{chapters/09plural} 
+ \includepaper{chapters/10participant} 
+
+\backmatter
+
+% % \printbibliography[notkeyword=this] 
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{Indexes} 
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Name index}
+\ohead{Name index} 
+\printindex
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Language index}
+\ohead{Language index} 
+\printindex[lan] 
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Subject index}
+\ohead{Subject index} 
+\printindex[sbj]
+
+
+\end{document}
+
+
+		  
+		  

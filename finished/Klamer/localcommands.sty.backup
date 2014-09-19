@@ -1,0 +1,94 @@
+%add all your local new commands to this file
+\newcommand{\PS}{Pite Saami}
+\newcommand{\REF}[1]{(\ref{#1})}%adds parenthesis around the reference number, particularly useful for examples.
+\newcommand{\textstyleVernacularword}{\emph}
+\newcommand{\textstyleGloss}{\textsc}
+\newcommand{\textstyleIPA}{}
+\newcommand{\textstyleInternetlink}{}
+\newcommand{\textstylefootnotereference}{}
+\newcommand{\textstyleFootnoteTextChar}{}
+\newcommand{\textstylepagenumber}{}
+\newcommand{\textstyleappleconvertedspace}{ }%
+\newcommand{\textstyleti}{}
+
+% \newcommand{\textbhook}{B}
+% \renewcommand{\texthtb}{ɓ}
+% \renewcommand{\textglotstop}{?} %ʔ
+% \renewcommand{\textepsilon}{E} %ε 
+% \renewcommand{\textupsilon}{U} %ʊ 
+% 
+%  
+% \renewcommand{\textlengthmark}{:}%ː
+% \renewcommand{\textesh}{SH}%ʃ
+% \renewcommand{\textyogh}{Y}%ȝ
+% \renewcommand{\textprimstress}{'}%ˈ
+% \renewcommand{\textphi}{PH}%ɸ
+% \renewcommand{\textschwa}{\@}%əs
+% \renewcommand{\textltailn}{N}%ɲ
+% \renewcommand{\textrtaild}{D}%ɖ
+% \renewcommand{\textrtailt}{T}%ʈ
+% \renewcommand{\textopeno}{O}%ɔ
+% \renewcommand{\textsci}{I}%ɪ
+% \renewcommand{\textscripta}{A}%
+% \newcommand{\textezh}{ZH}%ȝ
+% \renewcommand{\textdyoghlig}{dʒ}%
+% \renewcommand{\textbardotlessj}{J}%ɟ
+
+ 
+% \renewcommand{\textbari}{I}%ɨ
+% \renewcommand{\textgamma}{G}%ɣ
+% \renewcommand{\texthtd}{D}%ɗ
+% \renewcommand{\textteshlig}{TSH}%tʃ
+% \renewcommand{\textturnr}{R}%ɹ
+% \renewcommand{\textpm}{+-}%	±
+
+\newcommand{\pharfric}{H}%ħ
+
+
+\newcommand{\mytoprule}{\midrule\toprule}
+\newcommand{\mybottomrule}{\bottomrule\midrule}
+\newcommand{\mytopline}{\mytoprule}
+\newcommand{\mybottomline}{\mybottomrule}
+
+
+\newcommand{\dDOT}{\.{d}}
+\newcommand{\iarchbelow}{i̯}% 
+
+
+\newcommand{\lightgreycell}{\cellcolor[gray]{.75}}
+\newcommand{\midgreycell}{\cellcolor[gray]{.50}}
+\newcommand{\darkgreycell}{\cellcolor[gray]{.25}} 
+\newcommand{\blackcell}{\cellcolor{black}} 
+
+\renewcommand{\lightgreycell}{$\diamondsuit$}
+\renewcommand{\midgreycell}{$\heartsuit$}
+\renewcommand{\darkgreycell}{$\spadesuit$}
+\renewcommand{\blackcell}{$\clubsuit$}
+
+%added this so that paragraph cells can be left-justified
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+
+
+%\newcommand{\ist}[1]{\todo[inline]{\tiny #1}}
+\newcommand{\ist}{\is}
+\newcommand{\ilt}{\il}
+% \renewcommand{\il}{}
+% \renewcommand{\is}[1]{\marginpar{\tiny #1}}
+%\renewcommand{\il}[1]{\marginpar{\tiny #1}}
+ 
+
+\newcommand{\trs}[2]{{\em #1} `#2'}
+\newcommand{\citew}{\citet}
+
+\newcounter{tablenote}[chapter]
+\newcommand{\tablenote}{\stepcounter{tablenote}\textsuperscript{\arabic{tablenote}}}
+\newcommand{\tablenotetext}{\noindent\stepcounter{tablenote}\textsuperscript{\arabic{tablenote}}\,}
+
+\newcommand{\startappendix}{%
+    \clearpage%
+    \renewcommand{\thesection}{\Alph{section}}%
+    \setcounter{section}{0}%
+    \section{Appendix}%
+    }
+
+

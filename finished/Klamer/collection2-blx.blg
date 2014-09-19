@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: collection2-blx.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: collection-blx.bib
+Database file #2: localbibliography.bib
+Warning--I didn't find a database entry for "Schapper-grammars"
+Warning--I didn't find a database entry for "SchapperEtAl2012"
+Warning--I didn't find a database entry for "KratochvilEtAl2011"
+Warning--I didn't find a database entry for "DuBois1944"
+Warning--I didn't find a database entry for "WichmannEtAl2011"
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 29 entries,
+            6019 wiz_defined-function locations,
+            1362 strings with 13609 characters,
+and the built_in function-call counts, 109001 in all, are:
+= -- 5436
+> -- 3319
+< -- 1287
++ -- 1311
+- -- 967
+* -- 7680
+:= -- 6005
+add.period$ -- 0
+call.type$ -- 29
+change.case$ -- 950
+chr.to.int$ -- 34
+cite$ -- 56
+duplicate$ -- 12216
+empty$ -- 11083
+format.name$ -- 1959
+if$ -- 25203
+int.to.chr$ -- 0
+int.to.str$ -- 97
+missing$ -- 0
+newline$ -- 923
+num.names$ -- 1884
+pop$ -- 8919
+preamble$ -- 1
+purify$ -- 1014
+quote$ -- 0
+skip$ -- 6764
+stack$ -- 0
+substring$ -- 4248
+swap$ -- 4288
+text.length$ -- 734
+text.prefix$ -- 28
+top$ -- 1
+type$ -- 1089
+warning$ -- 0
+while$ -- 583
+width$ -- 0
+write$ -- 893
+(There were 5 warnings)

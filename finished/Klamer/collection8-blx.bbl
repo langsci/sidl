@@ -1,0 +1,204 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Comrie2005numsys}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Comrie}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Wohlgemuth}{W.}%
+     {Jan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dirksmeyer}{D.}%
+     {Tyko}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wei{\ss}ensee Verlag}%
+  }
+  \strng{namehash}{CB1}
+  \strng{fullhash}{CB1}
+  \field{labelyear}{2005}
+  \field{sortinit}{C}
+  \field{booktitle}{Bedrohte Vielfalt: Aspekte des Sprach(en)tods [Endangered
+  Diversity: Aspects of Language Death]}
+  \field{pages}{203\bibrangedash 230}
+  \field{title}{Endangered numeral systems}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{Dryer1989}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DMS1}
+  \strng{fullhash}{DMS1}
+  \field{labelyear}{1989}
+  \field{sortinit}{D}
+  \field{pages}{865\bibrangedash 895}
+  \field{title}{Plural words}
+  \field{volume}{27}
+  \field{journaltitle}{Linguistics}
+  \field{year}{1989}
+\endentry
+
+\entry{Gil2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gil}{G.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Digital Library}%
+  }
+  \strng{namehash}{GD1}
+  \strng{fullhash}{GD1}
+  \field{labelyear}{2013}
+  \field{sortinit}{G}
+  \field{booktitle}{The World Atlas of Language Structures Online}
+  \field{chapter}{54}
+  \field{title}{Distributive Numerals}
+  \verb{url}
+  \verb http://wals.info/chapter/54
+  \endverb
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{Kratochvil2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kratochvíl}{K.}%
+     {František}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{KF1}
+  \strng{fullhash}{KF1}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{title}{A grammar of Abui: A Papuan language of Alor}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{StolzEtAl2013}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Stolz}{S.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Veselinova}{V.}%
+     {Ljuba}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dryer}{D.}%
+     {Matthew}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haspelmath}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Max Planck Digital Library}%
+  }
+  \strng{namehash}{STVL1}
+  \strng{fullhash}{STVL1}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{booktitle}{The World Atlas of Language Structures Online}
+  \field{chapter}{53}
+  \field{title}{Ordinal Numerals}
+  \verb{url}
+  \verb http://wals.info/chapter/53
+  \endverb
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{Stump2010}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stump}{S.}%
+     {Gregory}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SG1}
+  \strng{fullhash}{SG1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{205\bibrangedash 233}
+  \field{title}{The derivation of compound ordinal numerals: Implications for
+  morphological theory}
+  \field{volume}{3}
+  \field{journaltitle}{Word Structure}
+  \field{year}{2010}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

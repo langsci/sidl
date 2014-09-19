@@ -1,0 +1,334 @@
+\begin{thebibliography}{51}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\providecommand{\urlprefix}{}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{{\'A}lgu(2006)}]{alguWebsite}
+{\'A}lgu. 2006.
+\newblock \emph{The {{\'A}}lgu database: {E}tymological database of the {S}aami
+  languages}.
+\newblock Helsinki: Research Institute for the Languages of Finland.
+\newblock \urlprefix\url{http://kaino.kotus.fi/algu}.
+\newblock (accessed 2012.04.17).
+
+\bibitem[{Anderson(2013)}]{Anderson2008a}
+Anderson, Gregory~D.S. 2013.
+\newblock The velar nasal.
+\newblock In Matthew~S. Dryer \& Martin Haspelmath (eds.), \emph{The world
+  atlas of language structures online}, Leipzig: Max Planck Institute for
+  Evolutionary Anthropology.
+\newblock \urlprefix\url{http://wals.info/chapter/9}.
+
+\bibitem[{Austin \& Sallabank(2011)}]{AustinSallabank2011}
+Austin, Peter~K. \& Julia Sallabank (eds.). 2011.
+\newblock \emph{The {C}ambridge handbook of endangered languages} Cambridge
+  Handbooks in Language and Linguistics.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[{Bengtsson et~al.(2011)Bengtsson, Eriksson, Fj{\"a}ll{\aa}s,
+  Rosenberg, Sjaggo \& Skaile}]{insamlingPS2011}
+Bengtsson, Nils-Henrik, Marianne Eriksson, Inger Fj{\"a}ll{\aa}s, Eva-Karin
+  Rosenberg, Valborg Sjaggo \& Dagny Skaile. 2011.
+\newblock Insamling av pitesamiska ord.
+\newblock (unpublished).
+
+\bibitem[{Bergsland(1962)}]{Bergsland1962}
+Bergsland, Knut. 1962.
+\newblock The {L}app dialects south of {L}appland.
+\newblock In Paavo Ravila \& Paul Ariste (eds.), \emph{Commentationes
+  fenno-ugricae in honorem paavo ravila} (Suomalais-ugrilaisen Seuran
+  toimituksia 125), 27--39. Helsinki: Suomalais-Ugrilainen Seura.
+
+\bibitem[{Bergsland(1977)}]{Bergsland1977}
+Bergsland, Knut. 1977.
+\newblock Saamen kieli ja naapurikielet.
+\newblock \emph{Viritt{\"a}j{\"a}} 81. 1--11.
+
+\bibitem[{Bickel \& Nichols(2007)}]{BickelNichols2007}
+Bickel, Balthasar \& Johanna Nichols. 2007.
+\newblock Inflectional morphology.
+\newblock In Timothy Shopen (ed.), \emph{Language typology and syntactic
+  description: {G}rammatical categories and the lexicon}, vol. III, 169--240.
+  Cambridge: Cambridge University Press 2nd edn.
+
+\bibitem[{Bird \& Simons(2003)}]{BirdSimons2003}
+Bird, Steven \& Gary Simons. 2003.
+\newblock Seven dimensions of portability for language documentation and
+  description.
+\newblock \emph{Language} 79(3). 557--582.
+
+\bibitem[{Bull et~al.(2007)Bull, Kusmenko \& Rie{\ss}ler}]{BullEtal2007}
+Bull, Tove, Jurij Kusmenko \& Michael Rie{\ss}ler (eds.). 2007.
+\newblock \emph{Spr{\aa}k og spr{\aa}kforhold i {S}{\'a}pmi} (Berliner
+  Beitr{\"a}ge zur Skandinavistik~10).
+\newblock Berlin: Humboldt-Universit{\"a}t.
+
+\bibitem[{Bylund(1956)}]{bylund1956}
+Bylund, Erik. 1956.
+\newblock \emph{Kolonisering av {P}ite {L}appmark t.o.m. {\aa}r 1867}
+  (Geographica~30).
+\newblock Uppsala: Uppsala universitet.
+
+\bibitem[{Collinder(1960)}]{Collinder1960}
+Collinder, Bj{\"o}rn. 1960.
+\newblock \emph{Comparative grammar of the {U}ralic languages} A handbook of
+  the Uralic languages.
+\newblock Stockholm: Almqvist and Wiksell.
+
+\bibitem[{Dixon(2010)}]{dixon2010a}
+Dixon, Robert M.~W. 2010.
+\newblock \emph{Basic linguistic theory}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Feist(2010)}]{Feist2010}
+Feist, Timothy. 2010.
+\newblock \emph{A grammar of {S}kolt {S}aami}.
+\newblock Manchester: University of Manchester dissertation.
+
+\bibitem[{Gippert et~al.(2006)Gippert, Himmelmann \& Mosel}]{Gippert2006}
+Gippert, Jost, Nikolaus Himmelmann \& Ulrike Mosel (eds.). 2006.
+\newblock \emph{Essentials of language documentation} (Trends in Linguistics:
+  Studies and Monographs 178).
+\newblock Berlin: Mouton de Gruyter.
+
+\bibitem[{Grenoble \& Furbee(2010)}]{GrenobleFurbee2010}
+Grenoble, Lenore~A. \& Louanna Furbee (eds.). 2010.
+\newblock \emph{Language documentation: {P}ractice and values}.
+\newblock Amsterdam: John Benjamins Publishing Co.
+
+\bibitem[{Grundstr{\"o}m \& Smedeby(1963)}]{grundstroem1963a}
+Grundstr{\"o}m, Harald \& Sune Smedeby. 1963.
+\newblock \emph{Lapska s{\aa}nger: {T}exter och melodier fr{\aa}n svenska
+  {L}appland (s{\aa}nger fr{\aa}n {A}rjeplog och {A}rvidsjaur)} (Skrifter
+  utgivna genom Landsm{\aa}ls- och Folkminnesarkivet i Uppsala~2).
+\newblock Uppsala: Lundequistska bokhandeln.
+
+\bibitem[{Grundstr{\"o}m \& V{\"a}is{\"a}nen(1958)}]{grundstroem1958a}
+Grundstr{\"o}m, Harald \& A.~O. V{\"a}is{\"a}nen. 1958.
+\newblock \emph{Lapska s{\aa}nger: {T}exter och melodier fr{\aa}n svenska
+  {L}appland ({J}onas {E}riksson {S}teggos s{\aa}nger)} (Skrifter utgivna genom
+  Landsm{\aa}ls- och Folkminnesarkivet i Uppsala~1).
+\newblock Uppsala: Lundequistska bokhandeln.
+
+\bibitem[{Hal{\'a}sz(1885)}]{Halasz1885}
+Hal{\'a}sz, Ign{\'a}cz. 1885.
+\newblock \emph{Lule- {\'e}s {P}ite-lappmarki nyelvmutatv{\'e}anyok {\'e}s
+  sz{\'o}t{\'a}r} (Sv{\'e}d-Lapp Nyelv~I).
+\newblock Budapest: Kiadja a Magyar tudom{\'a}nyos akad{\'e}mia.
+
+\bibitem[{Hal{\'a}sz(1893)}]{Halasz1893}
+Hal{\'a}sz, Ign{\'a}cz. 1893.
+\newblock \emph{N{\'e}pk{\"o}lt{\'e}si gy{\"u}jtem{\'e}ny: {A} {P}ite
+  {L}appmark {A}rjepluogi egyh{\'a}zker{\"u}let{\'e}b{\"o}l} (Sv{\'e}d-Lapp
+  Nyeiv.~V).
+\newblock Budapest: Kiadja a Magyar tudom{\'a}nyos akad{\'e}mia.
+
+\bibitem[{Hal{\'a}sz(1896)}]{Halasz1896}
+Hal{\'a}sz, Ign{\'a}cz. 1896.
+\newblock \emph{Pite lappmarki sz{\'o}t{\'a}r {\'e}s nyelvtan} (Sv{\'e}d-Lapp
+  Nyelv~VI).
+\newblock Budapest: Kiadja a Magyar tudom{\'a}nyos akad{\'e}mia.
+
+\bibitem[{Hayes(1989)}]{Hayes1989}
+Hayes, Bruce~P. 1989.
+\newblock The prosodic hierarchy in meter.
+\newblock In Paul Kiparsky \& Gilbert Youmans (eds.), \emph{Rhythm and meter},
+  201--260. Orlando, FL: Academic Press.
+
+\bibitem[{Himmelmann(2006)}]{Himmelmann2006a}
+Himmelmann, Nikolaus. 2006.
+\newblock Language documentation: {W}hat is it and what is it good for?
+\newblock In Jost Gippert, Ulrike Mosel \& Nikolaus Himmelmann (eds.),
+  \emph{Essentials of language documentation} (Trends in Linguistics: Studies
+  and Monographs 178), 1--30. Berlin: Mouton de Gruyter.
+
+\bibitem[{Korhonen(1969)}]{KorhonenM1969}
+Korhonen, Mikko. 1969.
+\newblock Die {E}ntwicklung der morphologischen {M}ethode im {L}appischen.
+\newblock \emph{Finnisch-Ugrische Forschungen} 37(2--3). 203--362.
+
+\bibitem[{Korhonen(2005)}]{KorhonenO2005}
+Korhonen, Olavi. 2005.
+\newblock \emph{B{\'a}hkogirjje: {J}ulevs{\'a}mes d{\'a}rruj, d{\'a}ros
+  julevs{\'a}bm{\'a}j}.
+\newblock Jokkmokk: Samernas utbildningscentrum.
+
+\bibitem[{Krauss(1997)}]{Krauss1997}
+Krauss, Michael. 1997.
+\newblock The indigenous languages of the {N}orth: {A} report on their present
+  state.
+\newblock In Hiroshi Shoji \& Juha Janhunen (eds.), \emph{Northern minority
+  languages: {P}roblems of survival} (Senri Ethnic Studies~44), 1--34. Osaka:
+  National Museum of Ethnology.
+
+\enlargethispage{\baselineskip}
+\bibitem[{Lagercrantz(1926)}]{Lagercrantz1926}
+Lagercrantz, Eliel. 1926.
+\newblock \emph{Sprachlehre des {W}estlappischen nach der {M}undart von
+  {A}rjeplog} (Suomalais-ugrilaisen Seuran toimituksia~LV).
+\newblock Helsinki: Suomalais-ugrilainen Seura.
+
+\bibitem[{Larsson(1985)}]{Larsson1985b}
+Larsson, Lars-Gunnar. 1985.
+\newblock Kriterien zur klassifikazion der lappischen {D}ialekte in {S}chweden.
+\newblock In Wolfgang Veenker (ed.), \emph{Dialectologia {U}ralica.
+  {M}aterialien des ersten internationalen {S}ymposions zur {D}ialektologie der
+  uralischen {S}prachen. 4--7 {S}eptember 1984 in {H}amburg}, 159--171.
+  Wiesbaden: Harrassowitz.
+
+\bibitem[{Lehtiranta(1992)}]{Lehtiranta1992}
+Lehtiranta, Juhani. 1992.
+\newblock \emph{Arjeploginsaamen {\"a}{\"a}nne- ja taivutusopin
+  p{\"a}{\"a}piirteet} (Suomalais-ugrilaisen Seuran toimituksia 212).
+\newblock Helsinki: Suomalais-ugrilainen Seura.
+
+\bibitem[{Lehtiranta(2001)}]{Lehtiranta2001}
+Lehtiranta, Juhani. 2001.
+\newblock \emph{Yhteissaamelainen sanasto} (Suomalais-ugrilaisen Seuran
+  toimituksia 200).
+\newblock Helsinki: Suomalais-Ugrilainen Seura.
+
+\bibitem[{Manker(1947)}]{Manker1947}
+Manker, Ernst. 1947.
+\newblock \emph{De svenska fj{\"a}llapparna} (STF:s handb{\"o}cker om det
+  svenska fj{\"a}llet~4).
+\newblock Stockholm: Svenska turistf{\"o}reningens f{\"o}rlag.
+
+\bibitem[{Nespor \& Vogel(1986)}]{NesporVogel1986}
+Nespor, Marina \& Irene Vogel. 1986.
+\newblock \emph{Prosodic phonology}.
+\newblock Dordrecht: Foris Publishers.
+
+\bibitem[{Pulkkinen(2005)}]{Pulkkinen2005}
+Pulkkinen, Risto. 2005.
+\newblock Missionary work: {H}istory.
+\newblock In Ulla-Maija Kulonen, Irja Seuruj{\"a}rvi-Kari \& Risto Pulkkinen
+  (eds.), \emph{The {S}aami: {A} cultural encyclopedia}, 218--221. Vammala:
+  Vammalan Kirjapaino Oy.
+
+\bibitem[{Rensund(1982)}]{Rensund1982}
+Rensund, Lars. 1982.
+\newblock \emph{Renen i mitten}.
+\newblock Lule{\aa}: Norrbottens museum.
+
+\bibitem[{Rensund(1986)}]{Rensund1986}
+Rensund, Lars. 1986.
+\newblock \emph{I samernas land f{\"o}rr i tiden}.
+\newblock Lule{\aa}: Norrbottens museum.
+
+\bibitem[{Rie{\ss}ler(2011)}]{Riessler2011}
+Rie{\ss}ler, Michael. 2011.
+\newblock \emph{Typology and evolution of adjective attribution marking in the
+  languages of northern {E}urasia}.
+\newblock Leipzig: Institut f{\"u}r Linguistik, Universit{\"a}t Leipzig
+  dissertation.
+
+\bibitem[{Ruong(1943)}]{Ruong1943}
+Ruong, Israel. 1943.
+\newblock \emph{Lappische {V}erbalableitung dargestellt auf {G}rundlage des
+  {P}itelappischen}.
+\newblock Uppsala: Almqvist och Wiksell.
+
+\bibitem[{Ruong(1945)}]{Ruong1945}
+Ruong, Israel. 1945.
+\newblock \emph{Studier i lapsk kultur i {P}ite lappmark och angr{\"a}nsande
+  omr{\aa}den} Svenska landsm{\aa}l och svenskt folkliv.
+\newblock Stockholm: Dialekt- och folkminnesarkivet.
+
+\bibitem[{Salminen(2007)}]{Salminen2007}
+Salminen, Tapani. 2007.
+\newblock Endangered languages in {E}urope.
+\newblock In Matthias Brenzinger (ed.), \emph{Language diversity endangered}
+  (Trends in Linguistics: Studies and Monographs 181), 205--232. Berlin: Mouton
+  de Gruyter.
+
+\bibitem[{Sammallahti(1985)}]{Sammallahti1985}
+Sammallahti, Pekka. 1985.
+\newblock Die {D}efinition von {S}prachgrenzen in einem {K}ontinuum von
+  {D}ialekten: {D}ie lappischen {S}prachen und einige {G}rundfragen der
+  {D}ialektologie.
+\newblock In Wolfgang Veenker (ed.), \emph{Dialectologia {U}ralica.
+  {M}aterialien des ersten internationalen {S}ymposions zur {D}ialektologie der
+  uralischen {S}prachen. 4--7 {S}eptember 1984 in {H}amburg}, 149--158.
+  Wiesbaden: Harrassowitz.
+
+\bibitem[{Sammallahti(1998)}]{Sammallahti1998}
+Sammallahti, Pekka. 1998.
+\newblock \emph{The {S}aami languages: {A}n introduction}.
+\newblock K{\'a}r{\'a}{\v s}johka: Davvi Girji.
+
+\enlargethispage{\baselineskip}
+\bibitem[{Schachter \& Shopen(2007)}]{SchachterShopen2007}
+Schachter, Paul \& Timothy Shopen. 2007.
+\newblock Parts-of-speech systems.
+\newblock In Timothy Shopen (ed.), \emph{Language typology and syntactic
+  description: {C}lause structure}, vol.~1, 1--60. Cambridge: Cambridge
+  University Press 2nd edn.
+
+\bibitem[{Selkirk(1980)}]{Selkirk1980}
+Selkirk, Elisabeth. 1980.
+\newblock Prosodic domains in phonology: {S}anskrit revisited.
+\newblock In Mark Aranoff \& Mary-Louise Kean (eds.), \emph{Juncture},
+  107--129. Saratoga, CA: Anma Libri.
+
+\bibitem[{Selkirk(1984)}]{Selkirk1984}
+Selkirk, Elisabeth. 1984.
+\newblock \emph{Phonology and syntax: {T}he relation between sound and
+  structure}.
+\newblock Cambridge, MA: The MIT Press.
+
+\bibitem[{Sjaggo(2010)}]{sjaggo2010a}
+Sjaggo, Ann-Charlotte. 2010.
+\newblock \emph{Fr{\aa}n {S}ulid{\"a}lbm{\'a} till {{\'A}}hkk{\'a}b{\'a}ktte:
+  {E}n ortnamnsguide f{\"o}r norra sidan {P}ite{\"a}lven i
+  {A}rjeplogsfj{\"a}llen}.
+\newblock Jokkmokk: Ann-Charlotte Sjaggo.
+
+\bibitem[{Spiik(1989)}]{Spiik1989}
+Spiik, Nils~Eric. 1989.
+\newblock \emph{Lulesamisk grammatik}.
+\newblock Jokkmokk: Sameskolstyrelsen.
+
+\bibitem[{Svonni(2009)}]{Svonni2009}
+Svonni, Mikael. 2009.
+\newblock \emph{Samisk grammatik: {K}ompendium}.
+\newblock Troms{\o}: Universitetet i Troms{\o}.
+
+\bibitem[{Tir{\'e}n(1942)}]{tiren1942a}
+Tir{\'e}n, Karl. 1942.
+\newblock \emph{Die lappische {V}olksmusik: {A}ufzeichnungen von
+  {J}uoikos-{M}elodien bei den schwedischen {L}appen} (Acta Lapponica~3).
+\newblock Stockholm: Nordiska museet.
+
+\bibitem[{Valij{\"a}rvi \& Wilbur(2011)}]{ValijarviWilbur2011}
+Valij{\"a}rvi, Riitta-Liisa \& Joshua Wilbur. 2011.
+\newblock The current state of the {P}ite {S}aami language: {S}ociological and
+  linguistic factors.
+\newblock \emph{Nordic Journal of Linguistics} 34(3). 295--329.
+
+\bibitem[{Wickman(1964)}]{wickman1964}
+Wickman, Bo. 1964.
+\newblock A lappish tale from {A}rjeplog.
+\newblock In Arne Furumark, Sture Lagercrantz, Asbj{\o}rn Nesheim \& Geo
+  Widengren (eds.), \emph{Lapponica: {e}ssays presented to {I}srael {R}uong,
+  {M}ay 26, 1963} (Studia Ethnographica Uppsalensia XXI), Lund: Ohlsson.
+
+\bibitem[{Wilbur(forthcoming 2014)}]{wilbur2014b}
+Wilbur, Joshua (ed.). forthcoming 2014.
+\newblock \emph{Pitesamisk ordbok samt f{\"o}rslag f{\"o}r en pitesamisk
+  ortografi} (Samica~2).
+\newblock Freiburg: Skandinavisches Seminar, Albert-Ludwigs-Universit{\"a}t
+  Freiburg.
+
+\bibitem[{Woodbury(2011)}]{Woodbury2011}
+Woodbury, Anthony~C. 2011.
+\newblock Language documentation.
+\newblock In Peter~K. Austin \& Julia Sallabank (eds.), \emph{The {C}ambridge
+  handbook of endangered languages} Cambridge Handbooks in Language and
+  Linguistics, 159--186. Cambridge: Cambridge University Press.
+
+\end{thebibliography}

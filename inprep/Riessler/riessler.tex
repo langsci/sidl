@@ -1,0 +1,115 @@
+
+\documentclass[ number=2
+			   ,series=sidl
+			   ,isbn=978-3-944675-49-7
+			   ,url=http://langsci-press.org/catalog/book/19
+			   ,output=long   % long|short|inprep              
+			   %,blackandwhite
+			   %,smallfont
+			   ,draftmode   
+			  ]{LSP/langsci}                          
+          
+\usepackage{LSP/lsp-styles/lsp-gb4e}
+
+% just for the XeLaTeX logo
+\usepackage{xspace}\newcommand{\latex}{\LaTeX\xspace}
+\usepackage{dtklogos}\newcommand{\xelatex}{\XeLaTeX\xspace}
+
+%for better hyphenation
+\usepackage{german}\selectlanguage{USenglish}
+\usepackage{hyphenat}
+
+\usepackage{multicol}
+
+\usepackage{lscape}
+\usepackage{longtable,tabularx}
+
+\usepackage{tikz-qtree}
+%% has strange side effects
+%%\tikzset{every tree node/.style={align=left, anchor=north}}
+%\tikzset{every roof node/.append style={inner sep=0.1pt,text height=2ex,text depth=0.3ex}}
+
+\include{hyphenation}
+          
+\title{Adjective Attribution}  
+\author{Michael Rießler}
+
+\BackTitle{Adjective Attribution}
+\BackBody{This book is the first typological study of adjective attribution marking. Its focus lies on Northern Eurasia, although it covers many more languages and presents an ontology of morphosyntactic categories relevant to noun phrase structure in general. Beside treating synchronic data, the study contributes to historical linguistics by reconstructing the origin of new types specifically in the language contact area between the Indo-European and Uralic families.}
+
+\dedication{за Алма, Ива и Кристина}
+
+\typesetter{Michael Rießler}
+\proofreader{Joshua Wilbur, ??}
+
+\hypersetup{bookmarksopenlevel=0}
+
+%Draftmode
+\iflsDraft%indizierte Begriffe am Seitenrand anzeigen\proofmodetrue\fi
+%%%
+\usepackage[textsize=tiny,textwidth=1.5cm]{todonotes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\maketitle  
+
+\frontmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents    
+
+\include{chapters/preface}
+\include{chapters/abbreviations}
+
+\mainmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\lehead{\leftmark}\rohead{\rightmark}
+
+\include{chapters/part-theory}
+\include{chapters/chap-intro}
+\include{chapters/chap-np-adj}
+\include{chapters/chap-interface}
+
+\include{chapters/part-typology}
+\include{chapters/chap-typologizing-np}
+\include{chapters/chap-typology-of}
+\include{chapters/chap-ontology}
+%\include{chapters/chap-polyfunctionality}
+%%%%%%
+\include{chapters/part-synchrony}
+%\include{chapters/chap-syn-introduction}
+%\include{chapters/chap-lg-nea}
+%\include{chapters/chap-areal}
+%%%%%%
+\include{chapters/part-diachrony}
+%\include{chapters/chap-evolution-nea}
+%\include{chapters/chap-areal-typ}
+%%%%%%
+\include{chapters/part-concl}
+%\include{chapters/chap-results}
+
+\backmatter%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ 
+\ohead{Appendix: ??}
+\include{chapters/appendix}
+
+\ohead{Bibliography}
+\bibliography{test}
+
+\cleardoublepage\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{Name index}
+\ohead{Name index}
+\printindex[aut]
+
+\addcontentsline{toc}{chapter}{Language index}
+\ohead{Language index}
+\printindex[lan]
+
+\cleardoublepage\phantomsection%this allows hyperlink in ToC to work
+\addtocontents{toc}{\protect\enlargethispage{2\baselineskip}}
+\addcontentsline{toc}{chapter}{Subject index}
+\ohead{Subject index}
+\raggedright
+\printindex
+
+\end{document}

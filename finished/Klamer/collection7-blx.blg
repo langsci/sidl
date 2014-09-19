@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: collection7-blx.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 13432 items from 5000.
+Database file #1: collection-blx.bib
+Database file #2: localbibliography.bib
+Warning--I didn't find a database entry for "Comrie2005numsym"
+Warning--I didn't find a database entry for "Donohue2008"
+Warning--I didn't find a database entry for "Hammarstrom2010"
+Warning--I didn't find a database entry for "Comrie2005"
+Warning--I didn't find a database entry for "Winter1964"
+Warning--I didn't find a database entry for "Planck2009"
+Warning--I didn't find a database entry for "Barnes1982"
+Warning--I didn't find a database entry for "SchapperEtAl2013"
+Warning--I didn't find a database entry for "Hagerdal2012"
+Warning--I didn't find a database entry for "GreenhillEtAl20052007"
+Warning--I didn't find a database entry for "GrimesEtAl2008"
+Warning--I didn't find a database entry for "Baird2002"
+Warning--I didn't find a database entry for "Verheijen1982"
+Warning--I didn't find a database entry for "Keraf1978"
+Warning--I didn't find a database entry for "1970"
+Warning--I didn't find a database entry for "PareiraEtAlLewis1998"
+Warning--I didn't find a database entry for "Klinken1999"
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 45 entries,
+            6019 wiz_defined-function locations,
+            1490 strings with 15791 characters,
+and the built_in function-call counts, 166266 in all, are:
+= -- 8852
+> -- 5029
+< -- 2188
++ -- 1986
+- -- 1273
+* -- 10052
+:= -- 8781
+add.period$ -- 0
+call.type$ -- 45
+change.case$ -- 1659
+chr.to.int$ -- 35
+cite$ -- 88
+duplicate$ -- 18458
+empty$ -- 16901
+format.name$ -- 2532
+if$ -- 39170
+int.to.chr$ -- 0
+int.to.str$ -- 174
+missing$ -- 0
+newline$ -- 1180
+num.names$ -- 3188
+pop$ -- 13860
+preamble$ -- 1
+purify$ -- 1723
+quote$ -- 0
+skip$ -- 10812
+stack$ -- 0
+substring$ -- 7158
+swap$ -- 6265
+text.length$ -- 1098
+text.prefix$ -- 44
+top$ -- 1
+type$ -- 1695
+warning$ -- 0
+while$ -- 884
+width$ -- 0
+write$ -- 1134
+(There were 17 warnings)

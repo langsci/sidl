@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: collection10-blx.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10712 items from 5000.
+Database file #1: collection-blx.bib
+Database file #2: localbibliography.bib
+Warning--I didn't find a database entry for "Klamer2010b"
+Biblatex version: 1.7
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+You've used 41 entries,
+            6019 wiz_defined-function locations,
+            1419 strings with 14270 characters,
+and the built_in function-call counts, 150707 in all, are:
+= -- 7510
+> -- 4612
+< -- 1831
++ -- 1732
+- -- 1286
+* -- 10261
+:= -- 8246
+add.period$ -- 0
+call.type$ -- 41
+change.case$ -- 1312
+chr.to.int$ -- 34
+cite$ -- 80
+duplicate$ -- 16907
+empty$ -- 15408
+format.name$ -- 2617
+if$ -- 35008
+int.to.chr$ -- 0
+int.to.str$ -- 165
+missing$ -- 0
+newline$ -- 1209
+num.names$ -- 2720
+pop$ -- 12692
+preamble$ -- 1
+purify$ -- 1385
+quote$ -- 0
+skip$ -- 9490
+stack$ -- 0
+substring$ -- 5715
+swap$ -- 5808
+text.length$ -- 1055
+text.prefix$ -- 40
+top$ -- 1
+type$ -- 1544
+warning$ -- 0
+while$ -- 830
+width$ -- 0
+write$ -- 1167
+(There was 1 warning)

@@ -1,0 +1,96 @@
+\include{preambleSDL}
+\include{newcommandsSDL}
+\include{hyphenationSDL}
+
+\title{A grammar of \\ Pite Saami}%\title{A corpus-based grammar \\ of spoken Pite Saami}  
+\subtitle{based on a spoken language documentation corpus}  
+\author{Joshua Wilbur}
+\dedication{Muv vienagijda Árjepluovest} 
+\renewcommand{\lsBackBody}{This grammar of \PS\ (Uralic; Sweden) is a grammar of \PS.}%for back cover text
+\renewcommand{\lsBackTitle}{Biddumsáme giella}%for back title
+
+%adds index tags to margin of text:
+%\iflsDraft\proofmodetrue\fi
+
+\begin{document}
+\maketitle  
+\frontmatter 
+
+%%%%%%% TABLE OF CONTENTS
+%\setcounter{page}{1}
+%\pagenumbering{roman}
+\addcontentsline{toc}{chapter}{Table of Contents}
+\tableofcontents
+
+%%%%%%% LIST OF FIGURES
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+%\pagenumbering{roman}
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoffigures
+
+%%%%%%% LIST OF TABLES
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+\addcontentsline{toc}{chapter}{List of Tables}
+\listoftables
+
+%%%%%%% ABBREVIATIONS
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+\addcontentsline{toc}{chapter}{Abbreviations and Symbols}
+\include{abbreviationsSDL}
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+
+%%%% ACKNOWLEDGEMENTS
+\include{acknowledgementsSDL}%
+\cleardoublepage%\phantomsection%this allows href and page number in ToC to be correct for bibliography
+%%%% ACKNOWLEDGEMENTS
+
+\mainmatter
+
+% \include{introductionSDL}%
+% \include{phonologySDL}
+% \include{morphWordformsSDL}%\include{morphologySDL}
+% %\include{wordFormsSDL}%now included in morphology chapter
+% \include{nounsSDL}
+% \include{pronounsSDL}
+% \include{adjectivesSDL}%
+% \include{verbsSDL}
+% \include{otherWordFormsSDL}
+% \include{derivationalMorphSDL}
+% \include{phraseTypesSDL}
+% \include{syntaxSentencesSDL}
+
+\backmatter
+
+%%%%%%% APPENDIX
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+\addcontentsline{toc}{chapter}{Appendix: Inventory of \PS\ Recordings}
+\ohead{Inventory of \PS\ recordings}
+\pdfbookmark[0]{Inventory of \PS\ recordings}{Inventory of \PS\ recordings}
+\include{listOfRecordingsSDL}
+
+
+%%%%%%% BIBLIOGRAPHY
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for bibliography
+\ohead{Bibliography}
+\bibliography{PiteGrammarBibSDL}%for bibtex
+
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for index
+
+\addcontentsline{toc}{chapter}{Subject index}
+\ohead{Subject index}
+\pdfbookmark[0]{Index}{Index}
+\pdfbookmark[1]{Subject index}{Subject index}
+\printindex
+
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for index
+
+\addcontentsline{toc}{chapter}{Revisions}
+\ohead{Revisions}
+\pdfbookmark[0]{Revisions}{Revisions}
+\include{revisionsSDL}
+
+\cleardoublepage\phantomsection%this allows href and page number in ToC to be correct for index
+
+
+
+\end{document}
