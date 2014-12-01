@@ -1,0 +1,639 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{aronoff1994}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=3f98324726318cd856d4787f98dad096}{Aronoff}{A\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3f98324726318cd856d4787f98dad096}{Aronoff}{A\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3f98324726318cd856d4787f98dad096}
+      \strng{fullhash}{3f98324726318cd856d4787f98dad096}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Morphology by itself: stems and inflectional classes}
+      \field{title}{Morphology by itself: stems and inflectional classes}
+      \field{year}{1994}
+      \keyw{Morphology;Typology}
+    \endentry
+    \entry{beyer-etal1987}{book}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=f8609390561e31554af96b0f20a0855f}{Beyer}{B\bibinitperiod}{Arthur}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32956b786a3a921960c58439e7729710}{Bochmann}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cfe183f1bd1706ed3b80370f2bcf01e}{Bronsert}{B\bibinitperiod}{Siegfried}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=f8609390561e31554af96b0f20a0855f}{Beyer}{B\bibinitperiod}{Arthur}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32956b786a3a921960c58439e7729710}{Bochmann}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cfe183f1bd1706ed3b80370f2bcf01e}{Bronsert}{B\bibinitperiod}{Siegfried}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Enzyklop{ä}die}%
+      }
+      \strng{namehash}{f860388bfd00d99acb34c8cdec808ead}
+      \strng{fullhash}{f860388bfd00d99acb34c8cdec808ead}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1987}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Grammatik der rum{ä}nischen Sprache der Gegenwart}}
+      \field{title}{{Grammatik der rum{ä}nischen Sprache der Gegenwart}}
+      \field{year}{1987}
+      \keyw{Rumanian;Language description;IE;Northern Eurasia;Europe}
+    \endentry
+    \entry{bickel2007}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{fullhash}{ab7da2db0384a1288c8af609c794a21e}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Typology in the 21st century: major current developments}
+      \field{journaltitle}{Linguistic Typology}
+      \field{title}{Typology in the 21st century: major current developments}
+      \field{volume}{11}
+      \field{year}{2007}
+      \field{pages}{239\bibrangedash 251}
+    \endentry
+    \entry{bickel-etal2002}{incollection}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=aac0fcd908f28d5cc15160a877a70874}{Austin}{A\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=0ea18efe4eb1e917d232ae21df1c4845}{Dry}{D\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=cebad797b2bb6f7b647dd501b3fdac79}{Witternburg}{W\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Nijmegen}%
+      }
+      \list{publisher}{2}{%
+        {ISLE}%
+        {DOBES}%
+      }
+      \strng{namehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{fullhash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Autotypologizing databases and their use in fieldwork}
+      \field{booktitle}{{Proceedings of the International LREC Workshop on Resources and Tools in Field Linguistics, Las Palmas, 26--27 May 2002}}
+      \field{title}{Autotypologizing databases and their use in fieldwork}
+      \field{year}{2002}
+      \verb{url}
+      \verb http://www.uni-leipzig.de/~autotyp/download/canary.pdf
+      \endverb
+    \endentry
+    \entry{bickel-etal2007}{incollection}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e2f37d5dd7d9d1b76ac61b7f4f2669f4}{Shopen}{S\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{fullhash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Inflectional morphology}
+      \field{booktitle}{Grammatical Categories and the Lexicon}
+      \field{edition}{2nd}
+      \field{series}{Language typology and syntactic description}
+      \field{title}{Inflectional morphology}
+      \field{volume}{3}
+      \field{year}{2007}
+      \field{pages}{169\bibrangedash 240}
+      \keyw{Morphology;Typology}
+    \endentry
+    \entry{buchholz-etal1987}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=6947fdcf709978233edee93740aae4b5}{Buchholz}{B\bibinitperiod}{Oda}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59c830c9dcaef953e7253dff18a570f4}{Fiedler}{F\bibinitperiod}{Wilfried}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6947fdcf709978233edee93740aae4b5}{Buchholz}{B\bibinitperiod}{Oda}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59c830c9dcaef953e7253dff18a570f4}{Fiedler}{F\bibinitperiod}{Wilfried}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Enzyklop{ä}die}%
+      }
+      \strng{namehash}{56b9825fe8a42ada280633fb632637dc}
+      \strng{fullhash}{56b9825fe8a42ada280633fb632637dc}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1987}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Albanische Grammatik}}
+      \field{title}{{Albanische Grammatik}}
+      \field{year}{1987}
+      \keyw{Language description}
+    \endentry
+    \entry{carstairs-mccarthy1999}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=72b76f1d5f0cc18e81de8613ff9ea81a}{Castairs-McCarthy}{C\bibinithyphendelim M\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=72b76f1d5f0cc18e81de8613ff9ea81a}{Castairs-McCarthy}{C\bibinithyphendelim M\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=8dbba0f49bbf9f3cd05efb0384352079}{Booij}{B\bibinitperiod}{Geert}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=05bf8d0655506cf8f93ef436fe7dbce6}{Lehmann}{L\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=912eccf12c4bf75eb3facc04ea453ac3}{Mugdan}{M\bibinitperiod}{Joachim}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=843cc5300f49a77d15588bec55985f3a}{Skopeteas}{S\bibinitperiod}{Stavros}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{72b76f1d5f0cc18e81de8613ff9ea81a}
+      \strng{fullhash}{72b76f1d5f0cc18e81de8613ff9ea81a}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Category and feature}
+      \field{booksubtitle}{An international handbook on inflection and word-formation}
+      \field{booktitle}{Morphology}
+      \field{number}{17}
+      \field{series}{Handb{ü}cher zur Sprach- u. Kommunikationswissenschaft}
+      \field{title}{Category and feature}
+      \field{year}{1999}
+      \field{pages}{264\bibrangedash 272}
+    \endentry
+    \entry{corbett1987}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e8fa48d3921d91b041e7b8213d134f0}
+      \strng{fullhash}{7e8fa48d3921d91b041e7b8213d134f0}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{1987}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The morphology-syntax interface}
+      \field{abstract}{!kopieren}
+      \field{journaltitle}{Language}
+      \field{title}{The morphology-syntax interface}
+      \field{volume}{63}
+      \field{year}{1987}
+      \field{pages}{299\bibrangedash 345}
+      \keyw{Noun phrase;Typology}
+    \endentry
+    \entry{corbett2006}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7e8fa48d3921d91b041e7b8213d134f0}
+      \strng{fullhash}{7e8fa48d3921d91b041e7b8213d134f0}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Agreement}
+      \field{series}{Cambridge Textbooks in Linguistics}
+      \field{title}{Agreement}
+      \field{year}{2006}
+      \keyw{Noun phrase;Attribution;Syntax;Morphology}
+    \endentry
+    \entry{corbett-etal2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=62dcc883cf5b2405f00c7afcc81f866e}{Baerman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=62dcc883cf5b2405f00c7afcc81f866e}{Baerman}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bf8a1b2e7d5e92459fb39acdcb00d4f3}
+      \strng{fullhash}{bf8a1b2e7d5e92459fb39acdcb00d4f3}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Prolegomena to a typology of morphological features}
+      \field{abstract}{Morphological features characterize variations in morphological form which are independent of syntactic context. They contrast with morphosyntactic features, which characterize variations in form correlated with different syntactic contexts. Morphological features account for formal variation across lexemes (inflectional class), as well as morphosyntactically incoherent alternations within the paradigm of a single lexeme. Such morphological features are not available to the syntax, as is made explicit in the principle of `morphology-free syntax'. Building on work on stress patterns in Network Morphology and on stems in Paradigm Function Morphology, we take initial steps towards a typology of these morphological features. We identify four types: inflectional class features (affixal and prosodic), stem indexing features, syncretic index features and morphophonological features. Then we offer a first list of criteria for distinguishing them from morphosyntactic features (independently of the principle of morphology-free syntax). Finally we review the arguments demonstrating the need to recognize morphological features.}
+      \field{journaltitle}{Morphology}
+      \field{number}{2}
+      \field{title}{Prolegomena to a typology of morphological features}
+      \field{volume}{16}
+      \field{year}{2006}
+      \field{pages}{231\bibrangedash 246}
+      \keyw{Morphology;Morphosyntax;Typology;Inflection}
+    \endentry
+    \entry{derbyshire1979}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=adf5ce321526c55f273e08ff34b6f330}{Derbyshire}{D\bibinitperiod}{Desmond\bibnamedelima C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=adf5ce321526c55f273e08ff34b6f330}{Derbyshire}{D\bibinitperiod}{Desmond\bibnamedelima C.}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {University of London}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{adf5ce321526c55f273e08ff34b6f330}
+      \strng{fullhash}{adf5ce321526c55f273e08ff34b6f330}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Hixkaryana syntax}
+      \field{title}{Hixkaryana syntax}
+      \field{type}{phdthesis}
+      \field{year}{1979}
+      \keyw{Language description}
+    \endentry
+    \entry{haspelmath2010}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6554cfb014a9427af44c63f16722a3dd}{Haspelmath}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6554cfb014a9427af44c63f16722a3dd}{Haspelmath}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5c8896f1662050a5c0c726fc1df3afd4}{Heine}{H\bibinitperiod}{Bernd}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=2dbbc4230293adb8a35ab0922859d758}{Narrog}{N\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{fullhash}{6554cfb014a9427af44c63f16722a3dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Framework-free grammatical theory}
+      \field{booktitle}{The {O}xford handbook of grammatical analysis}
+      \field{howpublished}{ms}
+      \field{title}{Framework-free grammatical theory}
+      \field{year}{2008}
+      \field{pages}{341\bibrangedash 365}
+      \keyw{Theoretical linguistics;Functional linguistics;Generative linguistics}
+    \endentry
+    \entry{hengeveld-etal2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=5ebf128e6ff9027ade7e239572eb0897}{Hengeveld}{H\bibinitperiod}{Kees\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=10f9a3480f787f37730ce6804c627184}{Rijkhoff}{R\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce0df64827329ef7370877e369880892}{Siewierska}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=5ebf128e6ff9027ade7e239572eb0897}{Hengeveld}{H\bibinitperiod}{Kees\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=10f9a3480f787f37730ce6804c627184}{Rijkhoff}{R\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce0df64827329ef7370877e369880892}{Siewierska}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f78cb706376597b5a3aeb622fa61a857}
+      \strng{fullhash}{f78cb706376597b5a3aeb622fa61a857}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Parts-of-speech systems and word order}
+      \field{journaltitle}{Journal of Linguistics}
+      \field{number}{3}
+      \field{title}{Parts-of-speech systems and word order}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{527\bibrangedash 570}
+    \endentry
+    \entry{holm-etal1970}{book}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=f3ca4bb77a05e0003ffb09b8f396aede}{Holm}{H\bibinitperiod}{Britta}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a189584b856198d8eca5ef4ce0dc268c}{Nylund}{N\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f3ca4bb77a05e0003ffb09b8f396aede}{Holm}{H\bibinitperiod}{Britta}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a189584b856198d8eca5ef4ce0dc268c}{Nylund}{N\bibinitperiod}{Elizabeth}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {Skriptor}%
+      }
+      \strng{namehash}{8db26ea37ca1376e9c9f46ea40833ec7}
+      \strng{fullhash}{8db26ea37ca1376e9c9f46ea40833ec7}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{1970}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Deskriptiv svensk grammatik}}
+      \field{title}{{Deskriptiv svensk grammatik}}
+      \field{year}{1970}
+      \keyw{Language description;North Germanic}
+    \endentry
+    \entry{itkonen-t1980a}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=b06efd4155fd2605716b8fc816fa5565}{Itkonen}{I\bibinitperiod}{Terho}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b06efd4155fd2605716b8fc816fa5565}{Itkonen}{I\bibinitperiod}{Terho}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b06efd4155fd2605716b8fc816fa5565}
+      \strng{fullhash}{b06efd4155fd2605716b8fc816fa5565}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labelyear}{1980}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Spesies suomessa ja germaanisissa kieliss{ä}}
+      \field{journaltitle}{Viritt{ä}j{ä}}
+      \field{title}{Spesies suomessa ja germaanisissa kieliss{ä}}
+      \field{volume}{84}
+      \field{year}{1980}
+      \field{pages}{27\bibrangedash 38}
+      \keyw{Finnish,North-Germanic,definiteness,noun phrase,semantics,morphology}
+    \endentry
+    \entry{kibort2008a}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=45e5093b2e08e689df7f0bf5837c649e}{Kibort}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=45e5093b2e08e689df7f0bf5837c649e}{Kibort}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=45e5093b2e08e689df7f0bf5837c649e}{Kibort}{K\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7e8fa48d3921d91b041e7b8213d134f0}{Corbett}{C\bibinitperiod}{Greville\bibnamedelima G.}{G\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{45e5093b2e08e689df7f0bf5837c649e}
+      \strng{fullhash}{45e5093b2e08e689df7f0bf5837c649e}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labeltitle}{A typology of grammatical features}
+      \field{booktitle}{Grammatical Features}
+      \field{title}{A typology of grammatical features}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.grammaticalfeatures.net/inventory.html
+      \endverb
+      \keyw{Noun phrase}
+      \warn{\item Datamodel: Entry 'kibort2008a' (localbibliography.bib): Invalid format '11 September 2008' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{mahootian1997}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=d09a58416f39eb4ec45333c75aa709ef}{Mahootian}{M\bibinitperiod}{Shahrzad}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d09a58416f39eb4ec45333c75aa709ef}{Mahootian}{M\bibinitperiod}{Shahrzad}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d09a58416f39eb4ec45333c75aa709ef}
+      \strng{fullhash}{d09a58416f39eb4ec45333c75aa709ef}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Persian}
+      \field{series}{Descriptive grammars}
+      \field{title}{Persian}
+      \field{year}{1997}
+      \keyw{Language description; Persian}
+    \endentry
+    \entry{melcuk2006}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9d7f11284680016b778fd43c6dc1b00f}{Mel'{č}uk}{M\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9d7f11284680016b778fd43c6dc1b00f}{Mel'{č}uk}{M\bibinitperiod}{Igor}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=27ecc0f2a7f6084b94f9c19c069efbf9}{Beck}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{9d7f11284680016b778fd43c6dc1b00f}
+      \strng{fullhash}{9d7f11284680016b778fd43c6dc1b00f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Aspects of the theory of morphology}
+      \field{abstract}{Noun phrase: Russian genitive in numeral phrases p.158 Noun phrase: Nominal agreement p.159 syntactic cases vs. semantic cases syntax-morphology interface typology of morphological processes}
+      \field{number}{146}
+      \field{series}{Trends in linguistics. Studies and Monographs}
+      \field{title}{Aspects of the theory of morphology}
+      \field{year}{2006}
+      \keyw{Morphology;Syntax}
+    \endentry
+    \entry{nichols1986}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6c09f5edfc18c697f68f320b247a7570}
+      \strng{fullhash}{6c09f5edfc18c697f68f320b247a7570}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Head-marking and dependent-marking grammars}
+      \field{journaltitle}{Language}
+      \field{title}{Head-marking and dependent-marking grammars}
+      \field{volume}{62}
+      \field{year}{1986}
+      \field{pages}{56\bibrangedash 119}
+      \keyw{Noun phrase}
+    \endentry
+    \entry{poppe1964}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=69a0fbbc88e9421773abe0f9a0296546}{Poppe}{P\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=69a0fbbc88e9421773abe0f9a0296546}{Poppe}{P\bibinitperiod}{Nicholas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Bloomington}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University}%
+      }
+      \strng{namehash}{69a0fbbc88e9421773abe0f9a0296546}
+      \strng{fullhash}{69a0fbbc88e9421773abe0f9a0296546}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labelyear}{1964}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Bashkir manual}
+      \field{number}{36}
+      \field{series}{Uralic and Altaic Series}
+      \field{subtitle}{Descriptive grammar and texts with a {B}ashkir-{E}nglish glossary}
+      \field{title}{Bashkir manual}
+      \field{year}{1964}
+      \keyw{Language description;Turkic}
+    \endentry
+    \entry{rijkhoff2002}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=10f9a3480f787f37730ce6804c627184}{Rijkhoff}{R\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=10f9a3480f787f37730ce6804c627184}{Rijkhoff}{R\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{10f9a3480f787f37730ce6804c627184}
+      \strng{fullhash}{10f9a3480f787f37730ce6804c627184}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The noun phrase}
+      \field{series}{Oxford studies in typology and linguistic theory}
+      \field{title}{The noun phrase}
+      \field{year}{2002}
+      \keyw{Noun phrase;Syntax;Typology;Attribution}
+    \endentry
+    \entry{testelec1998}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=781c9f3064f61ee1f42e059327ee049c}{Testelets}{T\bibinitperiod}{Yakov\bibnamedelima G.}{Y\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=781c9f3064f61ee1f42e059327ee049c}{Testelets}{T\bibinitperiod}{Yakov\bibnamedelima G.}{Y\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ce0df64827329ef7370877e369880892}{Siewierska}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{781c9f3064f61ee1f42e059327ee049c}
+      \strng{fullhash}{781c9f3064f61ee1f42e059327ee049c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Word order variation in some {SOV} languages of {E}urope}
+      \field{booktitle}{Constituent order in the languages of {E}urope}
+      \field{number}{20:1}
+      \field{series}{Empirical Approaches to Language Typology}
+      \field{title}{Word order variation in some {SOV} languages of {E}urope}
+      \field{year}{1998}
+      \field{pages}{649\bibrangedash 679}
+      \keyw{Syntax;Typology;Europe}
+    \endentry
+    \entry{wetzer1996}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e22416078d01a943880a485b48206f34}{Wetzer}{W\bibinitperiod}{Harrie}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e22416078d01a943880a485b48206f34}{Wetzer}{W\bibinitperiod}{Harrie}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{e22416078d01a943880a485b48206f34}
+      \strng{fullhash}{e22416078d01a943880a485b48206f34}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The Typology of Adjectival Predication}
+      \field{abstract}{Noun phrase}
+      \field{number}{17}
+      \field{series}{Empirical Approaches to Language Typology}
+      \field{title}{The Typology of Adjectival Predication}
+      \field{year}{1996}
+      \keyw{Adjective;Parts of speech;Predication}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
