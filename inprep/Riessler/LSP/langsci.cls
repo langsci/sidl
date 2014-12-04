@@ -571,9 +571,10 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 }
 
 
-\iflsDraft
-  \usepackage{showidx}
-\fi
+% Indexkram
+%\iflsDraft
+%  \usepackage{showidx}
+%\fi
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -620,8 +621,10 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 
 % \edef\authorTMP{\@author}
 % \IfSubStr{\authorTMP}{}{}{}
-%\IfSubStr{\author}{,}{\renewcommand{\lsEditorPostfixSpine}{(eds.)}}{}    
-%\IfSubStr{\@author}{\&}{\renewcommand{\lsEditorPostfixSpine}{(eds.)}}{\renewcommand{\lsEditorPostfixSpine}{(ed.)}}      
+%\IfSubStr{\author}{,}{\renewcommand{\lsEditorPostfixSpine}{(eds.)}}{}
+   
+%\IfSubStr{\@author}{\&}{\renewcommand{\lsEditorPostfixSpine}{(eds.)}}{\renewcommand{\lsEditorPostfixSpine}{(ed.)}} 
+    
 
 \newcommand{\lsCoverBlock}{
 	\begin{textblock}{155}(7.6,7.5)
