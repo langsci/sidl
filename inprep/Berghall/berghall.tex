@@ -17,7 +17,7 @@
 	        ,output=short             % long|short|inprep   
 		,biblatex
 	        %,blackandwhite
-	        %,smallfont
+	        ,smallfont
 % 	        ,draftmode  
 		  ]{./LSP/langsci}    
   
@@ -36,7 +36,7 @@
 \usepackage{localhyphenation}
 \usepackage{localcommands}
 
-% \bibliography{localbibliography}
+\bibliography{localbibliography}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
 %%%             BEGIN DOCUMENT                   %%%
@@ -52,9 +52,9 @@
 \frontmatter
 % %% uncomment if you have preface and/or acknowledgements
 % \chapter*{Preface} 
-% \include{chapters/preface}
+% \include{indexed/preface}
 % \section*{Acknowledgements} 
-% \include{chapters/acknowledgements}
+% \include{indexed/acknowledgements}
 \tableofcontents      
 \mainmatter         
 
@@ -64,17 +64,17 @@
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
-% \include{chapters/0}
-% \include{chapters/1}
-% \include{chapters/2}
-% \include{chapters/3}
-% \include{chapters/4}
-% \include{chapters/5}
-% \include{chapters/6}
-% \include{chapters/7}
-% \include{chapters/8}
-% \include{chapters/9}
-% \include{chapters/99}
+\include{indexed/0}
+\include{indexed/1}
+\include{indexed/2}
+\include{indexed/3}
+\include{indexed/4}
+\include{indexed/5}
+\include{indexed/6}
+\include{indexed/7}
+\include{indexed/8}
+\include{indexed/9}
+\include{indexed/99}
 \include{texts/alltexts}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,28 +83,28 @@
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  
-% \backmatter
-% \phantomsection%this allows hyperlink in ToC to work
-% \addcontentsline{toc}{chapter}{List of references}
-% \printbibliography %change to the name of your bib file
-% \clearpage
-%    
-% \addcontentsline{toc}{chapter}{Index} 
-% 
-% \phantomsection%this allows hyperlink in ToC to work
-% \addcontentsline{toc}{section}{Name index}
-% \ohead{Name index} 
-% \printindex 
-%   
-% \phantomsection%this allows hyperlink in ToC to work
-% \addcontentsline{toc}{section}{Language index}
-% \ohead{Language index} 
-% \printindex[lan] 
-%   
-% \phantomsection%this allows hyperlink in ToC to work
-% \addcontentsline{toc}{section}{Subject index}
-% \ohead{Subject index} 
-% \printindex[sbj]
+\backmatter
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{List of references}
+\printbibliography %change to the name of your bib file
+\clearpage
+   
+\addcontentsline{toc}{chapter}{Index} 
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Name index}
+\ohead{Name index} 
+\printindex
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Language index}
+\ohead{Language index} 
+\printindex[lan] 
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Subject index}
+\ohead{Subject index} 
+\printindex[sbj]
 
 \end{document} 
 
