@@ -36,10 +36,28 @@
 % \newcommand{\tabref}[1]{Table~\ref{#1}}
 % \newcommand{\figref}[1]{Figure~\ref{#1}}
 
-
+\usepackage{cancel}
 \newcommand{\mytoprule}{\midrule\toprule}
 \newcommand{\mybottomrule}{\bottomrule\midrule}
 
 \renewcommand{\Tilde}{∼}
 
 % \newcommand{\chapref}[1]{Chapter~\ref{#1}}
+
+\newcommand{\liniea}[2]{\raisebox{#1pt}{\parbox{.1mm}{\rule{#2pt}{.5pt}}}}
+
+\newcommand{\linieb}[2]{\settowidth{\LSPTmp}{#2}\raisebox{#1pt}{\parbox{.1mm}{\rule{\LSPTmp}{.5pt}}}#2}
+
+\newcommand{\liniec}[2]{\settowidth{\LSPTmp}{#2pt}%
+  \raisebox{#1}{%
+    \parbox{.1mm}{\bcancel{\hspace*{\LSPTmp}}}%
+  }%
+  #2%
+}
+
+\newcommand{\dline}[3]{%
+  \parbox{.1mm}{\begin{picture}(0,0)%
+			  \put(0,#1){\line(#2,-1){#3}}%
+			  \end{picture}%
+  }%
+}
