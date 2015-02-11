@@ -97,8 +97,8 @@ Even in those vernaculars where the dative is preserved, cases of zero-marking a
 
 In examples such as \REF{252}, the possessor NPs can be regarded as being in the dative – the lack of overt marking is in accordance with the grammar of the vernacular. However, there are also examples where an expected overt marking is lacking. For instance, in the Cat Corpus, we find in addition to the dative-marked \REF{251} an example such as \REF{253}, with the nominative \textstyleLinguisticExample{mårmora} ‘Granny’: 
 
-\renewcommand{\eachwordone}{\itshape}
-
+\renewcommand{\eachwordone}{\itshape} 
+\renewcommand{\eachwordtwo}{\upshape}
 
 \ea\label{}
 \langinfo{\label{bkm:Ref110681866}Nederkalix (Kx)}{}{}\\
@@ -111,14 +111,14 @@ and  lay  {\refl}  on  \textbf{belly.{\deff}} \textbf{Granny.{\deff}}\\
 
 \citet[161--163]{Källskog1992} treats the possessive dative in the Överkalix vernacular (Kx) in some detail and says that it is “perhaps the most common way of expressing the genitive concept”.\footnote{ “Det kanske vanligaste sättet att uttrycka genitivbegreppet i överkalixmålet är att använda en omskrivning med dativ.” It is not clear why Källskog uses the term \textit{omskrivning} ‘periphrasis’ here – it would seem that the dative construction is not more periphrastic than the \textit{s-}genitive.} She enumerates five possibilities:
 
-\renewcommand{\eachwordone}{\scshape}
-
 \begin{enumerate}
 \item[1] Definite possessee + definite possessor in the dative
 \end{enumerate}
 
 %\end{listLFOxvileveli}
 
+\renewcommand{\eachwordone}{\scshape}
+\renewcommand{\eachwordtwo}{\itshape}  
 \ea\label{}
 \langinfo{Överkalix (Kx)}{}{}\\
 \ea {
@@ -204,8 +204,8 @@ The first, third and fourth possibilities clearly represent the postposed varian
 
 \citet{Rutberg1924}, in her description of \textit{Nederkalixmål}, presents paradigms where the genitive and the dative are identical throughout. Both \citet[161]{Källskog1992} and \citet[42]{Delsing2003a} take this as an indication that dative-marked possessors are possible. Indeed, the Cat Corpus text from Nederkalix contains at least three clear examples – \REF{251} above and also the following:
 
-\renewcommand{\eachwordone}{\itshape}
-
+\renewcommand{\eachwordone}{\itshape} 
+\renewcommand{\eachwordtwo}{\upshape}  
 
 \ea\label{}
 \langinfo{Nederkalix (Kx)}{}{}\\
@@ -554,7 +554,7 @@ The tendencies mentioned in the previous paragraph come out very clearly in one 
 \ea\label{}
 \langinfo{\label{bkm:Ref135470135}Älvdalen (Os)}{}{}\\
 \gll Nu  war  ed  \textbf{prestsaida} \textbf{es} \textbf{tur} at  tytts at  muotstonderer  språked  um  nǫd  eller  eld  ed dier  uld  tag  stellning  ad  ǫ  stemmun.\\
-now  be.{\pst}  it  \textbf{clergy-side.{\deff}} \textbf{{\poss}} \textbf{turn} {\infm}  think.{\inf}that  adversary.{\deff}.{\pl}  speak.{\pst}  about  something  other  than  it they  shall.{\pst}  take.{\inf} position  to  on  meeting.{\deff}.{\dat}\\
+now  be.{\pst}  it  \textbf{clergy-side.{\deff}} \textbf{{\poss}} \textbf{turn} {\infm}  think.{\inf} that  adversary.{\deff}.{\pl}  speak.{\pst}  about  something  other  than  it they  shall.{\pst}  take.{\inf} position  to  on  meeting.{\deff}.{\dat}\\
 \glt ‘Now it was the turn of the clergy side to think that the adversaries were talking about something other than what should be decided at the meeting.’ 
 \z
 
@@ -589,7 +589,7 @@ In \textstyleLinguisticExample{Ärram-ås,} the suffix\textit{ {}-å}\textstyleL
 \ea\label{}
 \langinfo{Utmeland, Mora (Os)}{}{}\\
 \gll Då  stod  \textbf{Ärran-ås} \textbf{angel} framåmin  dem…\\
-then  stand.{\pst}  \textbf{Lord.{\deff}-{\poss}} \textbf{angel} in front of  they.{\obl}\\
+then  stand.{\pst}  \textbf{Lord.{\deff}-{\poss}} \textbf{angel} in\_front\_of  they.{\obl}\\
 \glt ‘And then the angel of the Lord stood before them…’ (Luke 2:9) [S20]
 \z
 
@@ -626,7 +626,7 @@ Hellbom (ibid.) quotes an unpublished note by Karl-Hampus Dahlstedt to the effec
 \ea\label{}
 \langinfo{Stöde (Md)}{}{}\\
 \gll in  par  jänter  …  som  fôǠDǠDe  mä\\
-{\indf}  couple  girl.{\pl}.{\dat}    who  follow.{\pst}  with\\
+{\indf}  couple  girl.{\pl}.{\dat} {}   who  follow.{\pst}  with\\
 \gll på  \textbf{fara} \textbf{senne-}\textbf{\textit{  }}\textbf{\textit{\nobreakdash-s}} \textbf{joLsättning} \\
 on  \textbf{father.{\dat}} \textbf{their.{\refl}.{\dat}} \textbf{{\poss}} \textbf{funeral} \\
 \glt ‘…a couple of girls … who took part in their father’s funeral.’ [S15]
@@ -827,10 +827,8 @@ The Cat Corpus provides us with an example also from Southern Westrobothnian:
 
 \ea\label{}
 \langinfo{Sävar (SVb)}{}{}\\
-\gll Kattgöbben  försto,\\
-tomcat.{\deff}  understand.{\pst}\\
-\gll att  hanna  va  \textbf{kälinga} \textbf{hansch} \textbf{‘n} \textbf{Allfre.}\\
-that  {\dem}  be.{\pst}  \textbf{wife.{\deff}} \textbf{his} \textbf{{\pda}.{\m}} \\
+\gll Kattgöbben  försto, att  hanna  va  \textbf{kälinga} \textbf{hansch} \textbf{‘n} \textbf{Allfre}.\\
+tomcat.{\deff}  understand.{\pst} that  {\dem}  be.{\pst}  \textbf{wife.{\deff}} \textbf{his} \textbf{{\pda}.{\m}} \\ 
 \glt ‘Cat understood that this was Alfred’s wife.’ (Cat Corpus)
 \z
 
@@ -912,7 +910,7 @@ In Written Medieval Swedish, as well as in other earlier forms of Scandinavian, 
 
 \ea\label{}
 \langinfo{Written Medieval Swedish}{}{}\\
-\gll …for  han  stragx  \textbf{ath} \textbf{danmark} j gen\\
+\gll …for  han  stragx  \textbf{ath} \textbf{danmark} {j gen}\\
 …go.{\pst}  he  at\_once  \textbf{to} \textbf{Denmark} again\\
 \glt ‘…he went at once to Denmark again.’ [S13]
 \z
@@ -1041,10 +1039,10 @@ My interpretation of the situation depicted in the map is that the adnominal use
 
 \ea\label{}
 \langinfo{Älvdalen (Os)}{}{}\\
-\gll Og  ǫ  add  gaið\\
-and  she  have.{\pst}  go.{\supp}\\
-\gll fromǫ  \textbf{gamman} \textbf{að} \textbf{nogum} \textbf{momstaskallum.}\\
-in front of   \textbf{front\_roof} \textbf{to} \textbf{some.{\deff}.{\pl}} \textbf{Månsta\_people}\\
+\gll Og  ǫ  add  gaið fromǫ  \textbf{gamman} \textbf{að} \textbf{nogum} \textbf{momstaskallum.}\\
+and  she  have.{\pst}  go.{\supp} in\_front\_of   \textbf{front\_roof} \textbf{to} \textbf{some.{\deff}.{\pl}} \textbf{Månsta\_people}\\
+\gll\\
+\\
 \glt ‘and she had passed by the front roof of some Månsta people.’ [S34]
 \z
 
