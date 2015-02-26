@@ -1,11 +1,4 @@
-\documentclass[12pt,landscape]{article}
-
-\usepackage{tikz}
-\usetikzlibrary{positioning}
-\usetikzlibrary{shapes.geometric}
-\usetikzlibrary{calc}
-
-\begin{document}
+%1-mauwake_kinship_system_cart.tex
 \resizebox{\textwidth}{!}{
 \begin{tikzpicture}
 
@@ -148,42 +141,47 @@
 \draw (node cs:name=EGO, anchor=north) |- +(0,.5) -| (node cs:name=1BR);
 
 % Ego's cousins on their mother's side
-\draw (node cs:name=BR1, anchor=north) |- +(0,.5) -| (node cs:name=Z2) node (TEST) {};
-\draw (node cs:name=CO1, anchor=north) |- +(0,.5) -| (node cs:name=CO2);
+\draw (node cs:name=BR1, anchor=north) |- +(0,.5) -| (node cs:name=Z2) node [pos=.25] (MBR1Z2) {};
+\draw (node cs:name=CO1, anchor=north) |- +(0,.5) -| (node cs:name=CO2) node [pos=.25] (MCO1CO2) {};
 
 % Ego's cousins on their father's side
-\draw (node cs:name=1Z, anchor=north) |- +(0,.5) -| (node cs:name=2BR);
-\draw (node cs:name=1CO, anchor=north) |- +(0,.5) -| (node cs:name=2CO);
+\draw (node cs:name=1Z, anchor=north) |- +(0,.5) -| (node cs:name=2BR) node [pos=.25] (M1Z2BR) {};
+\draw (node cs:name=1CO, anchor=north) |- +(0,.5) -| (node cs:name=2CO) node [pos=.25] (M1CO2CO) {};
 
 % Ego's fathers and his brother and sister
 \draw (node cs:name=1FR, anchor=north) |- +(0,.5) -| (node cs:name=1AU);
-\draw (node cs:name=1FR, anchor=north) |- +(0,.5) -| (node cs:name=2FR);
+\draw (node cs:name=1FR, anchor=north) |- +(0,.5) -| (node cs:name=2FR) node [pos=.25] (M1FR2FR);
 
 % Ego's mother and her brother and sister
 \draw (node cs:name=UN1, anchor=north) |- +(0,.5) -| (node cs:name=MO2);
-\draw (node cs:name=UN1, anchor=north) |- +(0,.5) -| (node cs:name=MO1);
+\draw (node cs:name=UN1, anchor=north) |- +(0,.5) -| (node cs:name=MO1) node [pos=.25] (MUN1NO1) {};
 
 % Ego's children and nephews/nieces
-\draw (node cs:name=1SO, anchor=north) |- +(0,.5) -| (node cs:name=DA1);
-\draw (node cs:name=NE1, anchor=north) |- +(0,.5) -| (node cs:name=NE2);
-\draw (node cs:name=2SO, anchor=north) |- +(0,.5) -| (node cs:name=1DA);
-\draw (node cs:name=3SO, anchor=north) |- +(0,.5) -| (node cs:name=2DA);
+\draw (node cs:name=1SO, anchor=north) |- +(0,.5) -| (node cs:name=DA1) node [pos=.25] (M1SODA1) {};
+\draw (node cs:name=NE1, anchor=north) |- +(0,.5) -| (node cs:name=NE2) node [pos=.25] (MNE1NE2) {}; % relative positioning. Not sure why it's 1/4, tough. 
+\draw (node cs:name=2SO, anchor=north) |- +(0,.5) -| (node cs:name=1DA) node [pos=.25] (M2SO1DA) {};
+\draw (node cs:name=3SO, anchor=north) |- +(0,.5) -| (node cs:name=2DA) node [pos=.25] (M3SO2DA) {};
 
 
 % Between-Generation Connections
+
+% The old way was \draw (node cs:name=grfa1grmo1, anchor=south) -- ($(grfa1grmo1)-(0,3.225)$); This was extremly messy.
+% The new way is to use |- and a seperate node on the |--| specified above. A little tricky, but it should be reliable.
+
+
 \draw (node cs:name=1frmo1, anchor=south) -- (node cs:name=EGO, anchor=north);
-\draw (node cs:name=fr1mo2, anchor=south) -- ($(fr1mo2)-(0,3.225)$); %This is messy
-\draw (node cs:name=un1au1, anchor=south) -- ($(un1au1)-(0,3.225)$); %This is messy
-\draw (node cs:name=2fr1mo, anchor=south) -- ($(2fr1mo)-(0,3.225)$); %This is messy
-\draw (node cs:name=1un1au, anchor=south) -- ($(1un1au)-(0,3.225)$); %This is messy
-\draw (node cs:name=grfa1grmo1, anchor=south) -- ($(grfa1grmo1)-(0,3.225)$); %This is messy
-\draw (node cs:name=1grfa1grmo, anchor=south) -- ($(1grfa1grmo)-(0,3.225)$); %This is messy
-\draw (node cs:name=1co, anchor=south) -- ($(1co)-(0,3.075)$); %This is messy
-\draw (node cs:name=ego, anchor=south) -- ($(ego)-(0,3.075)$); %This is messy
-%\draw (node cs:name=1br, anchor=south) -- (node cs:name=NE2) -(5,1); %This is messy
-%\draw (node cs:name=z1, anchor=south) -- ($(2SO)-(0,3.225)$); %This is messy
+\draw (node cs:name=fr1mo2, anchor=south) |- (node cs:name=MBR1Z2, anchor=center);
+\draw (node cs:name=un1au1, anchor=south) |- (node cs:name=MCO1CO2, anchor=center);
+\draw (node cs:name=2fr1mo, anchor=south) |- (node cs:name=M1Z2BR, anchor=center);
+\draw (node cs:name=1un1au, anchor=south) |- (node cs:name=M1CO2CO, anchor=center);
+\draw (node cs:name=grfa1grmo1, anchor=south) |- (node cs:name=MUN1NO1, anchor=center);
+\draw (node cs:name=1grfa1grmo, anchor=south) |- (node cs:name=M1FR2FR, anchor=center);
+\draw (node cs:name=1co, anchor=south) |- (node cs:name=M3SO2DA, anchor=center);
+\draw (node cs:name=ego, anchor=south) |- (node cs:name=M1SODA1, anchor=center);
+
+\draw (node cs:name=1br, anchor=south) -- (node cs:name=M2SO1DA, anchor=center); %This is precise
+\draw (node cs:name=z1, anchor=south) -- (node cs:name=MNE1NE2, anchor=center); %This is precise
 
 
 \end{tikzpicture}
 }
-\end{document}
