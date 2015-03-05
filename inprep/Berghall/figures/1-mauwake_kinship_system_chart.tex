@@ -25,10 +25,10 @@
 \node at (0,0) [rectangle, draw] (ego) {Ego};
 \node [above=.1cm of ego,regular polygon, regular polygon sides=3, draw, fill=gray] (EGO) {}; 
 %Brother of Ego
-\node [left=1cm of ego, rectangle, draw] (1br) {Br};
+\node [left=3cm of ego, rectangle, draw] (1br) {Br};
 \node [above=.1cm of 1br, regular polygon, regular polygon sides=3, draw] (1BR) {};
 %Sister of Ego
-\node [right=1cm of ego, rectangle, draw] (z1) {Z};
+\node [right=3cm of ego, rectangle, draw] (z1) {Z};
 \node [above=.1cm of z1, circle, minimum size=.6cm, draw] (Z1) {};
 
 % Ego's cousins on their mother's side
@@ -179,8 +179,8 @@
 \draw (node cs:name=1co, anchor=south) |- (node cs:name=M3SO2DA, anchor=center);
 \draw (node cs:name=ego, anchor=south) |- (node cs:name=M1SODA1, anchor=center);
 
-\draw (node cs:name=1br, anchor=south) -- (node cs:name=M2SO1DA, anchor=center); %This is precise
-\draw (node cs:name=z1, anchor=south) -- (node cs:name=MNE1NE2, anchor=center); %This is precise
+\draw (node cs:name=1br, anchor=south) |- (node cs:name=M2SO1DA, anchor=center); %This is precise
+\draw (node cs:name=z1, anchor=south) |- (node cs:name=MNE1NE2, anchor=center); %This is precise
 
 
 \end{tikzpicture}
