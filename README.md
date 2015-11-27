@@ -7,6 +7,7 @@ This repository contains books from our series Studies in Diversity Linguistics.
 These are located in the `finished` directory.
 
 3. Marian Klamer (ed.): The Alor-Pantar languages (2014)
+4. Liisa Berghäll: A grammar of Mauwake (2015)
 5. Joshua Wilbur: A grammar of Pite Saami (2015)
 6. Östen Dahl: Grammaticalization in the North (2015)
 
@@ -15,7 +16,6 @@ These are located in the `finished` directory.
 These are located in the `inprep` directory.
 
 2. Michael Rießler: Adjective attribution 
-4. Liisa Berghäll: A grammar of Mauwake
 
 
 ## License
