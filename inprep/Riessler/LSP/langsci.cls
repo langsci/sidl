@@ -13,7 +13,7 @@
 \newcommand{\lsOutput}{long}
 \newcommand{\lsFontsize}{11pt}
 \newcommand{\lsCopyright}{CC-BY}
-\newcommand{\lsBiblatexBackend}{bibtex}
+\newcommand{\lsBiblatexBackend}{biber}%\newcommand{\lsBiblatexBackend}{bibtex}
 \newif\iflsDraft \lsDraftfalse
 \newif\iflsIndex \lsIndextrue
 \newif\iflsBiblatex \lsBiblatexfalse
@@ -49,7 +49,7 @@
 \DeclareStringOption{copyright}[CC-BY]
 	\define@key{langsci}{copyright}{%
 		\renewcommand{\lsCopyright}{#1}}
-\DeclareStringOption{biblatexbackend}[bibtex]
+\DeclareStringOption{biblatexbackend}[biber]%\DeclareStringOption{biblatexbackend}[bibtex]
 	\define@key{langsci}{biblatexbackend}{%
 		\renewcommand{\lsBiblatexBackend}{#1}}
 \DeclareVoidOption{blackandwhite}{
