@@ -34,13 +34,15 @@
 \usepackage{localpackages}
 \usepackage{localhyphenation}
 \usepackage{localcommands}
+% \usepackage{biber}
+\addbibresource{localbibliography.bib}    
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
 %%%             BEGIN DOCUMENT                   %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
-\begin{document}       
+\begin{document}   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
 %%%             Frontmatter                      %%%
@@ -100,7 +102,7 @@
 
 \phantomsection%this allows hyperlink in ToC to work
 \addcontentsline{toc}{chapter}{List of references}
-\bibliography{localbibliography.bib}
+\printbibliography
 \clearpage
    
 \addcontentsline{toc}{chapter}{Index} 
