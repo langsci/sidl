@@ -10,17 +10,15 @@
 % Everything following a % is ignored
 % Some lines start with %. Remove the % to include them
 
-\documentclass[number=2                 %replace by your number in series
-			,series=sidl,     % Choose series abbreviation as appropriate
-			,isbn=978-3-944675-49-7, %add your isbn here
-			,url=http://langsci-press.org/catalog/book/19,  %change to the running number of your book
-			,output=long             % long|short|inprep              
-%			,blackandwhite
-%			,smallfont
-			,draftmode  
-			,biblatex
-			,biblatexbackend=biber
-			]{LSP/langsci}
+\documentclass[number=??                 %replace by your number in series
+                ,series=??,     % Choose series abbreviation as appropriate
+                ,isbn=978-3-944675-49-7, %add your isbn here
+                ,url=http://langsci-press.org/catalog/book/19,  %change to the running number of your book
+	        ,output=inprep            % long|short|inprep              
+	        %,blackandwhite
+	        %,smallfont
+	        ,draftmode  
+		  ]{LSP/langsci}    
   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
@@ -36,55 +34,57 @@
 \usepackage{localpackages}
 \usepackage{localhyphenation}
 \usepackage{localcommands}
-\bibliography{localbibliography}
+% \usepackage{biber}
+\addbibresource{localbibliography.bib}    
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
 %%%             BEGIN DOCUMENT                   %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
-\begin{document}       
+\begin{document}   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
 %%%             Frontmatter                      %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        
 \maketitle                
-\frontmatter
-% %% uncomment if you have preface and/or acknowledgements
-\addchap{Preface} 
-%\include{chapters/preface}
-\addchap{Acknowledgements} 
-%\include{chapters/acknowledgements}
-\addchap{List of abbreviations and notational conventions} 
-\include{chapters/abbreviations}
+
+\frontmatter%!!check the order of chapters with the guidelines
+
 \tableofcontents      
+
+\include{chapters/preface}%not finished
+
+%\section*{Acknowledgements} 
+%\include{chapters/acknowledgements}%not finished
+
+\include{chapters/abbreviations}
+
 \mainmatter         
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
-%%%             Chapters                         %%%
+%%%             Chapters                  %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \include{chapters/part-theory}
 \include{chapters/chap-intro}
 \include{chapters/chap-np-adj}
 \include{chapters/chap-interface}
-
+%%%
 \include{chapters/part-typology}
 \include{chapters/chap-typology-of}
 \include{chapters/chap-polyfunctionality}
-
+%%%
 \include{chapters/part-synchrony}
 \include{chapters/chap-syn-introduction}
 \include{chapters/chap-lg-nea}
 \include{chapters/chap-areal}
-%%%%%
+%%%
 \include{chapters/part-diachrony}
 \include{chapters/chap-evolution-nea}
 \include{chapters/chap-areal-typ}
-%%%%%
+%%%
 \include{chapters/part-concl}
 \include{chapters/chap-results}
 
@@ -95,8 +95,13 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \backmatter
 \phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{Appendix A}
+\include{chapters/appendix}%completed, except maps
+\clearpage
+
+\phantomsection%this allows hyperlink in ToC to work
 \addcontentsline{toc}{chapter}{List of references}
-\printbibliography %change to the name of your bib file
+\printbibliography
 \clearpage
    
 \addcontentsline{toc}{chapter}{Index} 
@@ -104,15 +109,15 @@
 \phantomsection%this allows hyperlink in ToC to work
 \addcontentsline{toc}{section}{Name index}
 \ohead{Name index} 
-\printindex 
+%\printindex%LATEX does not compile
   
 \phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{section}{Language index}
+\addcontentsline{toc}{section}{Language index}%completed, but needs to be checked for consistency 
 \ohead{Language index} 
-\printindex[lan] 
+\printindex[lan]
   
 \phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{section}{Subject index}
+\addcontentsline{toc}{section}{Subject index}%started, not completed
 \ohead{Subject index} 
 \printindex[sbj]
 

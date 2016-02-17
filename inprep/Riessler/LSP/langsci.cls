@@ -13,7 +13,7 @@
 \newcommand{\lsOutput}{long}
 \newcommand{\lsFontsize}{11pt}
 \newcommand{\lsCopyright}{CC-BY}
-\newcommand{\lsBiblatexBackend}{bibtex}
+\newcommand{\lsBiblatexBackend}{biber}%\newcommand{\lsBiblatexBackend}{bibtex}
 \newif\iflsDraft \lsDraftfalse
 \newif\iflsIndex \lsIndextrue
 \newif\iflsBiblatex \lsBiblatexfalse
@@ -49,7 +49,7 @@
 \DeclareStringOption{copyright}[CC-BY]
 	\define@key{langsci}{copyright}{%
 		\renewcommand{\lsCopyright}{#1}}
-\DeclareStringOption{biblatexbackend}[bibtex]
+\DeclareStringOption{biblatexbackend}[biber]%\DeclareStringOption{biblatexbackend}[bibtex]
 	\define@key{langsci}{biblatexbackend}{%
 		\renewcommand{\lsBiblatexBackend}{#1}}
 \DeclareVoidOption{blackandwhite}{
@@ -89,7 +89,7 @@
 
 
 \usepackage{etex}
-	
+\reserveinserts{28}	
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %    Page size and text area:
@@ -398,46 +398,24 @@ al desirabilite de un nov lingua franca: On refusa continuar payar custosi tradu
 % Xelatex likes this, must appear before BibLaTeX:
 \usepackage[hyphens]{url}
 \urlstyle{same}
+% \RequirePackage[backend=biber]{biblatex} 
+\usepackage[
+% 	natbib=true,
+	style=LSP/lsp-bst/biblatex-sp-unified,
+	citestyle=LSP/lsp-bst/sp-authoryear-comp,
+	%refsection=chapter,
+	maxbibnames=99,
+% 	isbn=false,
+% 	doi=false,
+% 	eprint=false,
+	backend=biber,
+	indexing=cite
+	]{biblatex}
+\renewcommand{\postnotedelim}{: }%
+\renewcommand{\multicitedelim}{\addsemicolon\space}%  
+\DeclareFieldFormat{postnote}{#1}%
+%\renewcommand{\nameyeardelim}{ }%		
 
-\iflsBiblatex	% BibLaTeX
-	\usepackage[
-		natbib=true,
-		style=LSP/lsp-bst/biblatex-sp-unified,
-		citestyle=LSP/lsp-bst/sp-authoryear-comp,
-		%refsection=chapter,
-		maxbibnames=99,
-		isbn=false,
-		doi=false,
-		eprint=false,
-		backend=\lsBiblatexBackend,
-		indexing=cite
-		]{biblatex}
-	\renewcommand{\postnotedelim}{: }%
-	\renewcommand{\multicitedelim}{\addsemicolon\space}%  
-	\DeclareFieldFormat{postnote}{#1}%
-	%\renewcommand{\nameyeardelim}{ }%		
-\else	%BibTeX
-	\usepackage{natbib}
-	\setlength{\bibsep}{0mm}
-	% unified style sheet for linguistics journals
-	% put directory in BST_INPUTS
-	% http://celxj.org/downloads/unified.bst
-	\bibliographystyle{./LSP/lsp-bst/unified} 
-	% This does not work ...
-	%% \setcitestyle{
-	%% notesep={: }, % 2002: 125
-	%% aysep={~}     % Gazdar 2002
-	%% }
-
-	% check what the unified people have to say on this.
-	\bibpunct[: ]{(}{)}{;}{a}{}{,}
-	% They do not say anything about citations in the running text.
-	% As was sown in \citew{Meier2002} -> As was shown in Meier (2002), ...
-	% This is what De Gruyter does:
-	\let\citew=\citet
-	% This is what Stefan did:
-	%\let\citew=\citealt
-\fi
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
