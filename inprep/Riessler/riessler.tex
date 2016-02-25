@@ -10,15 +10,11 @@
 % Everything following a % is ignored
 % Some lines start with %. Remove the % to include them
 
-\documentclass[number=??                 %replace by your number in series
-                ,series=??,     % Choose series abbreviation as appropriate
-                ,isbn=978-3-944675-49-7, %add your isbn here
-                ,url=http://langsci-press.org/catalog/book/19,  %change to the running number of your book
-	        ,output=inprep            % long|short|inprep              
+\documentclass[output=short            % long|short|inprep              
 	        %,blackandwhite
 	        %,smallfont
-	        ,draftmode  
-		  ]{LSP/langsci}    
+% 	        ,draftmode  
+		  ]{langsci/langscibook}    
   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
@@ -122,15 +118,3 @@
 \printindex[sbj]
 
 \end{document} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%                  END                         %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% you should be able to create a pdf from this file 
-% with the following command 
-% xelatex lsp-skeleton.tex
-% If this does not work, please get in contact with 
-% Language Science Press
