@@ -1008,7 +1008,7 @@ Table~\ref{syntaxontology} on page \pageref{syntaxontology} presents an ontologi
 %%%
 Figure~\ref{tree ontology} on page \pageref{tree ontology} presents a similar ontology in a tree diagram. The order of types (from left to right) is similar to Table~\ref{tabledefontology} (from top to bottom). The left branch of the tree consists of a purely syntactic device (\textit{juxtaposition}) with the subtype (\textit{incorporation}); the middle branch consists of three overt morphosyntactic types differentiated by the locus of the respective formatives: on-head (\textit{construct state}), floating (\textit{linker}) and on-dependent. “Dependent marking” again can be divided further into the three subtypes: \textit{attributive nominalization}, \textit{anti-construct state agreement} and \textit{attributive article} (a subtype of \textit{attributive nominalization}). The right branch of the tree, finally, comprises morpho-semantico-syntactic devices, i.e. devices primarily connected to head- (\textit{head\hyp{}driven agreement}) or dependent-driven agreement (\textit{modifier-headed possessor agreement}). A dashed line combines the types of \textit{head\hyp{}driven agreement}, \textit{anti-construct state agreement} and \textit{attributive article} because (morpho-semantico-syntactic) agreement marking is involved in all of them.
 %%%
-\begin{table}
+\begin{table}[t]
 \begin{tabular}{l l l}
 \lsptoprule
 Device 1 & Device 2 & Note\\
@@ -1157,8 +1157,8 @@ marking		&$[$+AGR$]$	&			&							&&$[_\textrm{NP}[_\textrm{PSD}$ A:\textsc{poss:
 \tikzstyle{level 4}=[sibling distance=14mm]
 \node {\textbf{Adjective attribution marking}}
 child {node {syntactic}
-	child {node {}
-		child {node {}
+	child {
+		child {
 			child {node {\textbf{\textit{Juxt}}}
 				child {node {\textbf{\textit{Inc}}}
 				}
@@ -1205,6 +1205,5 @@ child {node {morpho-semantico-syntactic}
 \draw [dashed] (HDAgr) -- (ACAgr) -- (Art);
 \end{tikzpicture}
 \caption[Ontology of adjective attribution marking types]{Ontological tree of attested adjective attribution marking devices; type abbreviations are: ACAgr=Anti-construct state agreement, AConstr=Anti-construct state, AHDAgr=Appositive head\hyp{}driven agreement, Art=Attributive article, Constr=Construct state, HDAgr=Head\hyp{}driven agreement, Inc=Incorporation, Juxt=Juxtaposition, Link=Linker, MHPAgr=Modifier-headed possessor agreement, Nmlz=Attributive nominalization} 
-\label{tree ontology}\bigskip
+\label{tree ontology}
 \end{sidewaysfigure}
-\todo{LATEX: I need a solid line in the left branch of the tree}
