@@ -20,8 +20,8 @@ riessler.aux: $(SOURCE)
 #create only the book
 riessler.bbl:  $(SOURCE) localbibliography.bib  
 	xelatex -no-pdf riessler 
-	biber -min-crossrefs=200 riessler 
-
+	#biber riessler 
+	bibtex riessler
 
 riessler.snd: riessler.bbl
 	sed -i s/.*\\emph.*// riessler.adx #remove titles which biblatex puts into the name index
