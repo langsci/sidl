@@ -34,8 +34,8 @@ riessler.snd: riessler.bbl
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.sdx # ordering of references to footnotes
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.ldx
-# 	python3 fixindex.py
-# 	mv riesslermod.adx riessler.adx
+	python3 fixindex.py
+	mv mainmod.adx riessler.adx
 	makeindex -o riessler.and riessler.adx
 	makeindex -o riessler.lnd riessler.ldx
 	makeindex -o riessler.snd riessler.sdx 

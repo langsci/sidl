@@ -13,6 +13,8 @@
 \documentclass[output=covercreatespace            % long|short|inprep              
 %  	        ,draftmode
 	        ,table
+	        ,modfonts
+		,nonflat
 %	        ,newtxmath%ungeklärtes Problem
 % 		,biblatexbackend=biber
 		  ]{langsci/langscibook}  
@@ -49,70 +51,4 @@
 \frontmatter%!!check the order of chapters with the guidelines
 
 \tableofcontents      
-
-\include{chapters/preface}%not finished
-
-\include{chapters/abbreviations}
-
-\mainmatter         
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%             Chapters                  %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Preliminaries}\label{part:theory} %\include{chapters/part-theory}
-\include{chapters/chap-intro}
-\include{chapters/chap-np-adj}
-\include{chapters/chap-interface}
-%%%
-\part{Typology} \label{part typ} %\include{chapters/part-typology}
-\include{chapters/chap-typology-of}
-\include{chapters/chap-polyfunctionality}
-%%%
-\part{Synchrony} \label{part synchr} %\include{chapters/part-synchrony}
-\include{chapters/chap-syn-introduction}
-\include{chapters/chap-lg-nea}
-\include{chapters/chap-areal}
-%%
-\part{Diachrony} \label{part diachr} %\include{chapters/part-diachrony}
-\include{chapters/chap-evolution-nea}
-\include{chapters/chap-areal-typ}
-%%%
-\part{Conclusion}\label{part:concl} %\include{chapters/part-concl}
-\include{chapters/chap-results}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%             Backmatter                       %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\backmatter
-%LATEX: How do I insert the proper titles for the Appendix and the List of references in the ToC?
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{chapter}{Appendix A}
-\include{chapters/appendix}%completed, except maps
-\clearpage
-
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{chapter}{List of references}
-\printbibliography
-\clearpage
-   
-\addcontentsline{toc}{chapter}{Index} 
-
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{section}{Name index}
-\ohead{Name index} 
-\printindex
-  
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{section}{Language index} 
-\ohead{Language index} 
-\printindex[lan]
-  
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{section}{Subject index}%started, not completed
-\ohead{Subject index} 
-\printindex[sbj]
-
 \end{document} 
