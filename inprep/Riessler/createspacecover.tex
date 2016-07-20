@@ -1,43 +1,118 @@
-\documentclass[10pt,landscape]{article}
-\usepackage{graphicx}
-\usepackage{tabularx}
-\usepackage{array}
-\usepackage{calc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%     Language Science Press Master File       %%%
+%%%         follow the instructions below        %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newlength{\seitenbreite}
-\newlength{\seitenhoehe}
-\newlength{\beschnittoben}
-\newlength{\beschnittunten}
-\newlength{\beschnittrechts}
-\newlength{\beschnittlinks}
-\newlength{\spinewidth}
-\newlength{\totalwidth}
-\newlength{\totalheight}
+% please fill in some information in the following lines as soon
+% as you have it
+% Everything following a % is ignored
+% Some lines start with %. Remove the % to include them
 
-\setlength{\seitenbreite}{169.92mm}
-\setlength{\seitenhoehe}{240mm}
-\setlength{\beschnittoben}{2mm}
-\setlength{\beschnittunten}{2mm}
-\setlength{\beschnittrechts}{0mm}
-\setlength{\beschnittlinks}{0mm} 
+\documentclass[output=covercreatespace            % long|short|inprep              
+%  	        ,draftmode
+	        ,table
+%	        ,newtxmath%ungeklärtes Problem
+% 		,biblatexbackend=biber
+		  ]{langsci/langscibook}  
+		  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%          additional packages                 %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% adjust this to the right size for your book
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \setlength{\spinewidth}{2mm+.07*\pagecount}  
-\setlength{\spinewidth}{20.87mm}  
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% put all additional commands you need in the 
+% following files. If you do not know what this might
+% mean, you can safely ignore this section
 
-\setlength{\totalwidth}{\beschnittlinks+\beschnittrechts+\spinewidth+\seitenbreite+\seitenbreite}
-\setlength{\totalheight}{\beschnittoben+\beschnittunten+\seitenhoehe}
+\usepackage{localmetadata}
+\usepackage{localpackages}
+\usepackage{localhyphenation}
+\usepackage{localcommands}
+\addbibresource{localbibliography.bib}    
 
-\usepackage[paperheight=\totalheight%
-	    ,paperwidth=\totalwidth%
-	    ,left=\beschnittlinks%
-	    ,right=\beschnittrechts%
-	    ,top=\beschnittoben%
-	    ,bottom=\beschnittunten]{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             BEGIN DOCUMENT                   %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
+\begin{document}   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Frontmatter                      %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        
+\maketitle                
 
-\begin{document}
-\input{cover.tex}
-\end{document}
+\frontmatter%!!check the order of chapters with the guidelines
+
+\tableofcontents      
+
+\include{chapters/preface}%not finished
+
+\include{chapters/abbreviations}
+
+\mainmatter         
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Chapters                  %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Preliminaries}\label{part:theory} %\include{chapters/part-theory}
+\include{chapters/chap-intro}
+\include{chapters/chap-np-adj}
+\include{chapters/chap-interface}
+%%%
+\part{Typology} \label{part typ} %\include{chapters/part-typology}
+\include{chapters/chap-typology-of}
+\include{chapters/chap-polyfunctionality}
+%%%
+\part{Synchrony} \label{part synchr} %\include{chapters/part-synchrony}
+\include{chapters/chap-syn-introduction}
+\include{chapters/chap-lg-nea}
+\include{chapters/chap-areal}
+%%
+\part{Diachrony} \label{part diachr} %\include{chapters/part-diachrony}
+\include{chapters/chap-evolution-nea}
+\include{chapters/chap-areal-typ}
+%%%
+\part{Conclusion}\label{part:concl} %\include{chapters/part-concl}
+\include{chapters/chap-results}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Backmatter                       %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\backmatter
+%LATEX: How do I insert the proper titles for the Appendix and the List of references in the ToC?
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{Appendix A}
+\include{chapters/appendix}%completed, except maps
+\clearpage
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{chapter}{List of references}
+\printbibliography
+\clearpage
+   
+\addcontentsline{toc}{chapter}{Index} 
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Name index}
+\ohead{Name index} 
+\printindex
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Language index} 
+\ohead{Language index} 
+\printindex[lan]
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Subject index}%started, not completed
+\ohead{Subject index} 
+\printindex[sbj]
+
+\end{document} 
