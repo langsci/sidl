@@ -11,7 +11,7 @@
 % Some lines start with %. Remove the % to include them
 
 \documentclass[output=book            % long|short|inprep              
-%  	        ,draftmode
+%  	       	 ,draftmode
 	        ,table
 		,nonflat
 		,modfonts
@@ -91,13 +91,12 @@
 \backmatter
 %LATEX: How do I insert the proper titles for the Appendix and the List of references in the ToC?
 \phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{chapter}{Appendix A}
+\addcontentsline{toc}{part}{Appendix A}
 \include{chapters/appendix}%completed, except maps
 \clearpage
 
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{chapter}{List of references}
-\printbibliography
+\phantomsection%this allows hyperlink in ToC to work 
+\printbibliography[heading=references] 
 \clearpage
    
 \addcontentsline{toc}{chapter}{Index} 
