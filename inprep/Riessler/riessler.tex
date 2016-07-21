@@ -88,10 +88,11 @@
 %%%             Backmatter                       %%%
 %%%                                              %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\backmatter
 %LATEX: How do I insert the proper titles for the Appendix and the List of references in the ToC?
-\phantomsection%this allows hyperlink in ToC to work
-\addcontentsline{toc}{part}{Appendix A}
+\phantomsection%this allows hyperlink in ToC to work 
+\backmatter
+\newpage
+\phantomsection
 \include{chapters/appendix}%completed, except maps
 \clearpage
 
