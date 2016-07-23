@@ -1,43 +1,54 @@
-\documentclass[10pt,landscape]{article}
-\usepackage{graphicx}
-\usepackage{tabularx}
-\usepackage{array}
-\usepackage{calc}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%     Language Science Press Master File       %%%
+%%%         follow the instructions below        %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newlength{\seitenbreite}
-\newlength{\seitenhoehe}
-\newlength{\beschnittoben}
-\newlength{\beschnittunten}
-\newlength{\beschnittrechts}
-\newlength{\beschnittlinks}
-\newlength{\spinewidth}
-\newlength{\totalwidth}
-\newlength{\totalheight}
+% please fill in some information in the following lines as soon
+% as you have it
+% Everything following a % is ignored
+% Some lines start with %. Remove the % to include them
 
-\setlength{\seitenbreite}{169.92mm}
-\setlength{\seitenhoehe}{240mm}
-\setlength{\beschnittoben}{2mm}
-\setlength{\beschnittunten}{2mm}
-\setlength{\beschnittrechts}{0mm}
-\setlength{\beschnittlinks}{0mm} 
+\documentclass[output=covercreatespace            % long|short|inprep              
+%  	        ,draftmode
+	        ,table
+	        ,modfonts
+		,nonflat
+%	        ,newtxmath%ungeklärtes Problem
+% 		,biblatexbackend=biber
+		  ]{langsci/langscibook}  
+		  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%          additional packages                 %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% adjust this to the right size for your book
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \setlength{\spinewidth}{2mm+.07*\pagecount}  
-\setlength{\spinewidth}{20.87mm}  
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% put all additional commands you need in the 
+% following files. If you do not know what this might
+% mean, you can safely ignore this section
 
-\setlength{\totalwidth}{\beschnittlinks+\beschnittrechts+\spinewidth+\seitenbreite+\seitenbreite}
-\setlength{\totalheight}{\beschnittoben+\beschnittunten+\seitenhoehe}
+\usepackage{localmetadata}
+\usepackage{localpackages}
+\usepackage{localhyphenation}
+\usepackage{localcommands}
+\addbibresource{localbibliography.bib}    
 
-\usepackage[paperheight=\totalheight%
-	    ,paperwidth=\totalwidth%
-	    ,left=\beschnittlinks%
-	    ,right=\beschnittrechts%
-	    ,top=\beschnittoben%
-	    ,bottom=\beschnittunten]{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             BEGIN DOCUMENT                   %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
+\begin{document}   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Frontmatter                      %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        
+\maketitle                
 
-\begin{document}
-\input{cover.tex}
-\end{document}
+\frontmatter%!!check the order of chapters with the guidelines
+
+\tableofcontents      
+\end{document} 

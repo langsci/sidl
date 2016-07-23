@@ -20,16 +20,21 @@ riessler.aux: $(SOURCE)
 #create only the book
 riessler.bbl:  $(SOURCE) localbibliography.bib  
 	xelatex -no-pdf riessler 
-	#biber riessler 
-	bibtex riessler
+# 	biber -min-crossrefs=200 riessler 
+	bibtex  -min-crossrefs=200 riessler 
 
 riessler.snd: riessler.bbl
 	sed -i s/.*\\emph.*// riessler.adx #remove titles which biblatex puts into the name index
+	sed -i 's/Testelets, Jakov~G/Testelets, Yakov~G./' riessler.adx 
+	sed -i 's/Volodin, Aleksandr~P./Volodin, Alexander~P./' riessler.adx 
+	sed -i 's/Schulze, Wolfgang/Schulze-Fürhoff, Wolfgang/' riessler.adx 
+	sed -i 's/Nikolaeva, Irina/Nikolaeva, Irina~A./' riessler.adx 
+	sed -i 's/Nedjalkov, Igor/Nedjalkov, Igor~V./' riessler.adx 
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.sdx # ordering of references to footnotes
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.ldx
-# 	python3 fixindex.py
-# 	mv riesslermod.adx riessler.adx
+	python3 fixindex.py
+	mv mainmod.adx riessler.adx
 	makeindex -o riessler.and riessler.adx
 	makeindex -o riessler.lnd riessler.ldx
 	makeindex -o riessler.snd riessler.sdx 

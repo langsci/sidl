@@ -4,7 +4,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{langsci/seriesinfo/colors.def} % color definitions
+\input{\seriesinfopath langsci-colors.def} % color definitions
 
 \newcommand{\calseries}{calseries}
 \newcommand{\eotms}{eotms}
@@ -106,9 +106,5 @@
 	\newcommand{\lsSeriesTitle}{Language Science Press Guidelines}
 	\newcommand{\lsSeriesColor}{lsGuidelinesGray}
 	\renewcommand{\lsCoverFontColor}{black}
-\fi
-
-\iflsBlackandwhite
-	\renewcommand{\lsSeriesColor}{black}
 \fi
 }	
