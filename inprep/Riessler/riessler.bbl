@@ -882,10 +882,12 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{Altaistik: erster Abschnitt Turkologie}}
-      \field{number}{1:5}
+      \field{booktitle}{Turkologie}
+      \field{maintitle}{Altaistik}
+      \field{number}{5}
       \field{series}{Handbuch der Orientalistik}
-      \field{title}{{Das Tschuwaschische}}
+      \field{title}{Das {T}schuwaschische}
+      \field{volume}{1}
       \field{year}{1963}
       \field{pages}{61\bibrangedash 71}
       \range{pages}{11}
@@ -912,11 +914,11 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Bolgarisch-tschuwaschische Studien}
+      \field{booktitle}{Bolgarisch-tschuwaschische {S}tudien}
       \field{number}{12}
       \field{origyear}{1940}
       \field{series}{Turcologica}
-      \field{title}{Das Possessivsuffix der dritten Person}
+      \field{title}{Das Possessivsuffix der dritten {P}erson}
       \field{year}{1993}
       \field{pages}{1\bibrangedash 17}
       \range{pages}{17}
@@ -1065,24 +1067,6 @@
       \field{year}{1987}
       \keyw{Rumanian;Language description;IE;Northern Eurasia;Europe}
     \endentry
-    \entry{bibiko2005}{online}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=696c083475523e404a46180b63fa50a3}{Bibiko}{B\bibinitperiod}{Hans-Jörg}{H\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{696c083475523e404a46180b63fa50a3}
-      \strng{fullhash}{696c083475523e404a46180b63fa50a3}
-      \field{sortinit}{B}
-      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
-      \field{labelyear}{2005}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The interactive reference tool for the {World Atlas of Language Structures}}
-      \field{year}{2005}
-      \verb{url}
-      \verb http://www.eva.mpg.de/lingua/research/tool.php
-      \endverb
-    \endentry
     \entry{bickel1999}{incollection}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
@@ -1132,28 +1116,28 @@
       \field{pages}{239\bibrangedash 251}
       \range{pages}{13}
     \endentry
-    \entry{AUTOTYP}{online}{}
-      \name{author}{2}{}{%
+    \entry{AUTOTYP}{collection}{}
+      \name{editor}{2}{}{%
         {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Universität Leipzig}%
+        {Universität Zürich}%
       }
       \strng{namehash}{2b4fa44ec7b2da7ec8df42e40689914b}
       \strng{fullhash}{2b4fa44ec7b2da7ec8df42e40689914b}
       \field{sortinit}{B}
       \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
-      \field{labelyear}{2001-2010}
+      \field{labelyear}{2001+}
       \field{datelabelsource}{}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
+      \field{subtitle}{An international network of typological linguistic databases}
       \field{title}{Autotyp}
-      \field{year}{2001-2010}
+      \field{year}{2001+}
       \verb{url}
-      \verb http://www.uni-leipzig.de/~autotyp/
+      \verb http://www.autotyp.uzh.ch/
       \endverb
-      \keyw{Typology;Database}
     \endentry
     \entry{bickel-etal2002}{incollection}{}
       \name{author}{2}{}{%
@@ -1223,30 +1207,32 @@
       \name{author}{3}{}{%
         {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
-        {{hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=9f82083615309d35e3631216df16d204}{Nickols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ab7da2db0384a1288c8af609c794a21e}{Bickel}{B\bibinitperiod}{Balthasar}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c09f5edfc18c697f68f320b247a7570}{Nichols}{N\bibinitperiod}{Johanna}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
-        {Universität Leipzig}%
+        {Universität Zürich}%
       }
-      \strng{namehash}{bd55199d2e867bff8bba4c55e29c3b8b}
-      \strng{fullhash}{bd55199d2e867bff8bba4c55e29c3b8b}
+      \strng{namehash}{5987ce969aff1c45240b83d28367fedc}
+      \strng{fullhash}{5987ce969aff1c45240b83d28367fedc}
       \field{sortinit}{B}
       \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
-      \field{labelyear}{2001-2010}
+      \field{labelyear}{2001+}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booksubtitle}{An international network of typological linguistic databases}
       \field{booktitle}{Autotyp}
+      \strng{crossref}{AUTOTYP}
       \field{title}{{NP} structures}
-      \field{year}{2001-2010}
+      \strng{xref}{AUTOTYP}
+      \field{year}{2001+}
       \verb{url}
-      \verb http://www.uni-leipzig.de/~autotyp/projects/nps/nps.html
+      \verb http://www.autotyp.uzh.ch/projects/nps/nps.html
       \endverb
-      \keyw{Typology;Database;Noun phrase;Syntax}
     \endentry
     \entry{birtalan2003}{incollection}{}
       \name{author}{1}{}{%
@@ -1713,7 +1699,7 @@
         {{uniquename=0,hash=9ea0c4e0e05fe84173cdaca9a21695a6}{Heinschink}{H\bibinitperiod}{Mozes\bibnamedelima F.}{M\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {??}%
+        {München}%
       }
       \list{publisher}{1}{%
         {LINCOM Europa}%
@@ -1729,7 +1715,7 @@
       \field{abstract}{Sepecides is a non-vlah Romani dialect (Romani belonging to the New Indian languages) spoken by several related grand families now living in Izmir/Tur key and Volos/Greece. This formerly united group of basket weavers split up around 1920, when exchanges of Greek/Turkish population took place. One pa rt of the group migrated to Turkey and settled finally in Izmir, the others moved to Volos (Greece) and stayed there. Since then their previously unif orm Romani developed under different linguistical conditions. Both variants are endangered in their transmission to the younger generation by the impa ct of TV and school education. The Izmir variety of Sepe..ides shows the characteristics of other non-Vlah dialects like unshortened pronominal forms, Greek, Southern-Slavic but no Rumanian lexems etc. under the influe nce of the agglutinative Turkish language it has preserved a rich derivatio nal morphology absent from corresponding dialects. As Sepecides has not previously been described, the sketch will present a survey of the entire grammatical system as well as short chapters on phon ology and syntax. One chapter will analyze the various influences of the Turkish language on Sepe..ides and their morphological and idiomatical implications. Investigations are based on approx. 130 hours of recorded ta lks ranging from tales, songs, and biographical notes to short anecdotes an d explanations of phrases and proverbs.}
       \field{number}{109}
       \field{series}{Languages of the World/Materials}
-      \field{title}{Sepecides-Romani}
+      \field{title}{Sepecides-{R}omani}
       \field{year}{2003}
     \endentry
     \entry{chang1996}{book}{}
@@ -2451,7 +2437,6 @@
       \field{title}{Hixkaryana syntax}
       \field{type}{phdthesis}
       \field{year}{1979}
-      \keyw{Language description}
     \endentry
     \entry{deseriev1959}{book}{}
       \name{author}{1}{}{%
@@ -2648,6 +2633,9 @@
       \list{institution}{1}{%
         {Australian National University}%
       }
+      \list{location}{1}{%
+        {Canberra}%
+      }
       \strng{namehash}{be37618e65c2aa939f7a4088783eac42}
       \strng{fullhash}{be37618e65c2aa939f7a4088783eac42}
       \field{sortinit}{D}
@@ -2657,9 +2645,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A grammar of {C}hukchi}
-      \field{type}{{Ph.D. dissertation}}
+      \field{type}{phdthesis}
       \field{year}{1999}
-      \keyw{Language description;Northern Eurasia}
     \endentry
     \entry{dzidalaev2000}{incollection}{}
       \name{author}{1}{}{%
@@ -2897,7 +2884,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{1936:27}
-      \field{series}{Sitzungsberichte der Preu{{ß}}ischen Akademie der Wissenschaften. Philosophisch-historische Klasse}
+      \field{series}{Sitzungsberichte der Preußischen Akademie der Wissenschaften. Philosophisch-historische Klasse}
       \field{title}{{Zum romanischen Artikel und Possessivpronomen}}
       \field{year}{1937}
       \keyw{Noun phrase;Historical linguistics;Indoeuropean}
@@ -2993,7 +2980,7 @@
       \field{number}{5}
       \field{series}{Tunguso Sibirica}
       \field{subtitle}{Grammatik und Texte}
-      \field{title}{Die itelmenische Sprache}
+      \field{title}{Die itelmenische {S}prache}
       \field{year}{1999}
     \endentry
     \entry{giacomo-marcellesi1997}{book}{}
@@ -3093,12 +3080,10 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Nivkh (otherwise known as Gilyak) is considered genetically isolated, though is traditionally classified as Paleasiberian. Typologically, Nivkh is an agglutinative synthetic nominative language with elements of morphological fusion and some analytical features. It is the language of a small nationality (4,700 people) presently residing mainly at the lower reaches of the Amur River in the far east on the Asian continent and on Sakhalin Island (Russia). Four dialects of Nivkh are distinguished: Amur, East-Sakhalin, North-Sakhalin and South-Sakhalin. The description is based primarily on the materials of Amur and East-Sakhalin diaelcts of Nivkh, the last not well described yet. The sketch contains five sections, two folklore texts (in both examined dialects of Nivkh) with interlinear translation and an ample bibliography.The first section describes socio- and geolinguistic data, different hypothesis of Nivkh genesis and principal stages of its studying. The phonology and morphology section deals with the phoneme inventory, prosody, syllable structure and morphological alternations. It pays particlar attention to the system of initial consonant alternations in noun and verb phrases. Principal models of word-formation are discussed in the third section. The fourth section is devoted to the analysis of nominal and verbal morphology, pronominal system, numerals, adverbs, graphic words, connective words and interjections. Special emphasis is laid to the unique system of cardinals consisting of 26 sub-systems, each of those is used for counting objects of special types. The section also focuses on finite verbal forms and their categories, as well as on non-finite verbal forms. Nivkh is well-known for its nu= merous converbs, which number is about 30. The last section examines syntax of noun and verb phrases, word order, clause structure and clause chainin with special reference to a polypredicative construction. The last is usually represented as a predicate complex whose verbal forms are interlinked by different semantic relations, namely tense, cause, condition, concession,etc.}
       \field{number}{111}
       \field{series}{Languages of the World/Materials}
       \field{title}{Nivkh}
       \field{year}{2003}
-      \keyw{Language description;Northern Eurasia}
     \endentry
     \entry{guma1971}{book}{}
       \name{author}{1}{}{%
@@ -3228,7 +3213,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{concord agreement}
-      \field{booktitle}{{ünnepi könyv Mikola Tibor tiszteletére}}
+      \field{booktitle}{Ünnepi könyv {M}ikola {T}ibor tiszteletére}
       \field{title}{Lappáliák}
       \field{year}{1996}
       \field{pages}{114\bibrangedash 118}
@@ -3302,8 +3287,8 @@
       \field{labeltitlesource}{title}
       \field{number}{245}
       \field{series}{Linguistische Arbeiten}
-      \field{subtitle}{Syntaktische Analyse einer gesprochenen Sprache mithilfe datenverarbeitungstechnischer Mittel und sprachvergleichender Beschreibung des südostasiatischen Sprachraumes}
-      \field{title}{Hmong Njua}
+      \field{subtitle}{Syntaktische {A}nalyse einer gesprochenen {S}prache mithilfe datenverarbeitungstechnischer {M}ittel und sprachvergleichender {B}eschreibung des südostasiatischen {S}prachraumes}
+      \field{title}{Hmong {N}jua}
       \field{year}{1990}
       \keyw{Language description}
     \endentry
@@ -3502,10 +3487,8 @@
       \field{title}{Comparative concepts and descriptive categories in cross-linguistic studies}
       \field{volume}{86}
       \field{year}{2010}
-      \verb{doi}
-      \verb 10.1353/lan.2010.0021
-      \endverb
-      \keyw{Typology}
+      \field{pages}{663\bibrangedash 687}
+      \range{pages}{25}
     \endentry
     \entry{haspelmath2010}{incollection}{}
       \name{author}{1}{}{%
@@ -3590,7 +3573,7 @@
         {{uniquename=0,hash=8037213b2179fe54b471826591032f81}{Heinrichs}{H\bibinitperiod}{Heinrich\bibnamedelima Matthias}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Gie{{ß}}en}%
+        {Gießen}%
       }
       \list{publisher}{1}{%
         {Schmitz}%
@@ -3723,7 +3706,7 @@
     \endentry
     \entry{himmelmann1997}{book}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=21cd9560ad7932914f521d076dbede56}{Himmelmann}{H\bibinitperiod}{Nikolaus\bibnamedelima P.}{N\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0f74dd563c3a96d75bf389a33440a9dd}{Himmelmann}{H\bibinitperiod}{Nikolaus}{N\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Tübingen}%
@@ -3731,8 +3714,8 @@
       \list{publisher}{1}{%
         {Niemeyer}%
       }
-      \strng{namehash}{21cd9560ad7932914f521d076dbede56}
-      \strng{fullhash}{21cd9560ad7932914f521d076dbede56}
+      \strng{namehash}{0f74dd563c3a96d75bf389a33440a9dd}
+      \strng{fullhash}{0f74dd563c3a96d75bf389a33440a9dd}
       \field{sortinit}{H}
       \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
       \field{labelyear}{1997}
@@ -3741,8 +3724,8 @@
       \field{labeltitlesource}{title}
       \field{number}{362}
       \field{series}{Linguistische Arbeiten}
-      \field{subtitle}{Zur Emergenz syntaktischer Struktur}
-      \field{title}{Deiktikon, Artikel, Nominalphrase}
+      \field{subtitle}{Zur {E}mergenz syntaktischer {S}truktur}
+      \field{title}{Deiktikon, {A}rtikel, {N}ominalphrase}
       \field{year}{1997}
       \keyw{Noun phrase; Grammaticalization;Attribution;Typology}
     \endentry
@@ -3913,10 +3896,10 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booksubtitle}{Vorträge des Symposiums aus Anla{{ß}} des 30-jährigen Bestehens der Finnougristik an der Rijksuniversiteit Groningen 21.--23. November 1996}
-      \field{booktitle}{Finnisch-ugrische Sprachen in Kontakt}
-      \field{subtitle}{Zum historischen Hintergrund der Attributivkongruenz in uralischen Sprachen}
-      \field{title}{Fremdes oder Eigenständiges?}
+      \field{booksubtitle}{Vorträge des {S}ymposiums aus {A}nlaß des 30-jährigen {B}estehens der {F}innougristik an der {R}ijksuniversiteit {G}roningen 21.--23. {N}ovember 1996}
+      \field{booktitle}{Finnisch-ugrische {S}prachen in {K}ontakt}
+      \field{subtitle}{Zum historischen {H}intergrund der {A}ttributivkongruenz in uralischen {S}prachen}
+      \field{title}{Fremdes oder {E}igenständiges?}
       \field{year}{1997}
       \field{pages}{135\bibrangedash 144}
       \range{pages}{10}
@@ -4243,8 +4226,8 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Für den Gebrauch der Sorbischen Erweiterten Oberschule}
-      \field{title}{Niedersorbische Grammatik}
+      \field{subtitle}{Für den {G}ebrauch der {S}orbischen {E}rweiterten {O}berschule}
+      \field{title}{Niedersorbische {G}rammatik}
       \field{year}{1976}
       \keyw{Language description}
     \endentry
@@ -4545,7 +4528,8 @@
       \field{labeltitlesource}{title}
       \field{number}{458}
       \field{series}{Languages of the World/Materials}
-      \field{title}{{Karay: the Trakai dialect}}
+      \field{subtitle}{The {T}rakai dialect}
+      \field{title}{Karay}
       \field{year}{2002}
       \keyw{Language description;Turkic;Europe}
     \endentry
@@ -4634,7 +4618,7 @@
       \field{labeltitlesource}{title}
       \field{number}{1}
       \field{series}{Tunguso Sibirica}
-      \field{title}{Abri{{ß}} der tschuktischen {G}rammatik auf der {B}asis der {S}chriftsprache}
+      \field{title}{Abriß der tschuktischen {G}rammatik auf der {B}asis der {S}chriftsprache}
       \field{year}{1995}
       \keyw{Language description;Northern Eurasia}
     \endentry
@@ -4747,14 +4731,14 @@
       \field{labelyear}{1996}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
-      \field{booksubtitle}{I. Word order in noun phrases}
+      \field{labeltitlesource}{title}
       \field{booktitle}{Godoberi}
       \field{number}{2}
       \field{series}{LINCOM Studies in Caucasian Linguistics}
+      \field{title}{Word order in noun phrases}
       \field{year}{1996}
       \field{pages}{148\bibrangedash 154}
       \range{pages}{7}
-      \keyw{Caucasus;Europe;Noun phrase;Adjective;Syntax}
     \endentry
     \entry{kelmakov-etal1999}{book}{}
       \name{author}{2}{}{%
@@ -5073,8 +5057,9 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{Indogermanisch, Slawisch und Baltisch: Materialien des vom 21.-22. September 1989 in Jena in Zusammenarbeit mit der Indogermanischen Gesellschaft durchgeführten Kolloquiums}}
-      \field{title}{{Zur Vorgeschichte des relativen Attributkonnexes im Baltischen und Slavischen}}
+      \field{booksubtitle}{Materialien des vom 21.--22. {S}eptember 1989 in {J}ena in {Z}usammenarbeit mit der {I}ndogermanischen {G}esellschaft durchgeführten {K}olloquiums}
+      \field{booktitle}{Indogermanisch, {S}lawisch und {B}altisch}
+      \field{title}{Zur {V}orgeschichte des relativen {A}ttributkonnexes im {B}altischen und {S}lavischen}
       \field{year}{1992}
       \field{pages}{45\bibrangedash 88}
       \range{pages}{44}
@@ -5094,8 +5079,8 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Zeitschrift für Slavistik}
       \field{number}{4}
-      \field{subtitle}{Die westslavischen Adverbialadjektiva auf \textit{-ej's-}}
-      \field{title}{Weiterungen des relativen Attributivkonnexes}
+      \field{subtitle}{Die westslavischen {A}dverbialadjektiva auf \textit{-ej's-}}
+      \field{title}{Weiterungen des relativen {A}ttributivkonnexes}
       \field{volume}{44}
       \field{year}{1999}
       \field{pages}{455\bibrangedash 475}
@@ -5567,8 +5552,8 @@
       \field{labeltitlesource}{title}
       \field{number}{10}
       \field{series}{Berliner Beiträge zur Skandinavistik}
-      \field{subtitle}{Beitrag zur nordgermanischen Sprachgeschichte}
-      \field{title}{Der samische Einfluss auf die skandinavischen Sprachen}
+      \field{subtitle}{Beitrag zur nordgermanischen {S}prachgeschichte}
+      \field{title}{Der samische {E}influss auf die skandinavischen {S}prachen}
       \field{year}{2008}
     \endentry
     \entry{kutsch-lojenga1994}{book}{}
@@ -5668,8 +5653,8 @@
       \field{labeltitlesource}{title}
       \field{number}{3}
       \field{series}{Language Universals Series}
-      \field{subtitle}{Typologie seiner Strukturen. Theorie seiner Funktionen. Kompendium seiner Grammatik}
-      \field{title}{Der Relativsatz}
+      \field{subtitle}{Typologie seiner {S}trukturen. {T}heorie seiner {F}unktionen. {K}ompendium seiner {G}rammatik}
+      \field{title}{Der {R}elativsatz}
       \field{year}{1984}
       \keyw{Noun phrase;Relative clause;Attribution;Typology}
     \endentry
@@ -5734,8 +5719,8 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Grammatik, Texte, Glossar}
-      \field{title}{Handbuch der altbulgarischen (altkirchenslavischen) Sprache}
+      \field{subtitle}{Grammatik, {T}exte, {G}lossar}
+      \field{title}{Handbuch der altbulgarischen (altkirchenslavischen) {S}prache}
       \field{year}{1871}
     \endentry
     \entry{leskien1919}{book}{}
@@ -6588,8 +6573,9 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{2. Morfologičeskie značenija}
-      \field{title}{Kurs obščej morfologii}
+      \field{maintitle}{Kurs obščej morfologii}
+      \field{title}{Morfologičeskie značenija}
+      \field{volume}{2}
       \field{year}{1998}
     \endentry
     \entry{melcuk2006}{book}{}
@@ -6615,7 +6601,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Noun phrase: Russian genitive in numeral phrases p.158 Noun phrase: Nominal agreement p.159 syntactic cases vs. semantic cases syntax-morphology interface typology of morphological processes}
       \field{number}{146}
-      \field{series}{Trends in linguistics. Studies and Monographs}
+      \field{series}{Trends in Linguistics. Studies and Monographs}
       \field{title}{Aspects of the theory of morphology}
       \field{year}{2006}
       \keyw{Morphology;Syntax}
@@ -6626,9 +6612,6 @@
       }
       \list{institution}{1}{%
         {Ludwig-Maximilians-Universität München}%
-      }
-      \list{language}{1}{%
-        {Polish; Slavic}%
       }
       \list{location}{1}{%
         {München}%
@@ -6645,7 +6628,6 @@
       \field{title}{Nominaldetermination im {P}olnischen}
       \field{type}{Habilitationsschrift im Fach Slavische Philologie}
       \field{year}{2004}
-      \keyw{Noun phrase; Definiteness}
     \endentry
     \entry{merlan1983}{book}{}
       \name{author}{1}{}{%
@@ -7208,7 +7190,8 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{{Determinezza e indeterminezza nelle lingue slave: atti del Convegno svoltosi a Firenze 26-28 ottobre 1995}}
+      \field{booksubtitle}{Atti del {C}onvegno svoltosi a {F}irenze 26--28 ottobre 1995}
+      \field{booktitle}{Determinezza e indeterminezza nelle lingue slave}
       \field{number}{5}
       \field{series}{Problemi di morfosintassi delle lingue slave}
       \field{title}{Typology and genesis of the article in the {E}uropean languages}
@@ -7613,7 +7596,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Klagenfurter Beiträge zur Sprachwissenschaft}
-      \field{subtitle}{Die Fiktion von der baltisch\hyp{}slavischen {S}pracheinheit}
+      \field{subtitle}{Die {F}iktion von der baltisch\hyp{}slavischen {S}pracheinheit}
       \field{title}{Baltisch und {S}lavisch}
       \field{titleaddon}{Erster {T}eil}
       \field{volume}{6}
@@ -7977,8 +7960,8 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Beschreibung, Texte, Wörterverzeichnis}
-      \field{title}{Die Krongo-Sprache (Nı̀inò Mó-dı̀)}
+      \field{subtitle}{Beschreibung, {T}exte, {W}örterverzeichnis}
+      \field{title}{Die {K}rongo-{S}prache ({N}ı̀inò {M}ó-dı̀)}
       \field{year}{1985}
     \endentry
     \entry{de-reuse1994}{book}{}
@@ -8032,7 +8015,7 @@
     \endentry
     \entry{riesler2001a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{3}{}{%
         {{hash=6d16e116fdbe38fdf49e886e6f4d3d59}{Holmer}{H\bibinitperiod}{Arthur}{A\bibinitperiod}{}{}{}{}}%
@@ -8045,8 +8028,8 @@
       \list{publisher}{1}{%
         {Lunds universitet}%
       }
-      \strng{namehash}{16867ac52437d6f1a7efef094d74d0c5}
-      \strng{fullhash}{16867ac52437d6f1a7efef094d74d0c5}
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2001}
@@ -8064,7 +8047,7 @@
     \endentry
     \entry{riesler2002a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=db7021e74c1f2aff6a4e4fdb27f43158}{Kusmenko}{K\bibinitperiod}{Jurij}{J\bibinitperiod}{}{}{}{}}%
@@ -8076,8 +8059,8 @@
       \list{publisher}{1}{%
         {Nordeuropa-Institut}%
       }
-      \strng{namehash}{16867ac52437d6f1a7efef094d74d0c5}
-      \strng{fullhash}{16867ac52437d6f1a7efef094d74d0c5}
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2002}
@@ -8096,13 +8079,13 @@
     \endentry
     \entry{riesler2006a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{4}{}{%
         {{hash=ac265eb45276ccce211a3ff227fac195}{Hornscheidt}{H\bibinitperiod}{Antje}{A\bibinitperiod}{}{}{}{}}%
         {{hash=67ba62321cc4055ab7f16d70846a4421}{Kotcheva}{K\bibinitperiod}{Kristina}{K\bibinitperiod}{}{}{}{}}%
         {{hash=0a434831ed20f15c683fae0f80b74b89}{Milosch}{M\bibinitperiod}{Tomas}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Berlin}%
@@ -8110,8 +8093,8 @@
       \list{publisher}{1}{%
         {Humboldt-Universität zu Berlin}%
       }
-      \strng{namehash}{16867ac52437d6f1a7efef094d74d0c5}
-      \strng{fullhash}{16867ac52437d6f1a7efef094d74d0c5}
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{extrayear}{1}
@@ -8131,7 +8114,7 @@
     \endentry
     \entry{riesler2006b}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=39c82bfb1725a79f954d9719384f0a73}{Amft}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
@@ -8143,8 +8126,8 @@
       \list{publisher}{1}{%
         {Umeå universitet}%
       }
-      \strng{namehash}{16867ac52437d6f1a7efef094d74d0c5}
-      \strng{fullhash}{16867ac52437d6f1a7efef094d74d0c5}
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{extrayear}{2}
@@ -8161,7 +8144,7 @@
     \endentry
     \entry{riesler2009}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=16867ac52437d6f1a7efef094d74d0c5}{Rie{{ß}}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=6554cfb014a9427af44c63f16722a3dd}{Haspelmath}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
@@ -8173,8 +8156,8 @@
       \list{publisher}{1}{%
         {de Gruyter Mouton}%
       }
-      \strng{namehash}{16867ac52437d6f1a7efef094d74d0c5}
-      \strng{fullhash}{16867ac52437d6f1a7efef094d74d0c5}
+      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2009}
@@ -8392,10 +8375,9 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Lautlehre, Formenlehre, Syntax}
-      \field{title}{Grammatik des Neugriechischen}
+      \field{subtitle}{Lautlehre, {F}ormenlehre, {S}yntax}
+      \field{title}{Grammatik des {N}eugriechischen}
       \field{year}{1986}
-      \keyw{Language description;Indoeuropean;Hellenic}
     \endentry
     \entry{saadiev1994}{incollection}{}
       \name{author}{1}{}{%
@@ -8512,7 +8494,7 @@
       \field{booktitle}{The {U}ralic languages}
       \strng{crossref}{abondolo1998a}
       \field{series}{Routledge Language Family Descriptions}
-      \field{title}{Tundra Nenets}
+      \field{title}{Tundra {N}enets}
       \strng{xref}{abondolo1998a}
       \field{year}{1998}
       \keyw{language description}
@@ -8729,7 +8711,7 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Die albanischen {S}prachreste in Griechenland}
+      \field{subtitle}{Die albanischen {S}prachreste in {G}riechenland}
       \field{title}{Arvanitika}
       \field{volume}{1}
       \field{year}{1991}
@@ -8866,9 +8848,6 @@
       \name{author}{1}{}{%
         {{uniquename=0,hash=08cd0c79c307cc835895915e4ef8fe1f}{Schäfer}{S\bibinitperiod}{Roland}{R\bibinitperiod}{}{}{}{}}%
       }
-      \list{language}{1}{%
-        {german}%
-      }
       \list{location}{1}{%
         {Berlin}%
       }
@@ -8885,7 +8864,7 @@
       \field{labeltitlesource}{title}
       \field{number}{2}
       \field{series}{Textbooks in Language Sciences}
-      \field{title}{Einführung in die grammatische Beschreibung des Deutschen}
+      \field{title}{Einführung in die grammatische {B}eschreibung des {D}eutschen}
       \field{year}{2015}
       \verb{doi}
       \verb 10.17169/langsci.b17.34
@@ -9738,10 +9717,10 @@
         {{uniquename=0,hash=c92e01d050bc95c14c1d05f6aa852da4}{Szakos}{S\bibinitperiod}{József}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{institution}{1}{%
-        {Rheinische Friedrich-Wilhelms-Universität}%
+        {Rheinische Friedrich-Wilhelms-Universität Bonn}%
       }
       \list{location}{1}{%
-        {Köln}%
+        {Bonn}%
       }
       \strng{namehash}{c92e01d050bc95c14c1d05f6aa852da4}
       \strng{fullhash}{c92e01d050bc95c14c1d05f6aa852da4}
@@ -9751,8 +9730,8 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Untersuchungen zur Synchronie einer austronesischen Sprache auf Taiwan}
-      \field{title}{Die Sprache der Cou}
+      \field{subtitle}{Untersuchungen zur {S}ynchronie einer austronesischen {S}prache auf {T}aiwan}
+      \field{title}{Die Sprache der {C}ou}
       \field{type}{phdthesis}
       \field{year}{1994}
     \endentry
@@ -10502,7 +10481,7 @@
       \range{pages}{12}
       \keyw{Language description;Northern Eurasia}
     \endentry
-    \entry{wagner-nagy2002a}{incollection}{}
+    \entry{wagner-nagy2002a}{collection}{}
       \name{editor}{1}{}{%
         {{uniquename=0,hash=d23a5b7721ee80048d1136048c111781}{Wagner-Nagy}{W\bibinithyphendelim N\bibinitperiod}{Beáta}{B\bibinitperiod}{}{}{}{}}%
       }
@@ -10787,7 +10766,7 @@
       \field{journaltitle}{Indogermanische Forschungen}
       \field{number}{1}
       \field{subtitle}{Die {G}rundfunktion des bestimmten {A}djektivs im {B}altischen und {S}lavischen}
-      \field{title}{Zur nominalen {D}etermination I}
+      \field{title}{Zur nominalen {D}etermination {I}}
       \field{volume}{63}
       \field{year}{1958}
       \field{pages}{61\bibrangedash 78}
@@ -10987,7 +10966,6 @@
       \field{title}{The Structure of the {S}erbian Noun Phrase}
       \field{type}{phdthesis}
       \field{year}{1997}
-      \keyw{Noun phrase;Syntax}
     \endentry
     \entry{zukova1997}{incollection}{}
       \name{author}{1}{}{%
@@ -11064,7 +11042,6 @@
       \field{title}{The phonology of {E}ndo}
       \field{type}{phdthesis}
       \field{year}{2003}
-      \keyw{Phonology;Language description}
     \endentry
   \endsortlist
   \missing{2}

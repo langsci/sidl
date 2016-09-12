@@ -25,11 +25,11 @@ riessler.bbl:  $(SOURCE) localbibliography.bib
 
 riessler.snd: riessler.bbl
 	sed -i s/.*\\emph.*// riessler.adx #remove titles which biblatex puts into the name index
-	sed -i 's/Testelets, Jakov~G/Testelets, Yakov~G./' riessler.adx 
+	sed -i 's/Testelets, Jakov~G/Testelets, Yakov~G/' riessler.adx 
 	sed -i 's/Volodin, Aleksandr~P./Volodin, Alexander~P./' riessler.adx 
 	sed -i 's/Schulze, Wolfgang/Schulze-Fürhoff, Wolfgang/' riessler.adx 
-	sed -i 's/Nikolaeva, Irina/Nikolaeva, Irina~A./' riessler.adx 
-	sed -i 's/Nedjalkov, Igor/Nedjalkov, Igor~V./' riessler.adx 
+	sed -i 's/Nikolaeva, Irina~A./Nikolaeva, Irina/' riessler.adx 
+	sed -i 's/Nedjalkov, Igor~V./Nedjalkov, Igor/' riessler.adx 
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.sdx # ordering of references to footnotes
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' riessler.ldx
