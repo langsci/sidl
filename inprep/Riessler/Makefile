@@ -9,7 +9,7 @@ all: pod cover
 
 complete: index riessler.pdf
 
-index:  riessler.snd
+index:  riessler.and
  
 riessler.pdf: riessler.aux
 	xelatex riessler 
@@ -23,7 +23,7 @@ riessler.bbl:  $(SOURCE) localbibliography.bib
 # 	biber -min-crossrefs=200 riessler 
 	bibtex  -min-crossrefs=200 riessler 
 
-riessler.snd: riessler.bbl
+riessler.and: riessler.bbl
 	sed -i s/.*\\emph.*// riessler.adx #remove titles which biblatex puts into the name index
 	sed -i 's/Testelets, Jakov~G/Testelets, Yakov~G/' riessler.adx 
 	sed -i 's/Volodin, Aleksandr~P./Volodin, Alexander~P./' riessler.adx 
