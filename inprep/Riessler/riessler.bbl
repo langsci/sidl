@@ -309,7 +309,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА}
       \field{series}{Jazyki mira}
-      \field{title}{Mongol'skie jazyki. Tunguso-man'čžurskie jazyki. Japonskij jazyk. Korejskij jazyk}
+      \field{title}{Mongol'skie jazyki. Tunguso-man'čžur\-skie jazyki. Japonskij jazyk. Korejskij jazyk}
       \field{year}{1997}
     \endentry
     \entry{anderson1998}{book}{}
@@ -1494,7 +1494,7 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Kurzgefasste {D}arstellung der {G}eschichte des {A}ltindischen, {A}ltiranischen ({A}vestischen und {A}ltpersischen), {A}ltarmenischen, {A}ltgriechischen, {L}ateinischen, {U}mbrisch-{S}amnitischen, {A}ltirischen, {G}otischen, {A}lthochdeutschen, {L}itauischen und {A}ltkirchenslavischen}
+      \field{subtitle}{{Kurzgefasste Darstellung der Geschichte des Altindischen, Altiranischen (Avestischen und Altpersischen), Altarmenischen, Altgriechischen, Lateinischen, Umbrisch-Samnitischen, Altirischen, Gotischen, Althochdeutschen, Litauischen und Altkirchenslavischen}}
       \field{title}{Grundriss der vergleichenden {G}rammatik der indogermanischen {S}prachen}
       \field{year}{1897--1916}
     \endentry
@@ -1607,7 +1607,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{141}
-      \field{series}{Languages of the World/Materials}
+      \field{series}{Languages of the World/Ma\-te\-ri\-als}
       \field{title}{Evenki}
       \field{year}{1999}
       \keyw{Language description;Tungusic;Northern Eurasia}
@@ -1815,7 +1815,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА}
-      \field{booktitle}{Mongol'skie jazyki. Tunguso-man'čžurskie jazyki. Japonskij jazyk. Korejskij jazyk}
+      \field{booktitle}{Mongol'skie jazyki. Tunguso-man'čžur\-skie jazyki. Japonskij jazyk. Korejskij jazyk}
       \strng{crossref}{alpatovEtAl1997a}
       \field{series}{Jazyki mira}
       \field{title}{Solonskij jazyk}
@@ -2841,6 +2841,31 @@
       \field{year}{1984}
       \keyw{Language description;Eskimo}
     \endentry
+    \entry{fortescue2005a}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ea0df8485d81257ad06c8d5adea3d472}{Fortescue}{F\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{ea0df8485d81257ad06c8d5adea3d472}
+      \strng{fullhash}{ea0df8485d81257ad06c8d5adea3d472}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{23}
+      \field{pagetotal}{496}
+      \field{series}{Trends in Linguistics Documentation}
+      \field{title}{Comparative {C}hukotko-{K}amchatkan dictionary}
+      \field{year}{2005}
+      \keyw{dictionary,historical linguistics}
+    \endentry
     \entry{friedman2002}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=e3f6032a6dcc502437e99eb894a275f6}{Friedman}{F\bibinitperiod}{Victor\bibnamedelima A.}{V\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2884,7 +2909,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{1936:27}
-      \field{series}{Sitzungsberichte der Preußischen Akademie der Wissenschaften. Philosophisch-historische Klasse}
+      \field{series}{Sitzungsberichte der Preu{ß}ischen Akademie der Wissenschaften. Philosophisch-historische Klasse}
       \field{title}{{Zum romanischen Artikel und Possessivpronomen}}
       \field{year}{1937}
       \keyw{Noun phrase;Historical linguistics;Indoeuropean}
@@ -3573,7 +3598,7 @@
         {{uniquename=0,hash=8037213b2179fe54b471826591032f81}{Heinrichs}{H\bibinitperiod}{Heinrich\bibnamedelima Matthias}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
-        {Gießen}%
+        {Gie{ß}en}%
       }
       \list{publisher}{1}{%
         {Schmitz}%
@@ -3896,7 +3921,7 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booksubtitle}{Vorträge des {S}ymposiums aus {A}nlaß des 30-jährigen {B}estehens der {F}innougristik an der {R}ijksuniversiteit {G}roningen 21.--23. {N}ovember 1996}
+      \field{booksubtitle}{Vorträge des {S}ymposiums aus {A}nla{ß} des 30-jährigen {B}estehens der {F}innougristik an der {R}ijksuniversiteit {G}roningen 21.--23. {N}ovember 1996}
       \field{booktitle}{Finnisch-ugrische {S}prachen in {K}ontakt}
       \field{subtitle}{Zum historischen {H}intergrund der {A}ttributivkongruenz in uralischen {S}prachen}
       \field{title}{Fremdes oder {E}igenständiges?}
@@ -4139,7 +4164,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА}
-      \field{booktitle}{Mongol'skie jazyki. Tunguso-man'čžurskie jazyki. Japonskij jazyk. Korejskij jazyk}
+      \field{booktitle}{Mongol'skie jazyki. Tunguso-man'čžur\-skie jazyki. Japonskij jazyk. Korejskij jazyk}
       \strng{crossref}{alpatovEtAl1997a}
       \field{series}{Jazyki mira}
       \field{title}{Mongol'skie jazyki}
@@ -4618,7 +4643,7 @@
       \field{labeltitlesource}{title}
       \field{number}{1}
       \field{series}{Tunguso Sibirica}
-      \field{title}{Abriß der tschuktischen {G}rammatik auf der {B}asis der {S}chriftsprache}
+      \field{title}{Abri{ß} der tschuktischen {G}rammatik auf der {B}asis der {S}chriftsprache}
       \field{year}{1995}
       \keyw{Language description;Northern Eurasia}
     \endentry
@@ -7052,7 +7077,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Liber semisaecularis Societatis Fenno-Ugricae}
       \field{number}{67}
-      \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
+      \field{series}{Suomalais-Ugri\-lai\-sen Seuran Toimituksia}
       \field{title}{A note on the origin of attributive forms in {L}app}
       \field{year}{1933}
       \field{pages}{296\bibrangedash 307}
@@ -7792,7 +7817,7 @@
         {Christiania}%
       }
       \list{publisher}{1}{%
-        {Christiania Videnskabs-Selskab}%
+        {Christiania Vi\-den\-skabs-Sel\-skab}%
       }
       \strng{namehash}{85763f478e7eb95ec70afe34bc244410}
       \strng{fullhash}{85763f478e7eb95ec70afe34bc244410}
@@ -8015,7 +8040,7 @@
     \endentry
     \entry{riesler2001a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{3}{}{%
         {{hash=6d16e116fdbe38fdf49e886e6f4d3d59}{Holmer}{H\bibinitperiod}{Arthur}{A\bibinitperiod}{}{}{}{}}%
@@ -8028,8 +8053,8 @@
       \list{publisher}{1}{%
         {Lunds universitet}%
       }
-      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
-      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{namehash}{7af2aae21cfba0d9da0832dd21bac26c}
+      \strng{fullhash}{7af2aae21cfba0d9da0832dd21bac26c}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2001}
@@ -8047,7 +8072,7 @@
     \endentry
     \entry{riesler2002a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=db7021e74c1f2aff6a4e4fdb27f43158}{Kusmenko}{K\bibinitperiod}{Jurij}{J\bibinitperiod}{}{}{}{}}%
@@ -8059,8 +8084,8 @@
       \list{publisher}{1}{%
         {Nordeuropa-Institut}%
       }
-      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
-      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{namehash}{7af2aae21cfba0d9da0832dd21bac26c}
+      \strng{fullhash}{7af2aae21cfba0d9da0832dd21bac26c}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2002}
@@ -8079,13 +8104,13 @@
     \endentry
     \entry{riesler2006a}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{4}{}{%
         {{hash=ac265eb45276ccce211a3ff227fac195}{Hornscheidt}{H\bibinitperiod}{Antje}{A\bibinitperiod}{}{}{}{}}%
         {{hash=67ba62321cc4055ab7f16d70846a4421}{Kotcheva}{K\bibinitperiod}{Kristina}{K\bibinitperiod}{}{}{}{}}%
         {{hash=0a434831ed20f15c683fae0f80b74b89}{Milosch}{M\bibinitperiod}{Tomas}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Berlin}%
@@ -8093,8 +8118,8 @@
       \list{publisher}{1}{%
         {Humboldt-Universität zu Berlin}%
       }
-      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
-      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{namehash}{7af2aae21cfba0d9da0832dd21bac26c}
+      \strng{fullhash}{7af2aae21cfba0d9da0832dd21bac26c}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{extrayear}{1}
@@ -8114,7 +8139,7 @@
     \endentry
     \entry{riesler2006b}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=39c82bfb1725a79f954d9719384f0a73}{Amft}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
@@ -8126,8 +8151,8 @@
       \list{publisher}{1}{%
         {Umeå universitet}%
       }
-      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
-      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{namehash}{7af2aae21cfba0d9da0832dd21bac26c}
+      \strng{fullhash}{7af2aae21cfba0d9da0832dd21bac26c}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{extrayear}{2}
@@ -8144,7 +8169,7 @@
     \endentry
     \entry{riesler2009}{incollection}{}
       \name{author}{1}{}{%
-        {{uniquename=0,hash=8c529ae6bc4ee160ca0a259873f2d0da}{Rießler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7af2aae21cfba0d9da0832dd21bac26c}{Rie{ß}ler}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=6554cfb014a9427af44c63f16722a3dd}{Haspelmath}{H\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
@@ -8156,8 +8181,8 @@
       \list{publisher}{1}{%
         {de Gruyter Mouton}%
       }
-      \strng{namehash}{8c529ae6bc4ee160ca0a259873f2d0da}
-      \strng{fullhash}{8c529ae6bc4ee160ca0a259873f2d0da}
+      \strng{namehash}{7af2aae21cfba0d9da0832dd21bac26c}
+      \strng{fullhash}{7af2aae21cfba0d9da0832dd21bac26c}
       \field{sortinit}{R}
       \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
       \field{labelyear}{2009}
@@ -9491,7 +9516,7 @@
       \name{editor}{3}{}{%
         {{hash=33cc48bac86612a014f8c4aa8f4bc56a}{Gardani}{G\bibinitperiod}{Francesco}{F\bibinitperiod}{}{}{}{}}%
         {{hash=065b6ea468c49fd9f23677a1c32cfc3e}{Arkadiev}{A\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5967a87ceec9db3eaa2ae8a52c4d3ac9}{Amiridze}{A\bibinitperiod}{Nino}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=23fd8b2ccbe1910b49e83ebbe0eb9579}{{Ami\-ri\-dze}}{A\bibinitperiod}{Nino}{N\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Berlin}%
@@ -9717,7 +9742,7 @@
         {{uniquename=0,hash=c92e01d050bc95c14c1d05f6aa852da4}{Szakos}{S\bibinitperiod}{József}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{institution}{1}{%
-        {Rheinische Friedrich-Wilhelms-Universität Bonn}%
+        {Rheinische Friedrich-Wilhelms-Uni\-ver\-si\-tät Bonn}%
       }
       \list{location}{1}{%
         {Bonn}%
@@ -10894,19 +10919,9 @@
       \field{year}{1964}
       \keyw{Language description;Uralic;Mordvin}
     \endentry
-    \entry{zevachina2001}{incollection}{}
+    \entry{zevachina2001}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=94957ff4109bf4c51b4d962d3948d35b}{Zevachina}{Z\bibinitperiod}{Tat'jana\bibnamedelima S.}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=0e4596569dc6ca9ffc1bcccfac161b01}{Krasnych}{K\bibinitperiod}{Viktorija\bibnamedelima V.}{V\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-        {{hash=78fcc584509e05069be377a845b842ac}{Izotov}{I\bibinitperiod}{Andrej\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Moskva}%
-      }
-      \list{publisher}{1}{%
-        {MAKS Press}%
       }
       \strng{namehash}{94957ff4109bf4c51b4d962d3948d35b}
       \strng{fullhash}{94957ff4109bf4c51b4d962d3948d35b}
@@ -10916,8 +10931,9 @@
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Jazyk, soznanie, kommunikacija. Vypusk 20}
+      \field{journaltitle}{Jazyk, soznanie, kommunikacija}
       \field{title}{Funkcional'no-grammatičeskaja parametrizacija prilagatel'nogo (po dannym polevogo issledovanija dunganskogo jazyka)}
+      \field{volume}{20}
       \field{year}{2001}
       \field{pages}{69\bibrangedash 86}
       \range{pages}{18}
@@ -11044,7 +11060,6 @@
       \field{year}{2003}
     \endentry
   \endsortlist
-  \missing{2}
 \endrefsection
 \endinput
 
