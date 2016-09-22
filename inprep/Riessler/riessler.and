@@ -23,8 +23,7 @@
   \item Aronson, Howard~I., \hyperpage{121, 122}
   \item Asher, Ron~E., \hyperpage{245}
   \item Ataev, Boris~M., \hyperpage{248}
-  \item At{\'a}nyi, Istv{\'a}n, \hyperpage{207}
-  \item Auwera, Johan van~der, \hyperpage{55}, \hyperpage{150}
+  \item At{\'a}nyi, Istv{\'a}n, \hyperpage{202}, \hyperpage{207}
   \item Avrorin, Valentin~A., \hyperpage{100}, \hyperpage{250}
   \item Aygen, G{\"u}l{\c s}at, \hyperpage{247}
   \item Azaev, Ch.~G., \hyperpage{248}
@@ -34,13 +33,12 @@
 
   \item Backhouse, A.~E., \hyperpage{90}, \hyperpage{248}
   \item Baerman, Matthew, \hyperpage{15}
-  \item Bamgbose, Ayo, \hyperpage{249}
+  \item Bamgbo\.se, Ay\.o, \hyperpage{249}
   \item Bartens, Hans-Hermann, \hyperpage{213}
-  \item Ba{\v s}kakov, Nikolaj~A., \hyperpage{250, 251}
+  \item Baskakov, Nikolaj~A., \hyperpage{250, 251}
   \item Bechert, Johannes, \hyperpage{147}
   \item Benzing, Johannes, \hyperpage{98}, \hyperpage{107}, 
 		\hyperpage{109}, \hyperpage{183}
-  \item Berg, Helma van~den, \hyperpage{249}
   \item Bergh{\"a}ll, Liisa, \hyperpage{250}
   \item Bergsland, Knut, \hyperpage{205, 206}, \hyperpage{213}, 
 		\hyperpage{252}
@@ -97,21 +95,22 @@
   \item Dahl, {\"O}sten, \hyperpage{31, 32}, \hyperpage{46, 47}, 
 		\hyperpage{146, 147}, \hyperpage{195}, \hyperpage{197}, 
 		\hyperpage{219}, \hyperpage{240}
+  \item de Reuse, Willem~Joseph, \hyperpage{83}, \hyperpage{245}
   \item Delbr{\"u}ck, Berthold, \hyperpage{187}, \hyperpage{218}
   \item Delsing, Lars-Olof, \hyperpage{155}, \hyperpage{195}, 
 		\hyperpage{197}
   \item Demiraj, Shaban, \hyperpage{139--141}, \hyperpage{245}
   \item Derbyshire, Desmond~C., \hyperpage{6}, \hyperpage{245}
-  \item Deseriev, Junus~D., \hyperpage{249}
+  \item De{\v s}eriev, Junus~D., \hyperpage{249}
   \item Dochartaigh, Cathair~{\'O}, \hyperpage{148}, \hyperpage{246}
   \item Donaldson, Bruce, \hyperpage{246}
   \item Donidze, Gajoz~I., \hyperpage{251}
   \item Dryer, Matthew~S., \hyperpage{4}, \hyperpage{51}, 
 		\hyperpage{54}, \hyperpage{80}
   \item Dunn, Michael, \hyperpage{87}
+  \item Džidalaev, Nurislam~S., \hyperpage{247}
   \item D{\'e}csy, Gyula, \hyperpage{129}, \hyperpage{138}, 
 		\hyperpage{176}, \hyperpage{212}, \hyperpage{227}
-  \item D{\v z}idalaev, Nurislam~S., \hyperpage{247}
 
   \indexspace
 
@@ -156,6 +155,7 @@
   \item Hajd{\'u}, P{\'e}ter, \hyperpage{215}
   \item Halwachs, Dieter~W., \hyperpage{143, 144}, \hyperpage{246}
   \item Hancock, Ian, \hyperpage{144}
+  \item Harder, Anja, \hyperpage{xi}
   \item Harriehausen, Bettina, \hyperpage{245}
   \item Harris, Alice~C., \hyperpage{121}, \hyperpage{123}, 
 		\hyperpage{222, 223}, \hyperpage{248}
@@ -218,7 +218,7 @@
   \indexspace
 
   \item Kacao{\u g}lu, Timur, \hyperpage{251}
-  \item Kadyrad{\v z}iev, Kalsyn~S., \hyperpage{251}
+  \item Kadyradžiev, Kalsyn~S., \hyperpage{251}
   \item Kalimov, Abdurachman~A., \hyperpage{93, 94}, \hyperpage{250}
   \item Kara, D{\'a}vid~Somfai, \hyperpage{251}
   \item Karlsson, Fred, \hyperpage{28}
@@ -231,7 +231,7 @@
 		\hyperpage{21--22}, \hyperpage{34}, \hyperpage{234}
   \item Kibrik, Aleksandr~E., \hyperpage{87}, \hyperpage{115}, 
 		\hyperpage{199}, \hyperpage{248, 249}
-  \item Kiekbaev, D{\v z}alil'~G., \hyperpage{177}
+  \item Kiekbaev, Džalil'~G., \hyperpage{177}
   \item Kimball, Geoffrey, \hyperpage{248}
   \item Klychev, Rauf, \hyperpage{119}, \hyperpage{245}
   \item Koch, Christoph, \hyperpage{185}, \hyperpage{187, 188}, 
@@ -247,7 +247,7 @@
   \item Kornfilt, Jaklin, \hyperpage{251}
   \item Kotcheva, Kristina, \hyperpage{153}
   \item Kouwenberg, Silvia, \hyperpage{245}
-  \item Krejnovi{\v c}, Eruchim~A., \hyperpage{102}
+  \item Krejnovič, Eruchim~A., \hyperpage{102}
   \item Kress, Bruno, \hyperpage{35}, \hyperpage{246}
   \item Krjukova, Elena~A., \hyperpage{105}
   \item Krotkoff, Georg, \hyperpage{124}, \hyperpage{250}
@@ -295,16 +295,14 @@
 		\hyperpage{96--100}, \hyperpage{241}, \hyperpage{250}
   \item Margetts, Anna, \hyperpage{39}
   \item Martin, Samuel~E., \hyperpage{92}, \hyperpage{248}
-  \item Maru{\v s}i{\v c}, Franc, \hyperpage{164--166}
+  \item Maru{\v s}ič, Franc, \hyperpage{164--166}
   \item Masica, Colin~P., \hyperpage{143}
   \item Maslova, Elena, \hyperpage{101--103}, \hyperpage{252}
   \item Matisoff, James~A., \hyperpage{75}, \hyperpage{250}
   \item Matras, Yaron, \hyperpage{246}
   \item Mayo, Peter, \hyperpage{247}
   \item Meillet, Antoine, \hyperpage{187}
-  \item Mel'čuk, Igor, \hyperpage{19}
-  \item Mel'{\v c}uk, Igor, \hyperpage{19}, \hyperpage{47}, 
-		\hyperpage{219}
+  \item Mel'čuk, Igor, \hyperpage{19}, \hyperpage{47}, \hyperpage{219}
   \item Mendoza, Imke, \hyperpage{45}, \hyperpage{185}, \hyperpage{219}
   \item Merlan, Franceska, \hyperpage{245}
   \item Mikkola, Jooseppi~Julius, \hyperpage{192}
@@ -316,7 +314,7 @@
 
   \indexspace
 
-  \item Nad{\v z}ip, {\.E}mir~N., \hyperpage{251}
+  \item Nadžip, {\.E}mir~N., \hyperpage{251}
   \item Nagayama, Yukari, \hyperpage{85, 86}, \hyperpage{245}
   \item Nau, Nicole, \hyperpage{246}
   \item Nedjalkov, Igor, \hyperpage{250}
@@ -327,7 +325,8 @@
 		\hyperpage{82}, \hyperpage{118}, \hyperpage{172}, 
 		\hyperpage{241, 242}, \hyperpage{249}
   \item Nickel, Klaus~Peter, \hyperpage{137}
-  \item Nielsen, Konrad, \hyperpage{207}, \hyperpage{212}
+  \item Nielsen, Konrad, \hyperpage{202}, \hyperpage{207}, 
+		\hyperpage{212}
   \item Nikolaeva, Irina, \hyperpage{99}, \hyperpage{127}, 
 		\hyperpage{250--252}
   \item Nocentini, Alberto, \hyperpage{191}, \hyperpage{193}, 
@@ -338,7 +337,7 @@
 
   \indexspace
 
-  \item Ochotina, N.~V., \hyperpage{249}
+  \item Ochotina, Natalija~V., \hyperpage{249}
   \item Olthuis, Marja-Liisa, \hyperpage{252}
   \item Oranskaja, Tat'jana~I., \hyperpage{246}
   \item Ortmann, Albert, \hyperpage{41}
@@ -349,6 +348,7 @@
   \item Paper, Herbert~H., \hyperpage{145}
   \item Papp, Istv{\'a}n, \hyperpage{216}
   \item Paris, Catherine, \hyperpage{245}
+  \item Partanen, Niko, \hyperpage{xi}
   \item Pavlov, Ivan~P., \hyperpage{182}
   \item Payne, John, \hyperpage{247}
   \item Perkmann, Iris, \hyperpage{xi}
@@ -373,7 +373,7 @@
 
   \indexspace
 
-  \item Rad{\v z}abov, Ramazan~N., \hyperpage{111}, \hyperpage{249}
+  \item Radžabov, Ramazan~N., \hyperpage{111}, \hyperpage{249}
   \item Rastorgueva, Vera~S., \hyperpage{145}
   \item Rausch, Peter~J., \hyperpage{250}
   \item Ravila, Paavo, \hyperpage{216}
@@ -382,7 +382,6 @@
   \item Refsing, Kirsten, \hyperpage{30}, \hyperpage{90}, 
 		\hyperpage{245}
   \item Reh, Mechthild, \hyperpage{248}
-  \item Reuse, Willem~Joseph de, \hyperpage{83}, \hyperpage{245}
   \item Riese, Timothy, \hyperpage{252}
   \item Rie{\ss }ler, Michael, \hyperpage{xi}, \hyperpage{26}, 
 		\hyperpage{37}, \hyperpage{42}, \hyperpage{61}, 
@@ -435,7 +434,7 @@
 		\hyperpage{249}
   \item Sch{\"a}fer, Roland, \hyperpage{28}, \hyperpage{49}
   \item Seegmiller, Steve, \hyperpage{251}
-  \item Senkevi{\v c}-Gudkova, Viktorija~V., \hyperpage{136}
+  \item Senkevič-Gudkova, Viktorija~V., \hyperpage{136}
   \item Serebrennikov, Boris~A., \hyperpage{181}
   \item Sevort'an, {\.E}.~V., \hyperpage{108}
   \item Shevelov, George~Y., \hyperpage{247}
@@ -494,6 +493,9 @@
 
   \item Vago, Robert~M., \hyperpage{251}
   \item Vajda, Edward~J., \hyperpage{104--106}, \hyperpage{252}
+  \item van den Berg, Helma, \hyperpage{249}
+  \item van der Auwera, Johan, \hyperpage{55}, \hyperpage{150}
+  \item van Wijk, Nicolaas, \hyperpage{184}, \hyperpage{189}
   \item Viitso, Tiit-Rein, \hyperpage{251}
   \item Volodin, Alexander~P., \hyperpage{28}, \hyperpage{87, 88}, 
 		\hyperpage{245}
@@ -507,7 +509,6 @@
   \item Wetzer, Harrie, \hyperpage{6, 7}
   \item Wheatley, Julian~K., \hyperpage{250}
   \item Whorf, Benjamin~L., \hyperpage{58}, \hyperpage{251}
-  \item Wijk, Nicolaas van, \hyperpage{184}, \hyperpage{189}
   \item Wilbur, Joshua, \hyperpage{xi}, \hyperpage{137}, 
 		\hyperpage{252}
   \item Winkler, Eberhard, \hyperpage{130--133}, \hyperpage{177}, 
@@ -519,7 +520,7 @@
 
   \indexspace
 
-  \item Xalilov, Mad{\v z}id~{{\v S}}., \hyperpage{249}
+  \item Xalilov, Madžid~{{\v S}}., \hyperpage{249}
 
   \indexspace
 
