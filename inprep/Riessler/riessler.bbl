@@ -64,6 +64,7 @@
   \field{abstract}{%
   Гамзатов, Гаджи Гамзатович%
   }
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{134\bibrangedash 151}
   \field{series}{Jazyki narodov Rossii}
@@ -101,6 +102,7 @@
   \strng{fullhash}{AR1}
   \field{labelyear}{1998}
   \field{sortinit}{A}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
   \field{pages}{197\bibrangedash 227}
   \field{series}{Routledge Language Family Series}
   \field{title}{Armenian}
@@ -162,7 +164,7 @@
   \field{labelyear}{1994}
   \field{extrayear}{1}
   \field{sortinit}{A}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{259\bibrangedash 296}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Budukh}
@@ -197,7 +199,7 @@
   \field{labelyear}{1994}
   \field{extrayear}{2}
   \field{sortinit}{A}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{213\bibrangedash 258}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Rutul}
@@ -263,10 +265,10 @@
   \strng{fullhash}{AMERRN1}
   \field{labelyear}{2004}
   \field{sortinit}{A}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{115\bibrangedash 163}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{Tsez}
+  \field{title}{{Tsez}}
   \field{volume}{3}
   \list{location}{1}{%
     {Ann Arbour}%
@@ -290,7 +292,7 @@
   \strng{fullhash}{AA1}
   \field{labelyear}{1993}
   \field{sortinit}{A}
-  \field{title}{{Grammatik des Tscheremissischen (Mari)}}
+  \field{title}{{Grammatik des Tscheremissischen ({Mari})}}
   \list{location}{1}{%
     {Hamburg}%
   }
@@ -474,11 +476,35 @@
   \field{sortinit}{A}
   \field{number}{7}
   \field{series}{Lingua Descriptive Studies}
-  \field{title}{Tamil}
+  \field{title}{{Tamil}}
   \list{location}{1}{%
     {Amsterdam}%
   }
   \field{year}{1982}
+\endentry
+
+\entry{astrom1893}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Åström}{�.}%
+     {Per}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kungliga Gustav Adolfs Akademien för svensk folkkultur}%
+  }
+  \strng{namehash}{�P1}
+  \strng{fullhash}{�P1}
+  \field{labelyear}{1893}
+  \field{sortinit}{A}
+  \field{number}{13:2}
+  \field{series}{Svenska landsmål och svenskt folkliv}
+  \field{title}{Degerforsmålets formlära}
+  \list{location}{1}{%
+    {Stockholm}%
+  }
+  \field{year}{1893}
 \endentry
 
 \entry{atanyi1942}{book}{}
@@ -555,6 +581,8 @@
   \strng{fullhash}{AVA1}
   \field{labelyear}{1968}
   \field{sortinit}{A}
+  \field{booktitle}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
   \field{number}{5}
   \field{pages}{129\bibrangedash 148}
   \field{series}{Jazyki narodov SSSR}
@@ -620,6 +648,8 @@
   \strng{fullhash}{AVALEP1}
   \field{labelyear}{1968}
   \field{sortinit}{A}
+  \field{booktitle}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
   \field{number}{5}
   \field{pages}{191\bibrangedash 210}
   \field{series}{Jazyki narodov SSSR}
@@ -676,6 +706,7 @@
   \strng{fullhash}{ACG1}
   \field{labelyear}{2000}
   \field{sortinit}{A}
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{346\bibrangedash 359}
   \field{series}{Jazyki narodov Rossii}
@@ -700,7 +731,7 @@
   \field{labelyear}{1984}
   \field{sortinit}{B}
   \field{pages}{169\bibrangedash 186}
-  \field{title}{Have all the adjectives gone?}
+  \field{title}{{Have} all the adjectives gone?}
   \field{volume}{62}
   \field{journaltitle}{Lingua}
   \field{year}{1984}
@@ -797,6 +828,7 @@
   \strng{fullhash}{BNA1}
   \field{labelyear}{1997}
   \field{sortinit}{B}
+  \field{booktitle}{Tjurkskie jazyki}
   \field{pages}{197\bibrangedash 187}
   \field{series}{Jazyki mira}
   \field{title}{Altajskij jazyk}
@@ -833,6 +865,7 @@
   \strng{fullhash}{BNA1}
   \field{labelyear}{2001}
   \field{sortinit}{B}
+  \field{booktitle}{Jazyki Rossijskoj Federacii i sosednich gosudarstv}
   \field{pages}{49\bibrangedash 56}
   \field{subtitle}{{\.E}nciklopedija v trech tomach}
   \field{title}{Karakalpakskij jazyk}
@@ -1148,6 +1181,7 @@
   \strng{fullhash}{BBNJ1}
   \field{labelyear}{2001--2016}
   \field{sortinit}{B}
+  \field{booktitle}{Autotyp}
   \field{subtitle}{An international network of typological linguistic
   databases}
   \field{title}{Autotyp}
@@ -1195,9 +1229,9 @@
   \strng{fullhash}{BBNJ1}
   \field{labelyear}{2003}
   \field{sortinit}{B}
-  \field{booktitle}{Proceedings of the {I}nternational {LREC} {W}orkshop on
+  \field{booktitle}{{Proceedings of the {I}nternational {{LREC}} {W}orkshop on
   {R}esources and {T}ools in {F}ield {L}inguistics, {L}as {P}almas, 26--27
-  {M}ay 2002}
+  {M}ay 2002}}
   \verb{doi}
   \verb 10.5167/uzh-76860
   \endverb
@@ -1286,9 +1320,10 @@
   \strng{fullhash}{BBNJRM1}
   \field{labelyear}{2001--2016}
   \field{sortinit}{B}
+  \field{booktitle}{Autotyp}
   \field{subtitle}{An international network of typological linguistic
   databases}
-  \field{title}{{NP} structures}
+  \field{title}{{{NP}} structures}
   \verb{url}
   \verb http://www.autotyp.uzh.ch/projects/nps/nps.html
   \endverb
@@ -1317,9 +1352,10 @@
   \strng{fullhash}{B�1}
   \field{labelyear}{2003}
   \field{sortinit}{B}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{210\bibrangedash 228}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Oirat}
+  \field{title}{{Oirat}}
   \list{location}{1}{%
     {London}%
   }
@@ -1348,6 +1384,7 @@
   \strng{fullhash}{BU1}
   \field{labelyear}{2003}
   \field{sortinit}{B}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{229\bibrangedash 247}
   \field{series}{Routledge Language Family Series}
   \field{title}{Kalmuck}
@@ -1486,6 +1523,27 @@
   \field{year}{1985}
 \endentry
 
+\entry{borjars1994}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Börjars}{B.}%
+     {Kersti}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Noun phrase;Syntax}
+  \strng{namehash}{BK2}
+  \strng{fullhash}{BK2}
+  \field{labelyear}{1994}
+  \field{sortinit}{B}
+  \field{pages}{219\bibrangedash 252}
+  \field{title}{{Swedish} double determination in a {E}uropean typological
+  perspective}
+  \field{volume}{17}
+  \field{journaltitle}{Nordic Journal of Linguistics}
+  \field{year}{1994}
+\endentry
+
 \entry{brauner1974}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -1539,7 +1597,7 @@
   \field{booktitle}{The {S}lavonic languages}
   \field{pages}{306\bibrangedash 387}
   \field{series}{Routledge Language Family Series}
-  \field{title}{{Serbo-Croat}}
+  \field{title}{{{Serbo-Croat}}}
   \list{location}{1}{%
     {London}%
   }
@@ -1705,27 +1763,6 @@
   \field{year}{1999}
 \endentry
 
-\entry{borjars1994}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Börjars}{B.}%
-     {Kersti}{K.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{Noun phrase;Syntax}
-  \strng{namehash}{BK2}
-  \strng{fullhash}{BK2}
-  \field{labelyear}{1994}
-  \field{sortinit}{B}
-  \field{pages}{219\bibrangedash 252}
-  \field{title}{Swedish double determination in a {E}uropean typological
-  perspective}
-  \field{volume}{17}
-  \field{journaltitle}{Nordic Journal of Linguistics}
-  \field{year}{1994}
-\endentry
-
 \entry{campbell-l1985}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -1744,7 +1781,7 @@
   \field{sortinit}{C}
   \field{number}{1}
   \field{series}{Mouton Grammar Library}
-  \field{title}{The {P}ipil language of {E}l {S}alvador}
+  \field{title}{The {P}ipil language of {{E}}l {S}alvador}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -1788,6 +1825,7 @@
   \strng{fullhash}{CMA1}
   \field{labelyear}{1999}
   \field{sortinit}{C}
+  \field{booktitle}{Morphology}
   \field{number}{17}
   \field{pages}{264\bibrangedash 272}
   \field{series}{Handbücher zur Sprach- und Kommunikationswissenschaft}
@@ -1869,7 +1907,7 @@
   }
   \field{number}{109}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Sepečides-{R}omani}
+  \field{title}{{Sepečides-{R}}omani}
   \list{location}{1}{%
     {München}%
   }
@@ -1894,7 +1932,7 @@
   \field{sortinit}{C}
   \field{number}{4}
   \field{series}{London Oriental and African Language Library}
-  \field{title}{Korean}
+  \field{title}{{Korean}}
   \list{location}{1}{%
     {Amsterdam}%
   }
@@ -1919,7 +1957,7 @@
   \field{sortinit}{C}
   \field{number}{147}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Georgian}
+  \field{title}{{Georgian}}
   \list{location}{1}{%
     {München}%
   }
@@ -1991,7 +2029,7 @@
   \field{abstract}{%
   ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА%
   }
-  \field{booktitle}{Mongol'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
+  \field{booktitle}{{Mongol}'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
   {J}aponskij jazyk. {K}orejskij jazyk}
   \field{pages}{226\bibrangedash 236}
   \field{series}{Jazyki mira}
@@ -2092,7 +2130,7 @@
   \field{booktitle}{The {N}orth {W}est {C}aucasian languages}
   \field{pages}{261\bibrangedash 355}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{East {C}ircassian ({K}abardian dialect)}
+  \field{title}{{East} {C}ircassian ({K}abardian dialect)}
   \field{volume}{2}
   \list{location}{1}{%
     {Delmar}%
@@ -2118,7 +2156,7 @@
   \field{sortinit}{C}
   \field{number}{200}
   \field{series}{Languages of the World\slash{}Ma\-te\-ri\-als}
-  \field{title}{Kabardian ({E}ast {C}ircassian)}
+  \field{title}{Kabardian ({{E}}ast {C}ircassian)}
   \list{location}{1}{%
     {München}%
   }
@@ -2143,7 +2181,7 @@
   \field{labelyear}{1981}
   \field{sortinit}{C}
   \field{series}{Cambridge Language Surveys}
-  \field{title}{The languages of the {S}oviet {U}nion}
+  \field{title}{The languages of the {S}oviet {{U}}nion}
   \list{location}{1}{%
     {Cambridge}%
   }
@@ -2177,10 +2215,11 @@
   \strng{fullhash}{CB1}
   \field{labelyear}{1998}
   \field{sortinit}{C}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
   \field{pages}{74\bibrangedash 97}
   \field{series}{Routledge Language Family Series}
   \field{subtitle}{Genetic and typological perspectives}
-  \field{title}{The {I}ndo-{E}uropean linguistic family}
+  \field{title}{The {{I}ndo-{{E}}}uropean linguistic family}
   \list{location}{1}{%
     {London}%
   }
@@ -2497,7 +2536,7 @@
   }
   \field{series}{Studies in the Indigenous languages of the Americas}
   \field{subtitle}{The language and its contacts with {C}hukchi}
-  \field{title}{Siberian {Y}upik {E}skimo}
+  \field{title}{{Siberian} {Y}upik {E}skimo}
   \list{location}{1}{%
     {Salt Lake City}%
   }
@@ -2527,6 +2566,97 @@
   \field{year}{1959}
 \endentry
 
+\entry{decsy1990}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Décsy}{D.}%
+     {Gyula}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Eurolingua}%
+  }
+  \keyw{Language description;Uralic;Northern Eurasia;Historical linguistics}
+  \strng{namehash}{DG1}
+  \strng{fullhash}{DG1}
+  \field{labelyear}{1990}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  p.80-81 keine Kongruenz in NP (bei Adjektiven) p.81 POSS als DEF%
+  }
+  \field{number}{9}
+  \field{series}{Bibliotheca nostratica}
+  \field{subtitle}{A comprehensive reconstruction}
+  \field{title}{The {{U}}ralic protolanguage}
+  \list{location}{1}{%
+    {Bloomington}%
+  }
+  \field{year}{1990}
+\endentry
+
+\entry{decsy1991}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Décsy}{D.}%
+     {Gyula}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Eurolingua}%
+  }
+  \keyw{Language description;IE;Northern Eurasia;Historical linguistics}
+  \strng{namehash}{DG1}
+  \strng{fullhash}{DG1}
+  \field{labelyear}{1998}
+  \field{extrayear}{1}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  p. 57 proto-IE hatte wahrscheinlich keine Kongruenz in NPs (so wie auch
+  Tocharisch keine hat)%
+  }
+  \field{number}{10}
+  \field{series}{Bibliotheca nostratica}
+  \field{subtitle}{A computational reconstruction}
+  \field{title}{The {{I}ndo-{{E}}}uropean protolanguage}
+  \list{location}{1}{%
+    {Bloomington}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{decsy1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Décsy}{D.}%
+     {Gyula}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Eurolingua}%
+  }
+  \keyw{Language description;Turkic;Northern Eurasia;Historical linguistics}
+  \strng{namehash}{DG1}
+  \strng{fullhash}{DG1}
+  \field{labelyear}{1998}
+  \field{extrayear}{2}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  p. 75 POSS:3SG -si als DEF (based on Old Turkic data) p.76 Wortfolge A+N
+  Agreement/non-agreement of adj. not mentioned in syntax part%
+  }
+  \field{number}{11}
+  \field{series}{Bibliotheca nostratica}
+  \field{subtitle}{A computational reconstruction}
+  \field{title}{The {T}urkic protolanguage}
+  \list{location}{1}{%
+    {Bloomington}%
+  }
+  \field{year}{1998}
+\endentry
+
 \entry{delbruck1893}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -2542,10 +2672,10 @@
   \strng{fullhash}{DB1}
   \field{labelyear}{1893}
   \field{sortinit}{D}
+  \field{number}{1}
   \field{series}{Grundriss der vergleichenden Grammatik der indogermanischen
   Sprachen}
   \field{title}{{Vergleichende Syntax der indogermanischen Sprachen}}
-  \field{volume}{1}
   \list{location}{1}{%
     {Strassburg}%
   }
@@ -2634,6 +2764,7 @@
   \strng{fullhash}{DS1}
   \field{labelyear}{1998}
   \field{sortinit}{D}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
   \field{pages}{480\bibrangedash 501}
   \field{series}{Routledge Language Family Series}
   \field{title}{Albanian}
@@ -2688,6 +2819,7 @@
   \strng{fullhash}{DCO1}
   \field{labelyear}{1992}
   \field{sortinit}{D}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{11\bibrangedash 99}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {I}rish language}
@@ -2714,7 +2846,7 @@
   \field{sortinit}{D}
   \field{series}{Routledge grammars}
   \field{subtitle}{A comprehensive grammar}
-  \field{title}{Dutch}
+  \field{title}{{Dutch}}
   \list{location}{1}{%
     {London}%
   }
@@ -2746,9 +2878,10 @@
   \field{abstract}{%
   Донидзе Гайоз Ильич%
   }
+  \field{booktitle}{Tjurkskie jazyki}
   \field{pages}{497\bibrangedash 506}
   \field{series}{Jazyki mira}
-  \field{title}{{{\v S}}orskij jazyk}
+  \field{title}{Šorskij jazyk}
   \list{location}{1}{%
     {Moskva}%
   }
@@ -2819,7 +2952,7 @@
   \field{edition}{2}
   \field{pages}{151\bibrangedash 205}
   \field{series}{Language typology and syntactic description}
-  \field{title}{Noun phrase structure}
+  \field{title}{{Noun} phrase structure}
   \field{volume}{2}
   \list{location}{1}{%
     {Cambridge}%
@@ -2885,97 +3018,6 @@
   \field{year}{1999}
 \endentry
 
-\entry{decsy1990}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Décsy}{D.}%
-     {Gyula}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Eurolingua}%
-  }
-  \keyw{Language description;Uralic;Northern Eurasia;Historical linguistics}
-  \strng{namehash}{DG1}
-  \strng{fullhash}{DG1}
-  \field{labelyear}{1990}
-  \field{sortinit}{D}
-  \field{abstract}{%
-  p.80-81 keine Kongruenz in NP (bei Adjektiven) p.81 POSS als DEF%
-  }
-  \field{number}{9}
-  \field{series}{Bibliotheca nostratica}
-  \field{subtitle}{A comprehensive reconstruction}
-  \field{title}{The {U}ralic protolanguage}
-  \list{location}{1}{%
-    {Bloomington}%
-  }
-  \field{year}{1990}
-\endentry
-
-\entry{decsy1991}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Décsy}{D.}%
-     {Gyula}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Eurolingua}%
-  }
-  \keyw{Language description;IE;Northern Eurasia;Historical linguistics}
-  \strng{namehash}{DG1}
-  \strng{fullhash}{DG1}
-  \field{labelyear}{1998}
-  \field{extrayear}{1}
-  \field{sortinit}{D}
-  \field{abstract}{%
-  p. 57 proto-IE hatte wahrscheinlich keine Kongruenz in NPs (so wie auch
-  Tocharisch keine hat)%
-  }
-  \field{number}{10}
-  \field{series}{Bibliotheca nostratica}
-  \field{subtitle}{A computational reconstruction}
-  \field{title}{The {I}ndo-{E}uropean protolanguage}
-  \list{location}{1}{%
-    {Bloomington}%
-  }
-  \field{year}{1998}
-\endentry
-
-\entry{decsy1998}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Décsy}{D.}%
-     {Gyula}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Eurolingua}%
-  }
-  \keyw{Language description;Turkic;Northern Eurasia;Historical linguistics}
-  \strng{namehash}{DG1}
-  \strng{fullhash}{DG1}
-  \field{labelyear}{1998}
-  \field{extrayear}{2}
-  \field{sortinit}{D}
-  \field{abstract}{%
-  p. 75 POSS:3SG -si als DEF (based on Old Turkic data) p.76 Wortfolge A+N
-  Agreement/non-agreement of adj. not mentioned in syntax part%
-  }
-  \field{number}{11}
-  \field{series}{Bibliotheca nostratica}
-  \field{subtitle}{A computational reconstruction}
-  \field{title}{The {T}urkic protolanguage}
-  \list{location}{1}{%
-    {Bloomington}%
-  }
-  \field{year}{1998}
-\endentry
-
 \entry{dzidalaev2000}{incollection}{}
   \name{author}{1}{}{%
     {{}%
@@ -3001,6 +3043,7 @@
   \field{abstract}{%
   Джидалаев Нурислам Сиражутинович%
   }
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{218\bibrangedash 236}
   \field{series}{Jazyki narodov Rossii}
@@ -3059,7 +3102,7 @@
   \field{sortinit}{E}
   \field{series}{Routledge Descriptive Series}
   \field{subtitle}{The {P}acaas {N}ovos language of {W}estern {B}razil}
-  \field{title}{Wari'}
+  \field{title}{{Wari}'}
   \list{location}{1}{%
     {London}%
   }
@@ -3179,7 +3222,7 @@
   \strng{fullhash}{FM1}
   \field{labelyear}{1984}
   \field{sortinit}{F}
-  \field{title}{West {G}reenlandic}
+  \field{title}{{West} {G}reenlandic}
   \list{location}{1}{%
     {London}%
   }
@@ -3205,7 +3248,7 @@
   \field{number}{23}
   \field{pagetotal}{496}
   \field{series}{Trends in Linguistics Documentation}
-  \field{title}{Comparative {C}hukotko-{K}amchatkan dictionary}
+  \field{title}{Comparative {{C}hukotko-{K}}amchatkan dictionary}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -3263,6 +3306,28 @@
   \field{year}{1937}
 \endentry
 
+\entry{gartner1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gärtner}{G.}%
+     {Eberhard}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Niemeyer}%
+  }
+  \strng{namehash}{GE3}
+  \strng{fullhash}{GE3}
+  \field{labelyear}{1998}
+  \field{sortinit}{G}
+  \field{title}{{Grammatik der portugiesischen Sprache}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{1998}
+\endentry
+
 \entry{gary-etal1982}{book}{}
   \name{author}{2}{}{%
     {{}%
@@ -3286,7 +3351,7 @@
   \field{sortinit}{G}
   \field{number}{6}
   \field{series}{Lingua Descriptive Studies}
-  \field{title}{Cairene {E}gyptian {C}olloqial {A}rabic}
+  \field{title}{Cairene {{E}}gyptian {C}olloqial {A}rabic}
   \list{location}{1}{%
     {Amsterdam}%
   }
@@ -3475,28 +3540,6 @@
   \field{year}{1971}
 \endentry
 
-\entry{gartner1998}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Gärtner}{G.}%
-     {Eberhard}{E.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Niemeyer}%
-  }
-  \strng{namehash}{GE3}
-  \strng{fullhash}{GE3}
-  \field{labelyear}{1998}
-  \field{sortinit}{G}
-  \field{title}{{Grammatik der portugiesischen Sprache}}
-  \list{location}{1}{%
-    {Tübingen}%
-  }
-  \field{year}{1998}
-\endentry
-
 \entry{hagman1977}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -3514,7 +3557,7 @@
   \field{sortinit}{H}
   \field{number}{15}
   \field{series}{Language Science Monographs}
-  \field{title}{Nama {H}ottentott grammar}
+  \field{title}{{Nama} {H}ottentott grammar}
   \list{location}{1}{%
     {Bloomington}%
   }
@@ -3591,7 +3634,7 @@
   \field{booktitle}{The {R}omance languages}
   \field{pages}{351\bibrangedash 390}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Rhaeto-{R}omance}
+  \field{title}{{Rhaeto-{R}}omance}
   \list{location}{1}{%
     {London}%
   }
@@ -3656,7 +3699,7 @@
   \field{sortinit}{H}
   \field{number}{107}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{{Burgenland-Romani}}
+  \field{title}{{{{Burgenland}-Romani}}}
   \list{location}{1}{%
     {München}%
   }
@@ -3742,7 +3785,7 @@
   \field{number}{1}
   \field{pages}{313\bibrangedash 394}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{Mingrelian}
+  \field{title}{{Mingrelian}}
   \list{location}{1}{%
     {Delmar}%
   }
@@ -3849,7 +3892,7 @@
   \field{booktitle}{The {R}omance languages}
   \field{pages}{209\bibrangedash 245}
   \field{series}{Routledge Language Family Series}
-  \field{title}{French}
+  \field{title}{{French}}
   \list{location}{1}{%
     {London}%
   }
@@ -4099,6 +4142,7 @@
   \field{labelyear}{1998}
   \field{extrayear}{1}
   \field{sortinit}{H}
+  \field{booktitle}{The {{U}}ralic languages}
   \field{pages}{480\bibrangedash 515}
   \field{series}{Routledge Language Family Series}
   \field{title}{Nganasan}
@@ -4131,6 +4175,7 @@
   \field{labelyear}{1998}
   \field{extrayear}{2}
   \field{sortinit}{H}
+  \field{booktitle}{The {{U}}ralic languages}
   \field{pages}{548\bibrangedash 579}
   \field{series}{Routledge Language Family Series}
   \field{title}{Selkup}
@@ -4166,7 +4211,7 @@
   The "Northern European Sprachbund" (Wagner etc.) is not mentioned%
   }
   \field{booksubtitle}{A linguistic and cognitive approach}
-  \field{booktitle}{The {U}ralic languages today}
+  \field{booktitle}{The {{U}}ralic languages today}
   \field{number}{240}
   \field{pages}{87\bibrangedash 99}
   \field{series}{Biblioth{\`e}que de l'Ecole des hautes études}
@@ -4268,39 +4313,6 @@
   \field{year}{1997}
 \endentry
 
-\entry{nguyen1987}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Ho{\`a} Nguy\~{{\^e}}n}{H.~N.~{\^e}.}%
-     {}{}%
-     {Đı̀nh}{�.}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Comrie}{C.}%
-     {Bernard}{B.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Routledge}%
-  }
-  \keyw{Language description}
-  \strng{namehash}{HNe�1}
-  \strng{fullhash}{HNe�1}
-  \field{labelyear}{1987}
-  \field{sortinit}{H}
-  \field{booktitle}{The world's major languages}
-  \field{pages}{777\bibrangedash 796}
-  \field{series}{Routledge Language Family Series}
-  \field{title}{Vietnamese}
-  \list{location}{1}{%
-    {London}%
-  }
-  \field{year}{1987}
-\endentry
-
 \entry{holisky1991}{incollection}{}
   \name{author}{1}{}{%
     {{}%
@@ -4363,10 +4375,10 @@
   \strng{fullhash}{HDAGR1}
   \field{labelyear}{1994}
   \field{sortinit}{H}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{147\bibrangedash 212}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{Tsova-{T}ush ({B}atsbi)}
+  \field{title}{{Tsova-{T}}ush ({B}atsbi)}
   \field{volume}{4}
   \list{location}{1}{%
     {Delmar}%
@@ -4439,6 +4451,7 @@
   \strng{fullhash}{HASG1}
   \field{labelyear}{2003}
   \field{sortinit}{H}
+  \field{booktitle}{Dialektsyntaktiska studier av den nordiska nominalfrasen}
   \field{number}{22}
   \field{pages}{85\bibrangedash 98}
   \field{series}{Troms{ø}-studier i språkvitenskap}
@@ -4523,7 +4536,7 @@
   \field{pages}{135\bibrangedash 144}
   \field{subtitle}{Zum historischen {H}intergrund der {A}ttributivkongruenz in
   uralischen {S}prachen}
-  \field{title}{Fremdes oder {E}igenständiges?}
+  \field{title}{Fremdes oder {{E}}igenständiges?}
   \list{location}{1}{%
     {Maastricht}%
   }
@@ -4546,7 +4559,7 @@
   \field{labelyear}{1992}
   \field{sortinit}{H}
   \field{series}{Descriptive grammars}
-  \field{title}{Catalan}
+  \field{title}{{Catalan}}
   \list{location}{1}{%
     {London}%
   }
@@ -4573,6 +4586,7 @@
   \strng{fullhash}{HJIUJOd1}
   \field{labelyear}{2003}
   \field{sortinit}{H}
+  \field{booktitle}{A grammar of {B}asque}
   \field{number}{26}
   \field{series}{Mouton Grammar Library}
   \field{title}{A grammar of {B}asque}
@@ -4608,7 +4622,7 @@
   \field{booktitle}{The world's major languages}
   \field{pages}{757\bibrangedash 757}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Thai}
+  \field{title}{{Thai}}
   \list{location}{1}{%
     {London}%
   }
@@ -4666,7 +4680,7 @@
   \field{sortinit}{I}
   \field{number}{442}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Tajik}
+  \field{title}{{Tajik}}
   \list{location}{1}{%
     {München}%
   }
@@ -4696,7 +4710,7 @@
   \strng{fullhash}{IM�A1}
   \field{labelyear}{2004}
   \field{sortinit}{I}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{299\bibrangedash 343}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Dargwa}
@@ -4716,7 +4730,7 @@
      {}{}}%
     {{}%
      {Xalilov}{X.}%
-     {Madžid~{{\v S}}.}{M.~{\v S}.}%
+     {Madžid~Š.}{M.~�.}%
      {}{}%
      {}{}}%
   }
@@ -4731,15 +4745,15 @@
     {Caravan Books}%
   }
   \keyw{Language description}
-  \strng{namehash}{IIAXMS1}
-  \strng{fullhash}{IIAXMS1}
+  \strng{namehash}{IIAXM�1}
+  \strng{fullhash}{IIAXM�1}
   \field{labelyear}{2004}
   \field{sortinit}{I}
   \field{abstract}{%
   Халилов, Маджид Шарипович Исаков, Исак
   Абдулвахидович%
   }
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{169\bibrangedash 214}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Hinukh}
@@ -4810,11 +4824,11 @@
   \field{abstract}{%
   ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА%
   }
-  \field{booktitle}{Mongol'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
+  \field{booktitle}{{Mongol}'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
   {J}aponskij jazyk. {K}orejskij jazyk}
   \field{pages}{10\bibrangedash 18}
   \field{series}{Jazyki mira}
-  \field{title}{Mongol'skie jazyki}
+  \field{title}{{Mongol}'skie jazyki}
   \list{location}{1}{%
     {Moskva}%
   }
@@ -4856,7 +4870,7 @@
   \field{booktitle}{The {G}ermanic languages}
   \field{pages}{388\bibrangedash 419}
   \field{series}{Cambridge Language Surveys}
-  \field{title}{Yiddish}
+  \field{title}{{Yiddish}}
   \list{location}{1}{%
     {Cambridge}%
   }
@@ -4999,7 +5013,7 @@
   \field{labelyear}{1981}
   \field{sortinit}{J}
   \field{pages}{23\bibrangedash 42}
-  \field{title}{On the structure of {P}roto-{U}ralic}
+  \field{title}{On the structure of {{P}roto-{{U}}}ralic}
   \field{volume}{44}
   \field{journaltitle}{Finnisch-Ugrische Forschungen}
   \field{year}{1981}
@@ -5027,9 +5041,10 @@
   \strng{fullhash}{JJ1}
   \field{labelyear}{2003}
   \field{sortinit}{J}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{1\bibrangedash 29}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Proto-{M}ongolic}
+  \field{title}{{Proto-{M}}ongolic}
   \list{location}{1}{%
     {London}%
   }
@@ -5177,8 +5192,8 @@
   \strng{fullhash}{JM2}
   \field{labelyear}{2003}
   \field{sortinit}{J}
-  \field{booktitle}{{Proceedings of the 19th Scandinavian Conference of
-  Linguistics}}
+  \field{booktitle}{{{Proceedings of the 19th Scandinavian Conference of
+  Linguistics}}}
   \field{number}{31:1}
   \field{pages}{230\bibrangedash 244}
   \field{series}{Nordlyd}
@@ -5265,6 +5280,7 @@
   \field{abstract}{%
   Калсын Салахович Кадыраджиев%
   }
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{115\bibrangedash 133}
   \field{series}{Jazyki narodov Rossii}
@@ -5302,6 +5318,8 @@
   \strng{fullhash}{KAA1}
   \field{labelyear}{1968}
   \field{sortinit}{K}
+  \field{booktitle}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
   \field{number}{5}
   \field{pages}{474\bibrangedash 488}
   \field{series}{Jazyki narodov SSSR}
@@ -5310,6 +5328,37 @@
     {Moskva}%
   }
   \field{year}{1968}
+\endentry
+
+\entry{kampfe-etal1995}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kämpfe}{K.}%
+     {Hans-Rainer}{H.-R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Volodin}{V.}%
+     {Alexander~P.}{A.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harrassowitz}%
+  }
+  \keyw{Language description;Northern Eurasia}
+  \strng{namehash}{KHRVAP1}
+  \strng{fullhash}{KHRVAP1}
+  \field{labelyear}{1995}
+  \field{sortinit}{K}
+  \field{number}{1}
+  \field{series}{Tunguso Sibirica}
+  \field{title}{Abriß der tschuktischen {G}rammatik auf der {B}asis der
+  {S}chriftsprache}
+  \list{location}{1}{%
+    {Wiesbaden}%
+  }
+  \field{year}{1995}
 \endentry
 
 \entry{kara2002}{book}{}
@@ -5375,7 +5424,7 @@
   \field{sortinit}{K}
   \field{series}{Routledge grammars}
   \field{subtitle}{An essential grammar}
-  \field{title}{Finnish}
+  \field{title}{{Finnish}}
   \list{location}{1}{%
     {London}%
   }
@@ -5427,7 +5476,7 @@
   \strng{fullhash}{KK1}
   \field{labelyear}{1996}
   \field{sortinit}{K}
-  \field{booktitle}{Godoberi}
+  \field{booktitle}{{Godoberi}}
   \field{number}{2}
   \field{pages}{148\bibrangedash 154}
   \field{series}{LINCOM Studies in Caucasian Linguistics}
@@ -5494,7 +5543,7 @@
   \field{labelyear}{1998}
   \field{sortinit}{K}
   \field{series}{Descriptive Grammar Series}
-  \field{title}{Hungarian}
+  \field{title}{{Hungarian}}
   \list{location}{1}{%
     {London}%
   }
@@ -5632,7 +5681,7 @@
   \field{labelyear}{1994}
   \field{extrayear}{1}
   \field{sortinit}{K}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{297\bibrangedash 265}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Archi}
@@ -5667,7 +5716,7 @@
   \field{labelyear}{1994}
   \field{extrayear}{2}
   \field{sortinit}{K}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{367\bibrangedash 406}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Khinalug}
@@ -5739,10 +5788,10 @@
   \strng{fullhash}{KAETJG1}
   \field{labelyear}{2004}
   \field{sortinit}{K}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{217\bibrangedash 295}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{Bezhta}
+  \field{title}{{Bezhta}}
   \field{volume}{3}
   \list{location}{1}{%
     {Ann Arbour}%
@@ -5787,7 +5836,7 @@
   \strng{fullhash}{KG1}
   \field{labelyear}{1991}
   \field{sortinit}{K}
-  \field{title}{Koasati grammar}
+  \field{title}{{Koasati} grammar}
   \list{location}{1}{%
     {Lincoln}%
   }
@@ -5948,7 +5997,7 @@
   \field{sortinit}{K}
   \field{number}{148}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{{Serbo-Croatian}}
+  \field{title}{{{Serbo-{Croatian}}}}
   \list{location}{1}{%
     {München}%
   }
@@ -6056,7 +6105,7 @@
   \field{labelyear}{1997}
   \field{sortinit}{K}
   \field{series}{Descriptive grammars}
-  \field{title}{Turkish}
+  \field{title}{{Turkish}}
   \list{location}{1}{%
     {London}%
   }
@@ -6132,6 +6181,29 @@
   \field{year}{1994}
 \endentry
 
+\entry{kramsky1972}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Krámsk{\'y}}{K.}%
+     {Ji{\v r}ı́}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton}%
+  }
+  \keyw{Noun phrase;Definiteness;Typology;Attribution}
+  \strng{namehash}{KJ2}
+  \strng{fullhash}{KJ2}
+  \field{labelyear}{1972}
+  \field{sortinit}{K}
+  \field{title}{The article and the concept of definiteness in language}
+  \list{location}{1}{%
+    {The Hague}%
+  }
+  \field{year}{1972}
+\endentry
+
 \entry{krejnovic1982}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -6201,9 +6273,9 @@
   \strng{fullhash}{KEA2}
   \field{labelyear}{2007}
   \field{sortinit}{K}
-  \field{booktitle}{{Tipologija jazyka i teorija grammatiki: materialy
+  \field{booktitle}{{Tipologija jazyka i teorija grammatiki: {M}aterialy
   meždunarodnoj konferencii posvja ščennoj 100-letiju so dnja roždenija S.
-  D. Kacnel'sona}}
+  {D}. {K}acnel'sona}}
   \field{pages}{115\bibrangedash 117}
   \field{title}{{Substantivacija v jenisejskich jazykach (na materiale
   ketskogo, jugskogo i kottskogo jazykov)}}
@@ -6232,7 +6304,7 @@
   \field{number}{64}
   \field{series}{American Oriental Series}
   \field{subtitle}{Text, grammar, and vocabulary}
-  \field{title}{A {N}eo-{A}ramaic dialect of {K}urdistan}
+  \field{title}{A {{N}eo-{A}}ramaic dialect of {K}urdistan}
   \list{location}{1}{%
     {New Haven}%
   }
@@ -6284,34 +6356,46 @@
   \field{number}{21}
   \field{series}{Uralic and Altaic Series}
   \field{subtitle}{Area handbook, grammar, graded reader and glossery}
-  \field{title}{Yakut manual}
+  \field{title}{{Yakut} manual}
   \list{location}{1}{%
     {Bloomington}%
   }
   \field{year}{1964}
 \endentry
 
-\entry{kramsky1972}{book}{}
+\entry{kunnap2004}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {Krámsk{\'y}}{K.}%
-     {Ji{\v r}ı́}{J.}%
+     {Künnap}{K.}%
+     {Ago}{A.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {Mouton}%
-  }
-  \keyw{Noun phrase;Definiteness;Typology;Attribution}
-  \strng{namehash}{KJ2}
-  \strng{fullhash}{KJ2}
-  \field{labelyear}{1972}
+  \keyw{Noun phrase; Typology; Possession; Uralic}
+  \strng{namehash}{KA2}
+  \strng{fullhash}{KA2}
+  \field{labelyear}{2004}
   \field{sortinit}{K}
-  \field{title}{The article and the concept of definiteness in language}
-  \list{location}{1}{%
-    {The Hague}%
+  \field{abstract}{%
+  Finno-Ugric, Selkup, Turkic and Tungusic share a common (preferred) use of
+  the 3rd person possessive suffix (3Px) in the non-personal definite function.
+  Based on the use of (Northern) Samoyedic languages one could imagine that in
+  a number of Uralic languages the text meant for the addressee (= the 2nd
+  person) sounds natural when determined by means of the 2Px, meaning something
+  like 'the matter heard by you'. The 3Px usage is here related to a more
+  general definiteness (in Samoyedic languages in case of the concepts 'sun',
+  'moon', 'sky', 'earth' etc., since these phenomena are determined by their
+  unique and universal nature already, not by the listener's hearing). Thus, it
+  may be supposed that a non-personal general-definite function has always been
+  inherent to the Uralic 3Px%
   }
-  \field{year}{1972}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 4}
+  \field{title}{About the non-personal definite function of the {{U}}ralic 3rd
+  person possessive suffix}
+  \field{volume}{40}
+  \field{journaltitle}{Linguistica Uralica}
+  \field{year}{2004}
 \endentry
 
 \entry{kurbanov1986}{book}{}
@@ -6355,7 +6439,7 @@
   \field{number}{10}
   \field{series}{Berliner Beiträge zur Skandinavistik}
   \field{subtitle}{Beitrag zur nordgermanischen {S}prachgeschichte}
-  \field{title}{Der samische {E}influss auf die skandinavischen {S}prachen}
+  \field{title}{Der samische {{E}}influss auf die skandinavischen {S}prachen}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -6380,77 +6464,11 @@
   \field{number}{9}
   \field{series}{Nilo\hyp{}Saharan. Linguistic Analyses and Documentation}
   \field{subtitle}{A {C}entral-{S}udanic language of {Z}aire}
-  \field{title}{Ngiti}
+  \field{title}{{Ngiti}}
   \list{location}{1}{%
     {Köln}%
   }
   \field{year}{1994}
-\endentry
-
-\entry{kampfe-etal1995}{book}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Kämpfe}{K.}%
-     {Hans-Rainer}{H.-R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Volodin}{V.}%
-     {Alexander~P.}{A.~P.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Harrassowitz}%
-  }
-  \keyw{Language description;Northern Eurasia}
-  \strng{namehash}{KHRVAP1}
-  \strng{fullhash}{KHRVAP1}
-  \field{labelyear}{1995}
-  \field{sortinit}{K}
-  \field{number}{1}
-  \field{series}{Tunguso Sibirica}
-  \field{title}{Abriß der tschuktischen {G}rammatik auf der {B}asis der
-  {S}chriftsprache}
-  \list{location}{1}{%
-    {Wiesbaden}%
-  }
-  \field{year}{1995}
-\endentry
-
-\entry{kunnap2004}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Künnap}{K.}%
-     {Ago}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{Noun phrase; Typology; Possession; Uralic}
-  \strng{namehash}{KA2}
-  \strng{fullhash}{KA2}
-  \field{labelyear}{2004}
-  \field{sortinit}{K}
-  \field{abstract}{%
-  Finno-Ugric, Selkup, Turkic and Tungusic share a common (preferred) use of
-  the 3rd person possessive suffix (3Px) in the non-personal definite function.
-  Based on the use of (Northern) Samoyedic languages one could imagine that in
-  a number of Uralic languages the text meant for the addressee (= the 2nd
-  person) sounds natural when determined by means of the 2Px, meaning something
-  like 'the matter heard by you'. The 3Px usage is here related to a more
-  general definiteness (in Samoyedic languages in case of the concepts 'sun',
-  'moon', 'sky', 'earth' etc., since these phenomena are determined by their
-  unique and universal nature already, not by the listener's hearing). Thus, it
-  may be supposed that a non-personal general-definite function has always been
-  inherent to the Uralic 3Px%
-  }
-  \field{number}{1}
-  \field{pages}{1\bibrangedash 4}
-  \field{title}{About the non-personal definite function of the {U}ralic 3rd
-  person possessive suffix}
-  \field{volume}{40}
-  \field{journaltitle}{Linguistica Uralica}
-  \field{year}{2004}
 \endentry
 
 \entry{laanest1997}{incollection}{}
@@ -6475,6 +6493,7 @@
   \strng{fullhash}{LA1}
   \field{labelyear}{1997}
   \field{sortinit}{L}
+  \field{booktitle}{Jazyki {R}ossijskoj {F}ederacii i sosednich gosudarstv}
   \field{pages}{376\bibrangedash 382}
   \field{subtitle}{{\.E}nciklopedija v trech tomach}
   \field{title}{Ižorskij jazyk}
@@ -6822,7 +6841,7 @@
   \field{booktitle}{{Finno-ugorskie i samodijskie jazyki}}
   \field{pages}{301\bibrangedash 315}
   \field{series}{Jazyki narodov SSSR}
-  \field{title}{{Komi-Permjak}}
+  \field{title}{{{{Komi}-Permjak}}}
   \field{volume}{3}
   \list{location}{1}{%
     {Moskva}%
@@ -6862,7 +6881,7 @@
   \field{booktitle}{Finno-ugorskie i samodijskie jazyki}
   \field{maintitle}{Jazyki narodov {SSSR}}
   \field{pages}{281\bibrangedash 299}
-  \field{title}{Komi-{Z}yrjanskij jazyk}
+  \field{title}{{{Komi}-{Z}}yrjanskij jazyk}
   \field{volume}{3}
   \list{location}{1}{%
     {Moskva}%
@@ -6892,6 +6911,7 @@
   \strng{fullhash}{MD1}
   \field{labelyear}{1992}
   \field{sortinit}{M}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{137\bibrangedash 248}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {S}cottish {G}aelic language}
@@ -6947,6 +6967,7 @@
   \strng{fullhash}{MZM1}
   \field{labelyear}{2000}
   \field{sortinit}{M}
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{306\bibrangedash 318}
   \field{series}{Jazyki narodov Rossii}
@@ -6983,6 +7004,7 @@
   \field{abstract}{%
   Магомедова Патимат Тураловна%
   }
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{319\bibrangedash 331}
   \field{series}{Jazyki narodov Rossii}
@@ -7016,6 +7038,7 @@
   \field{labelyear}{2000}
   \field{extrayear}{2}
   \field{sortinit}{M}
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{422\bibrangedash 435}
   \field{series}{Jazyki narodov Rossii}
@@ -7049,7 +7072,7 @@
   \strng{fullhash}{MPT1}
   \field{labelyear}{2004}
   \field{sortinit}{M}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{3}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Chamalal}
@@ -7077,7 +7100,7 @@
   \field{labelyear}{1997}
   \field{sortinit}{M}
   \field{series}{Descriptive grammars}
-  \field{title}{Persian}
+  \field{title}{{Persian}}
   \list{location}{1}{%
     {London}%
   }
@@ -7190,6 +7213,26 @@
   \field{year}{1999}
 \endentry
 
+\entry{mark1979}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Márk}{M.}%
+     {Tamás}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Noun phrase: Agreement, Attribution}
+  \strng{namehash}{MT1}
+  \strng{fullhash}{MT1}
+  \field{labelyear}{1979}
+  \field{sortinit}{M}
+  \field{pages}{208\bibrangedash 212}
+  \field{title}{Wortart und {K}ongruenz}
+  \field{volume}{43}
+  \field{journaltitle}{Finnisch-Ugrische Forschungen}
+  \field{year}{1979}
+\endentry
+
 \entry{martin-etal1969}{book}{}
   \name{author}{2}{}{%
     {{}%
@@ -7225,7 +7268,7 @@
      {}{}%
      {}{}}%
     {{}%
-     {{Ž}aucer}{�.}%
+     {Žaucer}{�.}%
      {Rok}{R.}%
      {}{}%
      {}{}}%
@@ -7252,7 +7295,7 @@
      {}{}%
      {}{}}%
     {{}%
-     {{Ž}aucer}{�.}%
+     {Žaucer}{�.}%
      {Rok}{R.}%
      {}{}%
      {}{}}%
@@ -7287,7 +7330,7 @@
   \field{labelyear}{1991}
   \field{sortinit}{M}
   \field{series}{Cambridge Language Surveys}
-  \field{title}{The {Indo-Aryan} languages}
+  \field{title}{The {{{Indo}-Aryan}} languages}
   \list{location}{1}{%
     {Cambridge}%
   }
@@ -7394,7 +7437,7 @@
   \field{sortinit}{M}
   \field{number}{421}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{{Low German}}
+  \field{title}{{Low {German}}}
   \list{location}{1}{%
     {München}%
   }
@@ -7534,6 +7577,7 @@
   agreement p.159 syntactic cases vs. semantic cases syntax-morphology
   interface typology of morphological processes%
   }
+  \field{booktitle}{Aspects of the theory of morphology}
   \field{number}{146}
   \field{series}{Trends in Linguistics. Studies and Monographs}
   \field{title}{Aspects of the theory of morphology}
@@ -7667,7 +7711,7 @@
   \field{sortinit}{M}
   \field{number}{31}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Saliba}
+  \field{title}{{Saliba}}
   \list{location}{1}{%
     {München}%
   }
@@ -7696,26 +7740,6 @@
     {München}%
   }
   \field{year}{2002}
-\endentry
-
-\entry{mark1979}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Márk}{M.}%
-     {Tamás}{T.}%
-     {}{}%
-     {}{}}%
-  }
-  \keyw{Noun phrase: Agreement, Attribution}
-  \strng{namehash}{MT1}
-  \strng{fullhash}{MT1}
-  \field{labelyear}{1979}
-  \field{sortinit}{M}
-  \field{pages}{208\bibrangedash 212}
-  \field{title}{Wortart und {K}ongruenz}
-  \field{volume}{43}
-  \field{journaltitle}{Finnisch-Ugrische Forschungen}
-  \field{year}{1979}
 \endentry
 
 \entry{nadzip1971}{book}{}
@@ -7843,6 +7867,7 @@
   \strng{fullhash}{NIV1}
   \field{labelyear}{2001}
   \field{sortinit}{N}
+  \field{booktitle}{Jazyki Rossijskoj Federacii i sosednich gosudarstv}
   \field{pages}{338\bibrangedash 342}
   \field{subtitle}{{\.E}nciklopedija v trech tomach}
   \field{title}{Negidal'skij jazyk}
@@ -7851,6 +7876,39 @@
     {Moskva}%
   }
   \field{year}{2001}
+\endentry
+
+\entry{nguyen1987}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ho{\`a} Nguy\~{{\^e}}n}{H.~N.~{\^e}.}%
+     {}{}%
+     {Đı̀nh}{�.}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Comrie}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \keyw{Language description}
+  \strng{namehash}{HNe�1}
+  \strng{fullhash}{HNe�1}
+  \field{labelyear}{1987}
+  \field{sortinit}{N}
+  \field{booktitle}{The world's major languages}
+  \field{pages}{777\bibrangedash 796}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{Vietnamese}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1987}
 \endentry
 
 \entry{nichols1986}{article}{}
@@ -7920,7 +7978,7 @@
   \field{labelyear}{1994}
   \field{extrayear}{1}
   \field{sortinit}{N}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{1\bibrangedash 77}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Chechen}
@@ -7955,10 +8013,10 @@
   \field{labelyear}{1994}
   \field{extrayear}{2}
   \field{sortinit}{N}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{79\bibrangedash 145}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{Ingush}
+  \field{title}{{Ingush}}
   \field{volume}{4}
   \list{location}{1}{%
     {Delmar}%
@@ -8026,7 +8084,7 @@
   \strng{fullhash}{NK1}
   \field{labelyear}{1933}
   \field{sortinit}{N}
-  \field{booktitle}{Liber semisaecularis {S}ocietatis {F}enno-{U}gricae}
+  \field{booktitle}{Liber semisaecularis {S}ocietatis {{F}enno-{{U}}}gricae}
   \field{number}{67}
   \field{pages}{296\bibrangedash 307}
   \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
@@ -8140,9 +8198,9 @@
   \strng{fullhash}{NITM1}
   \field{labelyear}{2001}
   \field{sortinit}{N}
+  \field{number}{22}
   \field{series}{Mouton Grammar Library}
-  \field{title}{A grammar of {U}dihe}
-  \field{volume}{22}
+  \field{title}{A grammar of {{U}}dihe}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -8171,6 +8229,7 @@
   \strng{fullhash}{NIA1}
   \field{labelyear}{1997}
   \field{sortinit}{N}
+  \field{booktitle}{Jazyki {R}ossijskoj {F}ederacii i sosednich gosudarstv}
   \field{pages}{267\bibrangedash 272}
   \field{subtitle}{{\.E}nciklopedija v trech tomach}
   \field{title}{Vodskij jazyk}
@@ -8220,7 +8279,7 @@
   \field{number}{5}
   \field{pages}{1\bibrangedash 9}
   \field{series}{Problemi di morfosintassi delle lingue slave}
-  \field{title}{Typology and genesis of the article in the {E}uropean
+  \field{title}{Typology and genesis of the article in the {{E}}uropean
   languages}
   \list{location}{1}{%
     {Firenze}%
@@ -8268,7 +8327,7 @@
   \strng{fullhash}{OML1}
   \field{labelyear}{2000}
   \field{sortinit}{O}
-  \field{title}{Kiel{\^a}opp{\^a}}
+  \field{title}{{Kiel}{\^a}opp{\^a}}
   \list{location}{1}{%
     {Inari}%
   }
@@ -8302,6 +8361,7 @@
   \strng{fullhash}{OTI1}
   \field{labelyear}{2001}
   \field{sortinit}{O}
+  \field{booktitle}{Jazyki Rossijskoj Federacii i sosednich gosudarstv}
   \field{pages}{413\bibrangedash 426}
   \field{subtitle}{{\.E}nciklopedija v trech tomach}
   \field{title}{Par'ja jazyk}
@@ -8402,7 +8462,7 @@
   \strng{fullhash}{PI1}
   \field{labelyear}{1962}
   \field{sortinit}{P}
-  \field{booktitle}{Commentationes {F}enno-{U}gricae in honorem {P}aavo
+  \field{booktitle}{Commentationes {{F}enno-{{U}}}gricae in honorem {P}aavo
   {R}avila}
   \field{number}{125}
   \field{pages}{399\bibrangedash 412}
@@ -8441,7 +8501,7 @@
   \field{booktitle}{The {N}orth {W}est {C}aucasian languages}
   \field{pages}{155\bibrangedash 260}
   \field{series}{The indigenous languages of the {C}aucasus}
-  \field{title}{West {C}ircassian ({A}dyghe: {A}bzakh dialect)}
+  \field{title}{{West} {C}ircassian ({A}dyghe: {A}bzakh dialect)}
   \field{volume}{2}
   \list{location}{1}{%
     {Delmar}%
@@ -8507,11 +8567,35 @@
   \field{sortinit}{P}
   \field{booktitle}{Compendium Linguarum Iranicarum}
   \field{pages}{417\bibrangedash 444}
-  \field{title}{Pamir languages}
+  \field{title}{{Pamir} languages}
   \list{location}{1}{%
     {Wiesbaden}%
   }
   \field{year}{1989}
+\endentry
+
+\entry{perez-bouza1996}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pérez~Bouza}{P.~B.}%
+     {José~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LINCOM Europa}%
+  }
+  \strng{namehash}{PBJA1}
+  \strng{fullhash}{PBJA1}
+  \field{labelyear}{1996}
+  \field{sortinit}{P}
+  \field{number}{70}
+  \field{series}{Languages of the World\slash{}Materials}
+  \field{title}{{El Gallego}}
+  \list{location}{1}{%
+    {München}%
+  }
+  \field{year}{1996}
 \endentry
 
 \entry{petrova1967}{book}{}
@@ -8587,7 +8671,7 @@
   \field{sortinit}{P}
   \field{number}{434}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Manx grammar}
+  \field{title}{{Manx} grammar}
   \list{location}{1}{%
     {München}%
   }
@@ -8645,7 +8729,7 @@
   the languages of Europe Leon Stassen Noun phrase conjunction: The
   coordinative and the comitative strategy%
   }
-  \field{booktitle}{Noun Phrase Structure in the Languages of {E}urope}
+  \field{booktitle}{{Noun} Phrase Structure in the Languages of {E}urope}
   \field{number}{20-7}
   \field{pages}{337\bibrangedash 395}
   \field{series}{Empirical Approaches to Language Typology/EUROTYP}
@@ -8700,6 +8784,7 @@
   \strng{fullhash}{PLA1}
   \field{labelyear}{1997}
   \field{sortinit}{P}
+  \field{booktitle}{Tjurkskie jazyki}
   \field{pages}{224\bibrangedash 235}
   \field{series}{Jazyki mira}
   \field{title}{Gagauzskij jazyk}
@@ -8874,30 +8959,6 @@
   \field{year}{1989}
 \endentry
 
-\entry{perez-bouza1996}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Pérez~Bouza}{P.~B.}%
-     {José~A.}{J.~A.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {LINCOM Europa}%
-  }
-  \strng{namehash}{PBJA1}
-  \strng{fullhash}{PBJA1}
-  \field{labelyear}{1996}
-  \field{sortinit}{P}
-  \field{number}{70}
-  \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{{El Gallego}}
-  \list{location}{1}{%
-    {München}%
-  }
-  \field{year}{1996}
-\endentry
-
 \entry{qvigstad1893}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -8970,7 +9031,8 @@
   \field{sortinit}{R}
   \field{pages}{105\bibrangedash 134, 585\bibrangedash 616, 964\bibrangedash
   994}
-  \field{title}{{Die Sprache von Südost-Bougainville, Deutsche Salomoninseln}}
+  \field{title}{{Die Sprache von {Südost-Bougainville}, Deutsche
+  Salomoninseln}}
   \field{volume}{7}
   \field{journaltitle}{Anthropos}
   \field{year}{1912}
@@ -9015,7 +9077,7 @@
   \field{number}{462}
   \field{series}{Languages of the World\slash{}Materials}
   \field{subtitle}{The modern {A}lemannic vernacular in and around {Z}urich}
-  \field{title}{Swiss {G}erman}
+  \field{title}{{Swiss} {G}erman}
   \list{location}{1}{%
     {München}%
   }
@@ -9062,7 +9124,7 @@
   \field{labelyear}{1985}
   \field{sortinit}{R}
   \field{subtitle}{Beschreibung, {T}exte, {W}örterverzeichnis}
-  \field{title}{Die {K}rongo-{S}prache ({N}ı̀in{\`o} {M}ó-dı̀)}
+  \field{title}{Die {{K}rongo-{S}}prache ({N}ı̀in{\`o} {M}ó-dı̀)}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -9147,12 +9209,12 @@
   \strng{fullhash}{RM2}
   \field{labelyear}{2001}
   \field{sortinit}{R}
-  \field{booktitle}{{Proceedings of the 18th Scandinavian Conference of
-  Linguistics}}
+  \field{booktitle}{{{Proceedings of the 18th Scandinavian Conference of
+  Linguistics}}}
   \field{number}{39:2}
   \field{pages}{168\bibrangedash 179}
   \field{series}{Travaux de l'Institut de Linguistique de Lund}
-  \field{title}{North {S}candinavian and {S}aami -- two morphosyntactic
+  \field{title}{{North} {S}candinavian and {S}aami -- two morphosyntactic
   parallels}
   \list{location}{1}{%
     {Lund}%
@@ -9248,7 +9310,7 @@
   \field{number}{9}
   \field{pages}{258\bibrangedash 274}
   \field{series}{Berliner Beiträge zur Skandinavistik}
-  \field{title}{Die {E}volution attributiver {M}arkierungen im
+  \field{title}{Die {{E}}volution attributiver {M}arkierungen im
   {N}ordgermanischen}
   \list{location}{1}{%
     {Berlin}%
@@ -9286,7 +9348,7 @@
   \field{sortinit}{R}
   \field{booksubtitle}{Livet i samernas bosättningsområde för ett tusen år
   sedan}
-  \field{booktitle}{Sápmi {Y1K}}
+  \field{booktitle}{Sápmi {{Y1K}}}
   \field{pages}{135\bibrangedash 150}
   \field{title}{On samiskans attributiva adjektivform}
   \list{location}{1}{%
@@ -9325,8 +9387,8 @@
   \field{booksubtitle}{A comparative handbook of lexical borrowing}
   \field{booktitle}{Loanwords in the world's languages}
   \field{pages}{384\bibrangedash 413}
-  \field{title}{Loanwords in {K}ildin {S}aami, a {U}ralic language of northern
-  {E}urope}
+  \field{title}{Loanwords in {K}ildin {S}aami, a {{U}}ralic language of
+  northern {E}urope}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -9350,7 +9412,7 @@
   }
   \field{note}{[{CD-ROM}]}
   \field{title}{Typology and evolution of adjective attribution marking in the
-  languages of northern {E}urasia}
+  languages of northern {{E}}urasia}
   \verb{url}
   \verb http://d-nb.info/1013503309/
   \endverb
@@ -9404,7 +9466,7 @@
   \strng{fullhash}{RD1}
   \field{labelyear}{2006}
   \field{sortinit}{R}
-  \field{title}{{From Proto-Indo-European to Proto-Germanic}}
+  \field{title}{{From {Proto-{Indo}-European} to Proto-Germanic}}
   \field{volume}{1: A Linguistic History of English}
   \list{location}{1}{%
     {Oxford}%
@@ -9562,7 +9624,7 @@
   \name{author}{1}{}{%
     {{}%
      {Saadiev}{S.}%
-     {{{\v S}}amseddin~M.}{{\v S}.~M.}%
+     {Šamseddin~M.}{�.~M.}%
      {}{}%
      {}{}}%
   }
@@ -9577,11 +9639,11 @@
     {Caravan Books}%
   }
   \keyw{Language description;Caucasus;Northern Eurasia;Europe}
-  \strng{namehash}{SSM1}
-  \strng{fullhash}{SSM1}
+  \strng{namehash}{S�M1}
+  \strng{fullhash}{S�M1}
   \field{labelyear}{1994}
   \field{sortinit}{S}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{407\bibrangedash 446}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Kryts}
@@ -9614,6 +9676,7 @@
   \strng{fullhash}{SPA1}
   \field{labelyear}{2000}
   \field{sortinit}{S}
+  \field{booktitle}{Jazyki {D}agestana}
   \field{number}{1}
   \field{pages}{275\bibrangedash 288}
   \field{series}{Jazyki narodov Rossii}
@@ -9647,7 +9710,7 @@
   \strng{fullhash}{SPA1}
   \field{labelyear}{2004}
   \field{sortinit}{S}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{69\bibrangedash 112}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Ghodoberi}
@@ -9681,6 +9744,7 @@
   \strng{fullhash}{ST1}
   \field{labelyear}{1998}
   \field{sortinit}{S}
+  \field{booktitle}{The {{U}}ralic languages}
   \field{pages}{516\bibrangedash 547}
   \field{series}{Routledge Language Family Series}
   \field{title}{Tundra {N}enets}
@@ -9715,7 +9779,7 @@
   \field{sortinit}{S}
   \field{booktitle}{Encyclopedia of the world's endangered languages}
   \field{pages}{211\bibrangedash 280}
-  \field{title}{Europe and {N}orth {A}sia}
+  \field{title}{{Europe} and {N}orth {A}sia}
   \list{location}{1}{%
     {London}%
   }
@@ -9739,7 +9803,7 @@
   \field{labelyear}{1988}
   \field{sortinit}{S}
   \field{series}{Croom Helm Descriptive Grammars}
-  \field{title}{Basque}
+  \field{title}{{Basque}}
   \list{location}{1}{%
     {London}%
   }
@@ -9803,7 +9867,7 @@
   }
   \field{number}{3}
   \field{pages}{605\bibrangedash 645}
-  \field{title}{A (phrasal) affix analysis of the {P}ersian {\it {E}zafe}}
+  \field{title}{A (phrasal) affix analysis of the {P}ersian {\it {{E}}zafe}}
   \field{volume}{43}
   \field{journaltitle}{Journal of Linguistics}
   \field{year}{2007}
@@ -9846,7 +9910,7 @@
   \field{booktitle}{Aspects of {I}ranian linguistics}
   \field{pages}{339\bibrangedash 361}
   \field{subtitle}{Evidence from {P}ersian and {K}urmanji {K}urdish}
-  \field{title}{The {E}zafe as a head-marking inflectional affix}
+  \field{title}{The {{E}}zafe as a head-marking inflectional affix}
   \list{location}{1}{%
     {Cambridge}%
   }
@@ -9890,6 +9954,7 @@
   \strng{fullhash}{SGHA1}
   \field{labelyear}{2003}
   \field{sortinit}{S}
+  \field{booktitle}{Dialektsyntaktiska studier av den nordiska nominalfrasen}
   \field{number}{22}
   \field{pages}{99\bibrangedash 111}
   \field{series}{Troms{ø}-studier i språkvitenskap}
@@ -9934,8 +9999,8 @@
   \strng{fullhash}{SM2}
   \field{labelyear}{2001}
   \field{sortinit}{S}
-  \field{booktitle}{Congressus Nonus Internationalis Fenno-Ugristarum
-  7.-13.8.2000. Tartu}
+  \field{booktitle}{Congressus Nonus Internationalis {Fenno-Ugristarum}
+  7.-13.8.2000. {Tartu}}
   \field{number}{5: Dissertationes sectionum: Linguistica II}
   \field{pages}{150\bibrangedash 157}
   \field{title}{Predicative and attributive forms of adjectives in {K}ola and
@@ -9998,6 +10063,32 @@
     {Dallas}%
   }
   \field{year}{1980}
+\endentry
+
+\entry{sauman1941}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Šaumjan}{�.}%
+     {R.~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nauka}%
+  }
+  \keyw{Caucasus;Language description;Europe}
+  \strng{namehash}{�RM1}
+  \strng{fullhash}{�RM1}
+  \field{labelyear}{1941}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{series}{Caucasica}
+  \field{subtitle}{S tekstami i slovarem}
+  \field{title}{Grammatičeskij očerk agul'skogo jazyka}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1941}
 \endentry
 
 \entry{schaarschmidt2004}{book}{}
@@ -10078,6 +10169,33 @@
   \field{number}{7}
   \field{series}{Studies in Diversity Linguistics}
   \field{title}{A grammar of {Y}akkha}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{schafer2015a}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schäfer}{S.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \verb{doi}
+  \verb 10.17169/langsci.b17.34
+  \endverb
+  \field{number}{2}
+  \field{series}{Textbooks in Language Sciences}
+  \field{title}{Einführung in die grammatische {B}eschreibung des {D}eutschen}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -10259,7 +10377,7 @@
   \field{sortinit}{S}
   \field{number}{380}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Northern {T}alysh}
+  \field{title}{{Northern} {T}alysh}
   \list{location}{1}{%
     {München}%
   }
@@ -10288,7 +10406,7 @@
   \strng{fullhash}{SFW1}
   \field{labelyear}{1994}
   \field{sortinit}{S}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{447\bibrangedash 514}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Udi}
@@ -10297,33 +10415,6 @@
     {Delmar}%
   }
   \field{year}{1994}
-\endentry
-
-\entry{schafer2015a}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Schäfer}{S.}%
-     {Roland}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Language Science Press}%
-  }
-  \strng{namehash}{SR1}
-  \strng{fullhash}{SR1}
-  \field{labelyear}{2015}
-  \field{sortinit}{S}
-  \verb{doi}
-  \verb 10.17169/langsci.b17.34
-  \endverb
-  \field{number}{2}
-  \field{series}{Textbooks in Language Sciences}
-  \field{title}{Einführung in die grammatische {B}eschreibung des {D}eutschen}
-  \list{location}{1}{%
-    {Berlin}%
-  }
-  \field{year}{2015}
 \endentry
 
 \entry{seegmiller1996}{book}{}
@@ -10344,7 +10435,7 @@
   \field{sortinit}{S}
   \field{number}{109}
   \field{series}{Languages of the World\slash{}Materials}
-  \field{title}{Karachay}
+  \field{title}{{Karachay}}
   \list{location}{1}{%
     {München}%
   }
@@ -10361,7 +10452,7 @@
   }
   \name{editor}{2}{}{%
     {{}%
-     {{Ž}irmunskij}{�.}%
+     {Žirmunskij}{�.}%
      {Viktor~M.}{V.~M.}%
      {}{}%
      {}{}}%
@@ -10444,7 +10535,7 @@
   \field{booktitle}{The {S}lavonic languages}
   \field{pages}{947\bibrangedash 998}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Ukrainian}
+  \field{title}{{Ukrainian}}
   \list{location}{1}{%
     {London}%
   }
@@ -10482,7 +10573,7 @@
   \field{booktitle}{The {S}lavonic languages}
   \field{pages}{533\bibrangedash 592}
   \field{series}{Routledge Language Family Series}
-  \field{title}{Slovak}
+  \field{title}{{Slovak}}
   \list{location}{1}{%
     {London}%
   }
@@ -10506,7 +10597,7 @@
   \field{sortinit}{S}
   \field{number}{267}
   \field{series}{Suomalais-Ugrilaisen Seuran Toimituksia}
-  \field{title}{Materials on {F}orest {E}nets, an indigenous language of
+  \field{title}{Materials on {F}orest {{E}}nets, an indigenous language of
   northern {S}iberia}
   \list{location}{1}{%
     {Helsinki}%
@@ -10541,6 +10632,7 @@
   \strng{fullhash}{SD3}
   \field{labelyear}{1998}
   \field{sortinit}{S}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
   \field{pages}{322\bibrangedash 344}
   \field{series}{Routledge Language Family Series}
   \field{title}{The {I}talic languages}
@@ -10548,6 +10640,69 @@
     {London}%
   }
   \field{year}{1998}
+\endentry
+
+\entry{siraliev-etal1971}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Širaliev}{�.}%
+     {M.~Š.}{M.~�.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sevort'an}{S.}%
+     {{\.E}.~V.}{{\.E}.~V.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {{\.E}lm}%
+  }
+  \keyw{Language description;Turkic;Northern Eurasia}
+  \strng{namehash}{�M�SEV1}
+  \strng{fullhash}{�M�SEV1}
+  \field{labelyear}{1971}
+  \field{sortinit}{S}
+  \field{title}{{Grammatika azerbajdžanskogo jazyka (fonetika, morfologija i
+  sintaksis)}}
+  \list{location}{1}{%
+    {Baku}%
+  }
+  \field{year}{1971}
+\endentry
+
+\entry{skold1954}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sköld}{S.}%
+     {Tryggve}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Strömbeck}{S.}%
+     {Dag}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Almqvist \& Wiksell}%
+  }
+  \keyw{Saami linguistics;Etymology;Contact linguistics;Historical
+  linguistics;Phonology;North Germanic}
+  \strng{namehash}{ST2}
+  \strng{fullhash}{ST2}
+  \field{labelyear}{1954}
+  \field{sortinit}{S}
+  \field{booktitle}{{Scandinavia at {Fenno-Ugrica}: {S}tudier tillägnade
+  Björn Collinder}}
+  \field{pages}{33\bibrangedash 48}
+  \field{title}{{Om uttalet av runan R och några nordiska lånord i lapskan}}
+  \list{location}{1}{%
+    {Stockholm}%
+  }
+  \field{year}{1954}
 \endentry
 
 \entry{skorik1960}{book}{}
@@ -10596,6 +10751,7 @@
   \strng{fullhash}{SE1}
   \field{labelyear}{2003}
   \field{sortinit}{S}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{102\bibrangedash 128}
   \field{series}{Routledge Language Family Series}
   \field{title}{Buryat}
@@ -10603,40 +10759,6 @@
     {London}%
   }
   \field{year}{2003}
-\endentry
-
-\entry{skold1954}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Sköld}{S.}%
-     {Tryggve}{T.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Strömbeck}{S.}%
-     {Dag}{D.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Almqvist \& Wiksell}%
-  }
-  \keyw{Saami linguistics;Etymology;Contact linguistics;Historical
-  linguistics;Phonology;North Germanic}
-  \strng{namehash}{ST2}
-  \strng{fullhash}{ST2}
-  \field{labelyear}{1954}
-  \field{sortinit}{S}
-  \field{booktitle}{{Scandinavia at Fenno-Ugrica: studier tillägnade Björn
-  Collinder}}
-  \field{pages}{33\bibrangedash 48}
-  \field{title}{{Om uttalet av runan R och några nordiska lånord i lapskan}}
-  \list{location}{1}{%
-    {Stockholm}%
-  }
-  \field{year}{1954}
 \endentry
 
 \entry{slater2003}{incollection}{}
@@ -10661,6 +10783,7 @@
   \strng{fullhash}{SKW1}
   \field{labelyear}{2003}
   \field{sortinit}{S}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{307\bibrangedash 324}
   \field{series}{Routledge Language Family Series}
   \field{title}{Mangghuer}
@@ -10685,7 +10808,7 @@
   \strng{fullhash}{SIP1}
   \field{labelyear}{2010}
   \field{sortinit}{S}
-  \field{title}{\.Eneckij jazyk}
+  \field{title}{\. {E}neckij jazyk}
   \list{location}{1}{%
     {Saint Petersburg}%
   }
@@ -10791,12 +10914,12 @@
   \strng{fullhash}{SD4}
   \field{labelyear}{2005}
   \field{sortinit}{S}
-  \field{booktitle}{Linguistic Convergence and Areal Diffusion: Case studies
+  \field{booktitle}{Linguistic Convergence and Areal Diffusion: {C}ase studies
   from {I}ranian, {S}emitic and {T}urkic}
   \field{number}{41:1}
   \field{pages}{35\bibrangedash 63}
   \field{series}{Forum for Modern Language Studies}
-  \field{title}{Iranian as buffer zone between the universal typologies of
+  \field{title}{{Iranian} as buffer zone between the universal typologies of
   {T}urkic and {S}emitic}
   \list{location}{1}{%
     {London}%
@@ -10978,6 +11101,8 @@
   \strng{fullhash}{SOP1}
   \field{labelyear}{1968}
   \field{sortinit}{S}
+  \field{booktitle}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
   \field{number}{5}
   \field{pages}{53\bibrangedash 67}
   \field{series}{Jazyki narodov SSSR}
@@ -11037,6 +11162,7 @@
   \strng{fullhash}{SJO1}
   \field{labelyear}{2003}
   \field{sortinit}{S}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{154\bibrangedash 176}
   \field{series}{Routledge Language Family Series}
   \field{title}{Khalkha}
@@ -11118,7 +11244,7 @@
   \strng{fullhash}{TBB1}
   \field{labelyear}{2004}
   \field{sortinit}{T}
-  \field{booktitle}{The {N}orth {E}ast {C}aucasian languages 2}
+  \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
   \field{pages}{347\bibrangedash 419}
   \field{series}{The indigenous languages of the {C}aucasus}
   \field{title}{Tsakhur}
@@ -11152,11 +11278,11 @@
   \strng{fullhash}{TSG1}
   \field{labelyear}{1996}
   \field{sortinit}{T}
-  \field{booksubtitle}{II. Attributives}
-  \field{booktitle}{Godoberi}
+  \field{booktitle}{{Godoberi}}
   \field{number}{2}
   \field{pages}{20\bibrangedash 35}
   \field{series}{LINCOM Studies in Caucasian Linguistics}
+  \field{title}{II. Attributives}
   \list{location}{1}{%
     {München}%
   }
@@ -11180,7 +11306,7 @@
   ?Saami%
   }
   \field{pages}{7\bibrangedash 31}
-  \field{title}{On the foreign contacts of the {U}ralic languages}
+  \field{title}{On the foreign contacts of the {{U}}ralic languages}
   \field{volume}{27}
   \field{journaltitle}{Ural-Altaische Jahrbücher}
   \field{year}{1955}
@@ -11204,7 +11330,7 @@
   \field{sortinit}{T}
   \field{number}{17}
   \field{series}{Uralic and Altaic Series}
-  \field{title}{Structural Tendencies in {U}ralic Languages}
+  \field{title}{Structural Tendencies in {{U}}ralic Languages}
   \list{location}{1}{%
     {Bloomington}%
   }
@@ -11257,6 +11383,7 @@
   \strng{fullhash}{TE1}
   \field{labelyear}{1992}
   \field{sortinit}{T}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{371\bibrangedash 452}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {B}reton language}
@@ -11289,11 +11416,11 @@
   \strng{fullhash}{TYG1}
   \field{labelyear}{1998}
   \field{sortinit}{T}
-  \field{booktitle}{Constituent order in the languages of {E}urope}
+  \field{booktitle}{Constituent order in the languages of {{E}}urope}
   \field{number}{20:1}
   \field{pages}{649\bibrangedash 679}
   \field{series}{Empirical Approaches to Language Typology}
-  \field{title}{Word order variation in some {SOV} languages of {E}urope}
+  \field{title}{Word order variation in some {{SOV}} languages of {{E}}urope}
   \list{location}{1}{%
     {Berlin}%
   }
@@ -11323,6 +11450,7 @@
   \field{labelyear}{1992}
   \field{extrayear}{1}
   \field{sortinit}{T}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{346\bibrangedash 370}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {C}ornish language}
@@ -11355,6 +11483,7 @@
   \field{labelyear}{1992}
   \field{extrayear}{2}
   \field{sortinit}{T}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{251\bibrangedash 345}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {W}elsh language}
@@ -11386,6 +11515,7 @@
   \strng{fullhash}{TRL1}
   \field{labelyear}{1992}
   \field{sortinit}{T}
+  \field{booktitle}{The {C}eltic languages}
   \field{pages}{100\bibrangedash 136}
   \field{series}{Cambridge Language Surveys}
   \field{title}{The {M}anx language}
@@ -11442,7 +11572,7 @@
   \strng{fullhash}{TPM1}
   \field{labelyear}{1985}
   \field{sortinit}{T}
-  \field{title}{Frisian reference grammar}
+  \field{title}{{Frisian} reference grammar}
   \list{location}{1}{%
     {Dordrecht}%
   }
@@ -11519,8 +11649,8 @@
   \strng{fullhash}{TP1}
   \field{labelyear}{1966}
   \field{sortinit}{T}
-  \field{booktitle}{{Prof. dr. Antonı́nu Dostálovi, DrSc., k 60.
-  narozeninám}}
+  \field{booktitle}{{Prof. {D}r. {A}ntonı́nu Dostálovi, {DrSc}., k 60.
+  {N}arozeninám}}
   \field{number}{10}
   \field{pages}{35\bibrangedash 38}
   \field{series}{Bulletin {\'U}stavu ruského jazyka a literatury}
@@ -11553,6 +11683,7 @@
   \strng{fullhash}{TT1}
   \field{labelyear}{2003}
   \field{sortinit}{T}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{129\bibrangedash 153}
   \field{series}{Routledge Language Family Series}
   \field{title}{Dagur}
@@ -11660,61 +11791,6 @@
     {Novosibirsk}%
   }
   \field{year}{1985}
-\endentry
-
-\entry{sauman1941}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{{\v S}}aumjan}{{\v S}.}%
-     {R.~M.}{R.~M.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Nauka}%
-  }
-  \keyw{Caucasus;Language description;Europe}
-  \strng{namehash}{SRM1}
-  \strng{fullhash}{SRM1}
-  \field{labelyear}{1941}
-  \field{sortinit}{V}
-  \field{number}{2}
-  \field{series}{Caucasica}
-  \field{subtitle}{S tekstami i slovarem}
-  \field{title}{Grammatičeskij očerk agul'skogo jazyka}
-  \list{location}{1}{%
-    {Moskva}%
-  }
-  \field{year}{1941}
-\endentry
-
-\entry{siraliev-etal1971}{book}{}
-  \name{author}{2}{}{%
-    {{}%
-     {{{\v S}}iraliev}{{\v S}.}%
-     {M.~{{\v S}}.}{M.~{\v S}.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Sevort'an}{S.}%
-     {{\.E}.~V.}{{\.E}.~V.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {{\.E}lm}%
-  }
-  \keyw{Language description;Turkic;Northern Eurasia}
-  \strng{namehash}{SMSSEV1}
-  \strng{fullhash}{SMSSEV1}
-  \field{labelyear}{1971}
-  \field{sortinit}{V}
-  \field{title}{{Grammatika azerbajdžanskogo jazyka (fonetika, morfologija i
-  sintaksis)}}
-  \list{location}{1}{%
-    {Baku}%
-  }
-  \field{year}{1971}
 \endentry
 
 \entry{vajda2004}{book}{}
@@ -11894,6 +11970,7 @@
   \strng{fullhash}{VTR1}
   \field{labelyear}{1998}
   \field{sortinit}{V}
+  \field{booktitle}{The {{U}}ralic languages}
   \field{pages}{115\bibrangedash 148}
   \field{series}{Routledge Language Family Series}
   \field{title}{Estonian}
@@ -11988,10 +12065,11 @@
   \strng{fullhash}{WC1}
   \field{labelyear}{1998}
   \field{sortinit}{W}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
   \field{pages}{25\bibrangedash 73}
   \field{series}{Routledge Language Family Series}
   \field{subtitle}{Comparison and reconstruction}
-  \field{title}{Proto-{I}ndo-{E}uropean}
+  \field{title}{{Proto-{I}ndo-{{E}}}uropean}
   \list{location}{1}{%
     {London}%
   }
@@ -12020,6 +12098,7 @@
   \strng{fullhash}{WM1}
   \field{labelyear}{2003}
   \field{sortinit}{W}
+  \field{booktitle}{The {M}ongolic languages}
   \field{pages}{248\bibrangedash 264}
   \field{series}{Routledge Language Family Series}
   \field{title}{Moghol}
@@ -12291,11 +12370,11 @@
   \strng{fullhash}{YAO1}
   \field{labelyear}{2003}
   \field{sortinit}{Y}
-  \field{booktitle}{The {S}ino-{T}ibetan languages}
+  \field{booktitle}{The {{S}ino-{T}}ibetan languages}
   \field{pages}{84\bibrangedash 125}
   \field{series}{Routledge Language Family Series}
   \field{subtitle}{Grammar}
-  \field{title}{Chinese dialects}
+  \field{title}{{Chinese} dialects}
   \list{location}{1}{%
     {London}%
   }
@@ -12369,7 +12448,7 @@
   \strng{fullhash}{ZRAKMN1}
   \field{labelyear}{1964}
   \field{sortinit}{Z}
-  \field{title}{Grammatika mordovskich (mok šanskogo i {\.e}rzjanskogo)
+  \field{title}{Grammatika mordovskich (mok šanskogo i {\. {E}}rzjanskogo)
   jazykov}
   \list{location}{1}{%
     {Moskva}%
@@ -12397,6 +12476,30 @@
   \field{year}{2001}
 \endentry
 
+\entry{zirkov1955}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Žirkov}{�.}%
+     {Lev~I.}{L.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nauka}%
+  }
+  \keyw{Caucasus;Europe;Language description}
+  \strng{namehash}{�LI1}
+  \strng{fullhash}{�LI1}
+  \field{labelyear}{1955}
+  \field{sortinit}{Z}
+  \field{subtitle}{Fonetika i morfologija}
+  \field{title}{Lakskij jazyk}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1955}
+\endentry
+
 \entry{zlatic1997}{thesis}{}
   \name{author}{1}{}{%
     {{}%
@@ -12409,7 +12512,7 @@
   \strng{fullhash}{ZL1}
   \field{labelyear}{1997}
   \field{sortinit}{Z}
-  \field{title}{The Structure of the {S}erbian Noun Phrase}
+  \field{title}{The Structure of the {S}erbian {Noun} Phrase}
   \list{location}{1}{%
     {Austin}%
   }
@@ -12417,6 +12520,39 @@
     {The University of Texas at Austin}%
   }
   \field{type}{phdthesis}
+  \field{year}{1997}
+\endentry
+
+\entry{zukova1997}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Žukova}{�.}%
+     {Alevtina~N.}{A.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Jarceva}{J.}%
+     {Viktorija~N.}{V.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indrik}%
+  }
+  \keyw{Language description;Northern Eurasia}
+  \strng{namehash}{�AN1}
+  \strng{fullhash}{�AN1}
+  \field{labelyear}{1997}
+  \field{sortinit}{Z}
+  \field{booktitle}{Paleoaziatskie jazyki}
+  \field{pages}{39\bibrangedash 53}
+  \field{series}{Jazyki mira}
+  \field{title}{Korjakskij jazyk}
+  \list{location}{1}{%
+    {Moskva}%
+  }
   \field{year}{1997}
 \endentry
 
@@ -12458,7 +12594,7 @@
   \field{labelyear}{2003}
   \field{sortinit}{Z}
   \field{subtitle}{A {S}outhern {N}ilotic language of {K}enya}
-  \field{title}{The phonology of {E}ndo}
+  \field{title}{The phonology of {{E}}ndo}
   \list{location}{1}{%
     {Utrecht}%
   }
@@ -12467,87 +12603,6 @@
   }
   \field{type}{phdthesis}
   \field{year}{2003}
-\endentry
-
-\entry{astrom1893}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Åström}{�.}%
-     {Per}{P.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Kungliga Gustav Adolfs Akademien för svensk folkkultur}%
-  }
-  \strng{namehash}{�P1}
-  \strng{fullhash}{�P1}
-  \field{labelyear}{1893}
-  \field{sortinit}{�}
-  \field{number}{13:2}
-  \field{series}{Svenska landsmål och svenskt folkliv}
-  \field{title}{Degerforsmålets formlära}
-  \list{location}{1}{%
-    {Stockholm}%
-  }
-  \field{year}{1893}
-\endentry
-
-\entry{zirkov1955}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Ž}irkov}{�.}%
-     {Lev~I.}{L.~I.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Nauka}%
-  }
-  \keyw{Caucasus;Europe;Language description}
-  \strng{namehash}{�LI1}
-  \strng{fullhash}{�LI1}
-  \field{labelyear}{1955}
-  \field{sortinit}{�}
-  \field{subtitle}{Fonetika i morfologija}
-  \field{title}{Lakskij jazyk}
-  \list{location}{1}{%
-    {Moskva}%
-  }
-  \field{year}{1955}
-\endentry
-
-\entry{zukova1997}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Ž}ukova}{�.}%
-     {Alevtina~N.}{A.~N.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Jarceva}{J.}%
-     {Viktorija~N.}{V.~N.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Indrik}%
-  }
-  \keyw{Language description;Northern Eurasia}
-  \strng{namehash}{�AN1}
-  \strng{fullhash}{�AN1}
-  \field{labelyear}{1997}
-  \field{sortinit}{�}
-  \field{booktitle}{Paleoaziatskie jazyki}
-  \field{pages}{39\bibrangedash 53}
-  \field{series}{Jazyki mira}
-  \field{title}{Korjakskij jazyk}
-  \list{location}{1}{%
-    {Moskva}%
-  }
-  \field{year}{1997}
 \endentry
 
 \lossort
