@@ -10,13 +10,13 @@
 % Everything following a % is ignored
 % Some lines start with %. Remove the % to include them
 
-\documentclass[output=covercreatespace            % long|short|inprep              
-%  	        ,draftmode
+\documentclass[output=book            % long|short|inprep              
+%  	       	 ,draftmode
 	        ,table
-	        ,modfonts
 		,nonflat
+		,modfonts
 %	        ,newtxmath%ungeklärtes Problem
-% 		,biblatexbackend=biber
+%		,biblatexbackend=biber
 		  ]{langsci/langscibook}  
 		  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -33,7 +33,7 @@
 \usepackage{localpackages}
 \usepackage{localhyphenation}
 \usepackage{localcommands}
-\addbibresource{localbibliography.bib}    
+\addbibresource{sorted.bib}    
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%                                              %%%
@@ -50,5 +50,73 @@
 
 \frontmatter%!!check the order of chapters with the guidelines
 
+\currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 \tableofcontents      
+
+\include{chapters/preface}%not finished
+
+\include{chapters/abbreviations}
+
+\mainmatter         
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Chapters                  %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Preliminaries}\label{part:theory} %\include{chapters/part-theory}
+\include{chapters/chap-intro}
+\include{chapters/chap-np-adj}
+\include{chapters/chap-interface}
+%%%
+\part{Typology} \label{part typ} %\include{chapters/part-typology}
+\include{chapters/chap-typology-of}
+\include{chapters/chap-polyfunctionality}
+%%%
+\part{Synchrony} \label{part synchr} %\include{chapters/part-synchrony}
+\include{chapters/chap-syn-introduction}
+\include{chapters/chap-lg-nea}
+\include{chapters/chap-areal}
+% %%
+\part{Diachrony} \label{part diachr} %\include{chapters/part-diachrony}
+\include{chapters/chap-evolution-nea}
+\include{chapters/chap-areal-typ}
+%%%
+\part{Conclusion}\label{part:concl} %\include{chapters/part-concl}
+\include{chapters/chap-results}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%                                              %%%
+%%%             Backmatter                       %%%
+%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%LATEX: How do I insert the proper titles for the Appendix and the List of references in the ToC?
+\phantomsection%this allows hyperlink in ToC to work 
+\backmatter
+\newpage
+\phantomsection
+\include{chapters/appendix}%completed, except maps
+\clearpage
+
+{\sloppy
+\phantomsection%this allows hyperlink in ToC to work 
+\printbibliography[heading=references] 
+\clearpage
+   
+\addcontentsline{toc}{chapter}{Index} 
+
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Name index}
+\ohead{Name index} 
+\printindex
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Language index} 
+\ohead{Language index} 
+\printindex[lan]
+  
+\phantomsection%this allows hyperlink in ToC to work
+\addcontentsline{toc}{section}{Subject index}%started, not completed
+\ohead{Subject index} 
+\printindex[sbj]
+}
 \end{document} 
