@@ -57,6 +57,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{AIC1}
   \strng{fullhash}{AIC1}
   \field{labelyear}{2000}
@@ -73,6 +74,30 @@
     {Machačkala}%
   }
   \field{year}{2000}
+\endentry
+
+\entry{abondolo1998a}{collection}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Abondolo}{A.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{AD1}
+  \strng{fullhash}{AD1}
+  \field{labelyear}{1998}
+  \field{sortinit}{A}
+  \field{booktitle}{The {{U}}ralic languages}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{The {{U}}ralic languages}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1998}
 \endentry
 
 \entry{ajello1998}{incollection}{}
@@ -98,6 +123,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{ramatEtAl1998a}
   \strng{namehash}{AR1}
   \strng{fullhash}{AR1}
   \field{labelyear}{1998}
@@ -131,7 +157,7 @@
   \field{abstract}{%
   possessive article contrastive-deictic declension%
   }
-  \field{subtitle}{Ras širennyj doklad na {III} {M}eždunarodnom {K}ongresse
+  \field{subtitle}{Rasširennyj doklad na {III} {M}eždunarodnom {K}ongresse
   {F}inno-{U}grovedov v g. {T}alline}
   \field{title}{Vydelitel'no-ukazatel'naja kategorija v udmurtskom jazyke}
   \list{location}{1}{%
@@ -297,6 +323,50 @@
     {Hamburg}%
   }
   \field{year}{1993}
+\endentry
+
+\entry{alpatovEtAl1997a}{collection}{}
+  \name{editor}{4}{}{%
+    {{}%
+     {Alpatov}{A.}%
+     {Vladimir~M.}{V.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kormušin}{K.}%
+     {Igor'~V.}{I.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pjurbeev}{P.}%
+     {Grigorij~C.}{G.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Romanova}{R.}%
+     {Ol'ga~I.}{O.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indrik}%
+  }
+  \strng{namehash}{AVM+1}
+  \strng{fullhash}{AVMKIVPGCROI1}
+  \field{labelyear}{1997}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  ЯХОНТОВА, НАТАЛИЯ СЕРГЕЕВНА%
+  }
+  \field{booktitle}{{Mongol}'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
+  {J}aponskij jazyk. {K}orejskij jazyk}
+  \field{series}{Jazyki mira}
+  \field{title}{{Mongol}'skie jazyki. {T}unguso-man'\-čžur\-skie jazyki.
+  {J}aponskij jazyk. {K}orejskij jazyk}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1997}
 \endentry
 
 \entry{anderson1998}{book}{}
@@ -577,6 +647,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vinogradovEtAl1968a}
   \strng{namehash}{AVA1}
   \strng{fullhash}{AVA1}
   \field{labelyear}{1968}
@@ -644,6 +715,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vinogradovEtAl1968a}
   \strng{namehash}{AVALEP1}
   \strng{fullhash}{AVALEP1}
   \field{labelyear}{1968}
@@ -702,6 +774,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{ACG1}
   \strng{fullhash}{ACG1}
   \field{labelyear}{2000}
@@ -816,7 +889,7 @@
   }
   \name{editor}{1}{}{%
     {{}%
-     {Teni~šev}{T.~�.}%
+     {Tenišev}{T.}%
      {{\.E}dgem~R.}{{\.E}.~R.}%
      {}{}%
      {}{}}%
@@ -824,6 +897,7 @@
   \list{publisher}{1}{%
     {Indrik}%
   }
+  \strng{crossref}{tenisev1997a}
   \strng{namehash}{BNA1}
   \strng{fullhash}{BNA1}
   \field{labelyear}{1997}
@@ -861,6 +935,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vonogradovEtAl2001a}
   \strng{namehash}{BNA1}
   \strng{fullhash}{BNA1}
   \field{labelyear}{2001}
@@ -1065,7 +1140,7 @@
   \field{sortinit}{B}
   \field{title}{Sydsamisk grammatikk}
   \list{location}{1}{%
-    {Kárá šjohka}%
+    {Kárášjohka}%
   }
   \field{year}{1994}
 \endentry
@@ -1348,6 +1423,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{B�1}
   \strng{fullhash}{B�1}
   \field{labelyear}{2003}
@@ -1380,6 +1456,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{BU1}
   \strng{fullhash}{BU1}
   \field{labelyear}{2003}
@@ -1417,6 +1494,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{johansonEtAl1998a}
   \strng{namehash}{BH1}
   \strng{fullhash}{BH1}
   \field{labelyear}{1998}
@@ -2004,8 +2082,8 @@
      {}{}%
      {}{}}%
     {{}%
-     {šin}{�.}%
-     {Igor' V.~Kormu}{I.~V.~K.}%
+     {Kormušin}{K.}%
+     {Igor'~V.}{I.~V.}%
      {}{}%
      {}{}}%
     {{}%
@@ -2022,6 +2100,7 @@
   \list{publisher}{1}{%
     {Indrik}%
   }
+  \strng{crossref}{alpatovEtAl1997a}
   \strng{namehash}{CVI1}
   \strng{fullhash}{CVI1}
   \field{labelyear}{1997}
@@ -2063,6 +2142,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{johansonEtAl1998a}
   \strng{namehash}{CL2}
   \strng{fullhash}{CL2}
   \field{labelyear}{1998}
@@ -2211,6 +2291,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{ramatEtAl1998a}
   \strng{namehash}{CB1}
   \strng{fullhash}{CB1}
   \field{labelyear}{1998}
@@ -2406,7 +2487,7 @@
 \entry{csucs1990}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Cs{\'u}cs}{C.}%
+     {Csúcs}{C.}%
      {Sándor}{S.}%
      {}{}%
      {}{}}%
@@ -2546,7 +2627,7 @@
 \entry{deseriev1959}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {De~šeriev}{D.~�.}%
+     {Dešeriev}{D.}%
      {Junus~D.}{J.~D.}%
      {}{}%
      {}{}}%
@@ -2555,8 +2636,8 @@
     {Nauka}%
   }
   \keyw{Language description;Caucasus;Northern Eurasia;Europe}
-  \strng{namehash}{D�JD1}
-  \strng{fullhash}{D�JD1}
+  \strng{namehash}{DJD1}
+  \strng{fullhash}{DJD1}
   \field{labelyear}{1959}
   \field{sortinit}{D}
   \field{title}{Grammatika chinalugskogo jazyka}
@@ -2760,6 +2841,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{ramatEtAl1998a}
   \strng{namehash}{DS1}
   \strng{fullhash}{DS1}
   \field{labelyear}{1998}
@@ -2815,6 +2897,7 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{DCO1}
   \strng{fullhash}{DCO1}
   \field{labelyear}{1992}
@@ -2863,7 +2946,7 @@
   }
   \name{editor}{1}{}{%
     {{}%
-     {Teni~šev}{T.~�.}%
+     {Tenišev}{T.}%
      {{\.E}dgem~R.}{{\.E}.~R.}%
      {}{}%
      {}{}}%
@@ -2871,6 +2954,7 @@
   \list{publisher}{1}{%
     {Indrik}%
   }
+  \strng{crossref}{tenisev1997a}
   \strng{namehash}{DGI1}
   \strng{fullhash}{DGI1}
   \field{labelyear}{1997}
@@ -3036,6 +3120,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{DNS1}
   \strng{fullhash}{DNS1}
   \field{labelyear}{2000}
@@ -3304,6 +3389,31 @@
     {Berlin}%
   }
   \field{year}{1937}
+\endentry
+
+\entry{gamzatov2000}{collection}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Gamzatov}{G.}%
+     {Gadži~G.}{G.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IJALII}%
+  }
+  \strng{namehash}{GGG1}
+  \strng{fullhash}{GGG1}
+  \field{labelyear}{2000}
+  \field{sortinit}{G}
+  \field{booktitle}{Jazyki {D}agestana}
+  \field{number}{1}
+  \field{series}{Jazyki narodov Rossii}
+  \field{title}{Jazyki {D}agestana}
+  \list{location}{1}{%
+    {Machačkala}%
+  }
+  \field{year}{2000}
 \endentry
 
 \entry{gartner1998}{book}{}
@@ -3644,7 +3754,7 @@
 \entry{hajdu1996}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Hajd{\'u}}{H.}%
+     {Hajdú}{H.}%
      {Péter}{P.}%
      {}{}%
      {}{}}%
@@ -4137,6 +4247,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{abondolo1998a}
   \strng{namehash}{HE1}
   \strng{fullhash}{HE1}
   \field{labelyear}{1998}
@@ -4170,6 +4281,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{abondolo1998a}
   \strng{namehash}{HE1}
   \strng{fullhash}{HE1}
   \field{labelyear}{1998}
@@ -4447,6 +4559,7 @@
   \list{publisher}{1}{%
     {Novus}%
   }
+  \strng{crossref}{vangsnesEtAl2003a}
   \strng{namehash}{HASG1}
   \strng{fullhash}{HASG1}
   \field{labelyear}{2003}
@@ -4691,7 +4804,7 @@
   \name{author}{1}{}{%
     {{}%
      {Isaev}{I.}%
-     {Magomed šapi~A.}{M.~�.~A.}%
+     {Magomedšapi~A.}{M.~A.}%
      {}{}%
      {}{}}%
   }
@@ -4706,8 +4819,8 @@
     {Caravan Books}%
   }
   \keyw{Language description}
-  \strng{namehash}{IM�A1}
-  \strng{fullhash}{IM�A1}
+  \strng{namehash}{IMA1}
+  \strng{fullhash}{IMA1}
   \field{labelyear}{2004}
   \field{sortinit}{I}
   \field{booktitle}{The {N}orth {{E}}ast {C}aucasian languages 2}
@@ -4799,8 +4912,8 @@
      {}{}%
      {}{}}%
     {{}%
-     {šin}{�.}%
-     {Igor' V.~Kormu}{I.~V.~K.}%
+     {Kormušin}{K.}%
+     {Igor'~V.}{I.~V.}%
      {}{}%
      {}{}}%
     {{}%
@@ -4817,6 +4930,7 @@
   \list{publisher}{1}{%
     {Indrik}%
   }
+  \strng{crossref}{alpatovEtAl1997a}
   \strng{namehash}{JNS1}
   \strng{fullhash}{JNS1}
   \field{labelyear}{1997}
@@ -4947,7 +5061,7 @@
 \entry{janas1976}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Jana~š}{J.~�.}%
+     {Janaš}{J.}%
      {P{\v e}tr}{P.}%
      {}{}%
      {}{}}%
@@ -4956,8 +5070,8 @@
     {Domowina}%
   }
   \keyw{Language description}
-  \strng{namehash}{J�P1}
-  \strng{fullhash}{J�P1}
+  \strng{namehash}{JP1}
+  \strng{fullhash}{JP1}
   \field{labelyear}{1976}
   \field{sortinit}{J}
   \field{subtitle}{Für den {G}ebrauch der {S}orbischen {E}rweiterten
@@ -5037,14 +5151,41 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{JJ1}
   \strng{fullhash}{JJ1}
   \field{labelyear}{2003}
+  \field{extrayear}{1}
   \field{sortinit}{J}
   \field{booktitle}{The {M}ongolic languages}
   \field{pages}{1\bibrangedash 29}
   \field{series}{Routledge Language Family Series}
   \field{title}{{Proto-{M}}ongolic}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{janhunen2003a}{collection}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Janhunen}{J.}%
+     {Juha}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{JJ1}
+  \strng{fullhash}{JJ1}
+  \field{labelyear}{2003}
+  \field{extrayear}{2}
+  \field{sortinit}{J}
+  \field{booktitle}{The {M}ongolic languages}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{The {M}ongolic languages}
   \list{location}{1}{%
     {London}%
   }
@@ -5076,6 +5217,31 @@
   \field{year}{2005}
 \endentry
 
+\entry{jarceva1997}{collection}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Jarceva}{J.}%
+     {Viktorija~N.}{V.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nauka}%
+  }
+  \strng{namehash}{JVN1}
+  \strng{fullhash}{JVN1}
+  \field{labelyear}{1997}
+  \field{sortinit}{J}
+  \field{booktitle}{Jazyki {R}ossijskoj {F}ederacii i sosednich gosudarstv}
+  \field{subtitle}{{\.E}nciklopedija v trech tomach}
+  \field{title}{Jazyki {R}ossijskoj {F}ederacii i sosednich gosudarstv}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1997}
+\endentry
+
 \entry{johanson2002a}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -5096,6 +5262,35 @@
     {Richmond}%
   }
   \field{year}{2002}
+\endentry
+
+\entry{johansonEtAl1998a}{collection}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Johanson}{J.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Csató}{C.}%
+     {Éva~Ágnes}{�.~�.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{JLC��1}
+  \strng{fullhash}{JLC��1}
+  \field{labelyear}{1998}
+  \field{sortinit}{J}
+  \field{booktitle}{The {T}urkic languages}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{The {T}urkic languages}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1998}
 \endentry
 
 \entry{jones1997}{incollection}{}
@@ -5273,6 +5468,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{KKS1}
   \strng{fullhash}{KKS1}
   \field{labelyear}{2000}
@@ -5314,6 +5510,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vinogradovEtAl1968a}
   \strng{namehash}{KAA1}
   \strng{fullhash}{KAA1}
   \field{labelyear}{1968}
@@ -6053,7 +6250,7 @@
 \entry{kormusin2005}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Kormu~šin}{K.~�.}%
+     {Kormušin}{K.}%
      {Igor'~V.}{I.~V.}%
      {}{}%
      {}{}}%
@@ -6073,8 +6270,8 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
-  \strng{namehash}{K�IV1}
-  \strng{fullhash}{K�IV1}
+  \strng{namehash}{KIV1}
+  \strng{fullhash}{KIV1}
   \field{labelyear}{2005}
   \field{sortinit}{K}
   \field{booksubtitle}{{\.E}nciklopedija v trech tomach}
@@ -6274,7 +6471,7 @@
   \field{labelyear}{2007}
   \field{sortinit}{K}
   \field{booktitle}{{Tipologija jazyka i teorija grammatiki: {M}aterialy
-  meždunarodnoj konferencii posvja ščennoj 100-letiju so dnja roždenija S.
+  meždunarodnoj konferencii posvjaščennoj 100-letiju so dnja roždenija S.
   {D}. {K}acnel'sona}}
   \field{pages}{115\bibrangedash 117}
   \field{title}{{Substantivacija v jenisejskich jazykach (na materiale
@@ -6489,6 +6686,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{jarceva1997}
   \strng{namehash}{LA1}
   \strng{fullhash}{LA1}
   \field{labelyear}{1997}
@@ -6836,7 +7034,6 @@
   \strng{namehash}{LVI1}
   \strng{fullhash}{LVI1}
   \field{labelyear}{1966}
-  \field{extrayear}{1}
   \field{sortinit}{L}
   \field{booktitle}{{Finno-ugorskie i samodijskie jazyki}}
   \field{pages}{301\bibrangedash 315}
@@ -6849,44 +7046,29 @@
   \field{year}{1966}
 \endentry
 
-\entry{lytkin1966a}{incollection}{}
-  \name{author}{1}{}{%
+\entry{macauley1992b}{collection}{}
+  \name{editor}{1}{}{%
     {{}%
-     {Lytkin}{L.}%
-     {Vasilij~I.}{V.~I.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Lytkin}{L.}%
-     {Vasilij~I.}{V.~I.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Majtinskaja}{M.}%
-     {Klara~E.}{K.~E.}%
+     {MacAulay}{M.}%
+     {Donald}{D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Nauka}%
+    {Cambridge University Press}%
   }
-  \keyw{Language description;Komi;Uralic}
-  \strng{namehash}{LVI1}
-  \strng{fullhash}{LVI1}
-  \field{labelyear}{1966}
-  \field{extrayear}{2}
-  \field{sortinit}{L}
-  \field{booktitle}{Finno-ugorskie i samodijskie jazyki}
-  \field{maintitle}{Jazyki narodov {SSSR}}
-  \field{pages}{281\bibrangedash 299}
-  \field{title}{{{Komi}-{Z}}yrjanskij jazyk}
-  \field{volume}{3}
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{labelyear}{1992}
+  \field{extrayear}{1}
+  \field{sortinit}{M}
+  \field{booktitle}{The {C}eltic languages}
+  \field{series}{Cambridge Language Surveys}
+  \field{title}{The {C}eltic languages}
   \list{location}{1}{%
-    {Moskva}%
+    {Cambridge}%
   }
-  \field{year}{1966}
+  \field{year}{1992}
 \endentry
 
 \entry{macauley1992}{incollection}{}
@@ -6907,9 +7089,11 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{MD1}
   \strng{fullhash}{MD1}
   \field{labelyear}{1992}
+  \field{extrayear}{2}
   \field{sortinit}{M}
   \field{booktitle}{The {C}eltic languages}
   \field{pages}{137\bibrangedash 248}
@@ -6963,6 +7147,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{MZM1}
   \strng{fullhash}{MZM1}
   \field{labelyear}{2000}
@@ -6996,6 +7181,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{MPT1}
   \strng{fullhash}{MPT1}
   \field{labelyear}{2000}
@@ -7033,6 +7219,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{MPT1}
   \strng{fullhash}{MPT1}
   \field{labelyear}{2000}
@@ -7263,7 +7450,7 @@
 \entry{marusic-etal2007}{article}{}
   \name{author}{2}{}{%
     {{}%
-     {Maru~šič}{M.~�.}%
+     {Marušič}{M.}%
      {Franc}{F.}%
      {}{}%
      {}{}}%
@@ -7273,14 +7460,14 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{M�F�R1}
-  \strng{fullhash}{M�F�R1}
+  \strng{namehash}{MF�R1}
+  \strng{fullhash}{MF�R1}
   \field{labelyear}{2007}
   \field{extrayear}{1}
   \field{sortinit}{M}
   \field{number}{1-2}
   \field{pages}{223\bibrangedash 247}
-  \field{title}{O določnem ta v pogovorni sloven ščini (z navezavo na
+  \field{title}{O določnem ta v pogovorni slovenščini (z navezavo na
   določno obliko pridevnika)}
   \field{volume}{55}
   \field{journaltitle}{Slavistična revija}
@@ -7290,7 +7477,7 @@
 \entry{marusic-etal2007b}{article}{}
   \name{author}{2}{}{%
     {{}%
-     {Maru~šič}{M.~�.}%
+     {Marušič}{M.}%
      {Franc}{F.}%
      {}{}%
      {}{}}%
@@ -7300,8 +7487,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{M�F�R1}
-  \strng{fullhash}{M�F�R1}
+  \strng{namehash}{MF�R1}
+  \strng{fullhash}{MF�R1}
   \field{labelyear}{2007}
   \field{extrayear}{2}
   \field{sortinit}{M}
@@ -7540,7 +7727,7 @@
   \strng{fullhash}{MI1}
   \field{labelyear}{1998}
   \field{sortinit}{M}
-  \field{maintitle}{Kurs ob ščej morfologii}
+  \field{maintitle}{Kurs obščej morfologii}
   \field{title}{Morfologičeskie značenija}
   \field{volume}{2}
   \list{location}{1}{%
@@ -7863,6 +8050,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vonogradovEtAl2001a}
   \strng{namehash}{NIV1}
   \strng{fullhash}{NIV1}
   \field{labelyear}{2001}
@@ -8042,7 +8230,7 @@
   \field{sortinit}{N}
   \field{title}{Samisk grammatikk}
   \list{location}{1}{%
-    {Kárá šjohka}%
+    {Kárášjohka}%
   }
   \field{year}{1996}
 \endentry
@@ -8225,6 +8413,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{jarceva1997}
   \strng{namehash}{NIA1}
   \strng{fullhash}{NIA1}
   \field{labelyear}{1997}
@@ -8357,6 +8546,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vonogradovEtAl2001a}
   \strng{namehash}{OTI1}
   \strng{fullhash}{OTI1}
   \field{labelyear}{2001}
@@ -8533,9 +8723,9 @@
   \field{labelyear}{1985}
   \field{sortinit}{P}
   \field{booktitle}{Issledovanija po fonetike, morfologii i frazeologii
-  sovremennogo čuva šskogo jazyka}
+  sovremennogo čuvašskogo jazyka}
   \field{pages}{3\bibrangedash 15}
-  \field{title}{Kategorija vydelenija v sovremennom čuva šskom jazyke}
+  \field{title}{Kategorija vydelenija v sovremennom čuvašskom jazyke}
   \list{location}{1}{%
     {{\v C}eboksary}%
   }
@@ -8772,7 +8962,7 @@
   }
   \name{editor}{1}{}{%
     {{}%
-     {Teni~šev}{T.~�.}%
+     {Tenišev}{T.}%
      {{\.E}dgem~R.}{{\.E}.~R.}%
      {}{}%
      {}{}}%
@@ -8780,6 +8970,7 @@
   \list{publisher}{1}{%
     {Indrik}%
   }
+  \strng{crossref}{tenisev1997a}
   \strng{namehash}{PLA1}
   \strng{fullhash}{PLA1}
   \field{labelyear}{1997}
@@ -8981,6 +9172,35 @@
     {Christiania}%
   }
   \field{year}{1893}
+\endentry
+
+\entry{ramatEtAl1998a}{collection}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Ramat}{R.}%
+     {Anna~Giacalone}{A.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ramat}{R.}%
+     {Paolo}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{RAGRP1}
+  \strng{fullhash}{RAGRP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{R}
+  \field{booktitle}{The {{I}ndo-{{E}}}uropean languages}
+  \field{series}{Routledge Language Family Series}
+  \field{title}{The {{I}ndo-{{E}}}uropean languages}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1998}
 \endentry
 
 \entry{rastorgueva1963}{book}{}
@@ -9672,6 +9892,7 @@
   \list{publisher}{1}{%
     {IJALII}%
   }
+  \strng{crossref}{gamzatov2000}
   \strng{namehash}{SPA1}
   \strng{fullhash}{SPA1}
   \field{labelyear}{2000}
@@ -9740,6 +9961,7 @@
     {Routledge}%
   }
   \keyw{language description}
+  \strng{crossref}{abondolo1998a}
   \strng{namehash}{ST1}
   \strng{fullhash}{ST1}
   \field{labelyear}{1998}
@@ -9828,7 +10050,7 @@
   \field{subtitle}{An introduction}
   \field{title}{The {S}aami languages}
   \list{location}{1}{%
-    {Kárá šjohka}%
+    {Kárášjohka}%
   }
   \field{year}{1998}
 \endentry
@@ -9950,6 +10172,7 @@
   \list{publisher}{1}{%
     {Novus}%
   }
+  \strng{crossref}{vangsnesEtAl2003a}
   \strng{namehash}{SGHA1}
   \strng{fullhash}{SGHA1}
   \field{labelyear}{2003}
@@ -10628,6 +10851,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{ramatEtAl1998a}
   \strng{namehash}{SD3}
   \strng{fullhash}{SD3}
   \field{labelyear}{1998}
@@ -10747,6 +10971,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{SE1}
   \strng{fullhash}{SE1}
   \field{labelyear}{2003}
@@ -10779,6 +11004,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{SKW1}
   \strng{fullhash}{SKW1}
   \field{labelyear}{2003}
@@ -11097,6 +11323,7 @@
   \list{publisher}{1}{%
     {Nauka}%
   }
+  \strng{crossref}{vinogradovEtAl1968a}
   \strng{namehash}{SOP1}
   \strng{fullhash}{SOP1}
   \field{labelyear}{1968}
@@ -11158,6 +11385,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{SJO1}
   \strng{fullhash}{SJO1}
   \field{labelyear}{2003}
@@ -11337,6 +11565,30 @@
   \field{year}{1966}
 \endentry
 
+\entry{tenisev1997a}{collection}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Tenišev}{T.}%
+     {{\.E}dgem~R.}{{\.E}.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indrik}%
+  }
+  \strng{namehash}{TER1}
+  \strng{fullhash}{TER1}
+  \field{labelyear}{1997}
+  \field{sortinit}{T}
+  \field{booktitle}{Tjurkskie jazyki}
+  \field{series}{Jazyki mira}
+  \field{title}{Tjurkskie jazyki}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1997}
+\endentry
+
 \entry{tenser2005}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -11379,6 +11631,7 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{TE1}
   \strng{fullhash}{TE1}
   \field{labelyear}{1992}
@@ -11445,6 +11698,7 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{TAR1}
   \strng{fullhash}{TAR1}
   \field{labelyear}{1992}
@@ -11478,6 +11732,7 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{TAR1}
   \strng{fullhash}{TAR1}
   \field{labelyear}{1992}
@@ -11511,6 +11766,7 @@
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
+  \strng{crossref}{macauley1992b}
   \strng{namehash}{TRL1}
   \strng{fullhash}{TRL1}
   \field{labelyear}{1992}
@@ -11615,7 +11871,7 @@
   \strng{fullhash}{TLG1}
   \field{labelyear}{1998}
   \field{sortinit}{T}
-  \field{title}{{Gramática didáctica del Espa{\~n}ol}}
+  \field{title}{{Gramática didáctica del Español}}
   \list{location}{1}{%
     {Madrid}%
   }
@@ -11679,6 +11935,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{TT1}
   \strng{fullhash}{TT1}
   \field{labelyear}{2003}
@@ -11948,6 +12205,41 @@
   \field{year}{1935}
 \endentry
 
+\entry{vangsnesEtAl2003a}{collection}{}
+  \name{editor}{3}{}{%
+    {{}%
+     {Vangsnes}{V.}%
+     {{\O}ystein~A.}{{\O}.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holmberg}{H.}%
+     {Anders}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delsing}{D.}%
+     {Lars-Olof}{L.-O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Novus}%
+  }
+  \strng{namehash}{VOAHADLO1}
+  \strng{fullhash}{VOAHADLO1}
+  \field{labelyear}{2003}
+  \field{sortinit}{V}
+  \field{booktitle}{Dialektsyntaktiska studier av den nordiska nominalfrasen}
+  \field{number}{22}
+  \field{series}{Troms{ø}-studier i språkvitenskap}
+  \field{title}{Dialektsyntaktiska studier av den nordiska nominalfrasen}
+  \list{location}{1}{%
+    {Troms{ø}}%
+  }
+  \field{year}{2003}
+\endentry
+
 \entry{viitso1998}{incollection}{}
   \name{author}{1}{}{%
     {{}%
@@ -11966,6 +12258,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{abondolo1998a}
   \strng{namehash}{VTR1}
   \strng{fullhash}{VTR1}
   \field{labelyear}{1998}
@@ -11978,6 +12271,68 @@
     {London}%
   }
   \field{year}{1998}
+\endentry
+
+\entry{vonogradovEtAl2001a}{collection}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Vinogradov}{V.}%
+     {Viktor~A.}{V.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jarceva}{J.}%
+     {Viktorija~N.}{V.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nauka}%
+  }
+  \strng{namehash}{VVAJVN1}
+  \strng{fullhash}{VVAJVN1}
+  \field{labelyear}{2001}
+  \field{sortinit}{V}
+  \field{booktitle}{Jazyki Rossijskoj Federacii i sosednich gosudarstv}
+  \field{subtitle}{{\.E}nciklopedija v trech tomach}
+  \field{title}{Jazyki Rossijskoj Federacii i sosednich gosudarstv}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{vinogradovEtAl1968a}{collection}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Vinogradov}{V.}%
+     {Viktor~V.}{V.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skorik}{S.}%
+     {Petr~Ja.}{P.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nauka}%
+  }
+  \strng{namehash}{VVVSPJ1}
+  \strng{fullhash}{VVVSPJ1}
+  \field{labelyear}{1968}
+  \field{sortinit}{V}
+  \field{booktitle}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
+  \field{number}{5}
+  \field{series}{Jazyki narodov SSSR}
+  \field{title}{{Mongol}'skie, tunguso-man'\-čžur\-skie i paleoaziatskie
+  jazyki}
+  \list{location}{1}{%
+    {Moskva}%
+  }
+  \field{year}{1968}
 \endentry
 
 \entry{volodin1997}{incollection}{}
@@ -12061,6 +12416,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{ramatEtAl1998a}
   \strng{namehash}{WC1}
   \strng{fullhash}{WC1}
   \field{labelyear}{1998}
@@ -12094,6 +12450,7 @@
   \list{publisher}{1}{%
     {Routledge}%
   }
+  \strng{crossref}{janhunen2003a}
   \strng{namehash}{WM1}
   \strng{fullhash}{WM1}
   \field{labelyear}{2003}
@@ -12448,7 +12805,7 @@
   \strng{fullhash}{ZRAKMN1}
   \field{labelyear}{1964}
   \field{sortinit}{Z}
-  \field{title}{Grammatika mordovskich (mok šanskogo i {\. {E}}rzjanskogo)
+  \field{title}{Grammatika mordovskich (mokšanskogo i {\. {E}}rzjanskogo)
   jazykov}
   \list{location}{1}{%
     {Moskva}%
@@ -12559,7 +12916,7 @@
 \entry{zuniga2000}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Z{\'u}{\~n}iga}{Z.}%
+     {Zúñiga}{Z.}%
      {Fernando}{F.}%
      {}{}%
      {}{}}%
