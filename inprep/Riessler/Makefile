@@ -70,8 +70,7 @@ createspace/createspacecontent.pdf: complete
 	xelatex createspacecover.tex 
 	xelatex createspacecover.tex 
 	mv createspacecover.pdf createspace
-	./filluppages 1 riessler.pdf createspace/createspacecontent.pdf 
-
+	c
 googlebooks: googlebooks_interior.pdf
 
 googlebooks_interior.pdf: complete
